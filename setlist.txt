@@ -1,0 +1,11 @@
+songs/BlazeOn.chopro
+songs/BoogieOnReggaeWoman.chopro
+songs/Bug.chopro
+songs/Dirt.chopro
+songs/EverythingsRight.chopro
+songs/IfICould.chopro
+songs/LovingCup.chopro
+songs/More.chopro
+songs/MountainsInTheMist.chopro
+songs/Possum.chopro
+songs/Waste.chopro
