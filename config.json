@@ -463,7 +463,7 @@
 	      "title"     : [ "", "%{title}", "" ],
 	      "subtitle"  : [ "", "%{subtitle}", "" ],
 	      // Footer with page number.
-	      "footer"    : [ "Key: %{key}", "Tempo: %{tempo} BPM", "%{page}" ],
+	      "footer"    : ["%{key|Key: %{key}}", "%{tempo|Tempo: %{tempo} BPM}", "%{page}" ],
 	      // Background page.
 	      "background" : "",
 	  },
@@ -471,7 +471,7 @@
 	  "first" : {
 	      // It has title and subtitle, like normal 'first' pages.
 	      // But no footer.
-	      "footer"    : [ "Key: %{key}", "Tempo: %{tempo} BPM", "%{page}" ],
+	      "footer"    : ["%{key|Key: %{key}}", "%{tempo|Tempo: %{tempo} BPM}", "%{page}" ],
 	      // Background page.
 	      "background" : "",
 	  },
@@ -569,6 +569,10 @@
 	      "name" : "Helvetica",
 	      "size" : 11
 	  },
+        "footer" : {
+          "name" : "Helvetica",
+          "size" : 10
+        },
 	  "grid" : {
 	      "name" : "Helvetica",
 	      "size" : 10
