@@ -1,6 +1,11 @@
 # setlists
 
 ## To Do: Phase I
+* Determine correct use of command line --meta argument.
+* Decide how to format "performance notes"
+  * {start_of_notes}? (this allows attaching formatting, maybe)
+  * {start_of_kevin} (kevin-specific formatting?)
+  * Use command-line meta to include/exclude? 
 * Provide complete formatting for BlazeOn
   * chords
   * solo sections
