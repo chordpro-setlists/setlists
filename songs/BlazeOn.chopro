@@ -3,19 +3,16 @@
 {key: C}
 {tempo: 100}
 
-{sov: Intro}
-|C /// | C /// | G /// | C /// |
-{eov}
 
 {sov: V1}
-Climb that hill, stay on your feet
-Scramble for your footing when it gets too steep
-You're on the highway now with higher hopes
-While all around are rolling eggs with living yokes
-You never get too sad, you never get too blue
-It must be all the chemtrails raining down on you
-The justice of the peace can't help you anymore
-And they just took the covers off the justice of war
+[C]Climb that hill, stay on your feet
+[G]Scramble for your footing when it [C]gets too steep
+[C]You're on the highway now with higher hopes
+While [G]all around are rolling eggs with [C]living yokes
+[C]You never [F]get too sad, you never [C]get too blue
+It [G]must be all the chemtrails raining [C]down on you
+[C]The justice of the [F]peace can't help you [C]anymore
+And [G]they just took the covers off the [C]justice of war
 {eov}
 
 {sov: Chorus}
@@ -26,7 +23,7 @@ So now the band plays on you've got one life, blaze on
 {eov}
 
 {textcolor: blue}
-(Short Break: "Leo!" | C G C / F C G C |)
+(Break: "Leo!" | C G C / F C G C |)
 {textcolor}
 
 {sov: V2}
