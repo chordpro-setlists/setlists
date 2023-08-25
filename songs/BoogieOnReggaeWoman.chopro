@@ -11,7 +11,7 @@
 [A]I'd like to make love to you, [D]so you can make me [G]scream
 {eov}
 
-{sov: Chorus}
+{sov: <span>Chorus     </span>}
 [G]Boogie on reggae [A]woman, [C]what is wrong with [F]me?
 Boogie on [A]reggae woman, [D]baby can you [G]see?
 {eov}
@@ -25,23 +25,21 @@ I'd like to see you in the raw under the stars above
 
 <i>Chorus</i>
 
-{sov: Solo}
-<i>Guitar solo over changes.</i>
-{eov}
+{sot: Solo}
+Guitar solo over changes.
+{eot}
 
 <i>Chorus</i>
 
-{sov: Solo}
-<i>Klavinet solo, staying in G</i>
-{eov}
+{sot: Solo}
+Klavinet solo, staying in G.
+{eot}
 
-{sov: Outro}
-<i>Repeat chorus.</i>
-<i>End: G riff x 4</i>
-{eov}
+{sot: Outro}
+Repeat chorus.
+End: G riff x 4
+{eot}
 
-{sov: Reference}
-{textcolour: blue}
+{sot: Notes}
 Hampton, 1998 (https://www.youtube.com/watch?v=q6IMshcg-ow)
-{textcolour}
-{eov}
+{eot}

@@ -3,10 +3,10 @@
 {key: G}
 {tempo: 77}
 
-{sov: Intro}
-<i>Drummer count in.</i>
-<i>| G F C G | G F C G |</i>
-{eov}
+{sot: Intro}
+Drummer count in.
+| G F C G | G F C G |
+{eot}
 
 {sov: V1}
 [G]There've been times that I've [F]wondered, and [C]times that I [G]don't.
@@ -15,10 +15,10 @@
 [G]Which did you [F]think I meant? [C]It doesn't [G]matter to me.
 {eov}
 
-{sov: Bridge:1}
-<i>Instrumental: | G F C G | G F C G |</i>
-<i>Ends in F to start chorus.</i>
-{eov}
+{sot: <span>Bridge:1    </span>}
+Instrumental: | G F C G | G F C G |
+Ends in F to start chorus.
+{eot}
 
 {sov: Chorus}
 [F]Bug, [C]Don't need it.[G] [F]Bug, [C]Don't feed it.[G] [F]Bug, Thoughts [C]faded. [F] [C]Over[G]rated
@@ -39,16 +39,14 @@ Which did you think I meant? Nothing I see can be taken from me.
 [G]It doesn't matter x 4
 {eov}
 
-{sov: Jam}
-<i>Jam in G</i>
-{eov}
+{sot: Jam}
+Jam in G
+{eot}
 
-{sov: Outro}
-<i>Bridge:2, four times, to end.</i>
-{eov}
+{sot: Outro}
+Bridge:2, four times, to end.
+{eot}
 
-{sov: Reference}
-{textcolour: blue}
+{sot: Notes}
 6/4/2022 (https://www.youtube.com/watch?v=KmdKUyWLd8s)
-{textcolour}
-{eov}
+{eot}

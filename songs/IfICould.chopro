@@ -2,39 +2,38 @@
 {st:Phish}
 {key: G}
 {tempo: 88}
+{define: "D11*"}
 
-G      B7    C       G            G
-Take me to another place she said,
-F          C          D11*
-take me to another time
-G      B7     C       G
-Run with me across the oceans,
-F            C      D      A  C  C/B  Am
-float me on a silver cloud--------------.
+{sov: V1}
+[G]Take me [B7]to an[C]other [G]place she said,
+[F]Take me to [C]another [D11*]time
+[G]Run with [B7]me [C]across the [G]oceans,
+[F]Float me on a [C]silver [D]cloud [A] [C] [Am]
+{eov}
 
-G                  C
-If i could i would, but i don't know how,
-G                 C
-if i could i would, but i don't know how
-Bm           C                       D  C  C/B  Am   G
-If i could i would, and i'd take you now
+{sov: Chorus}
+[G]If I could I [C]would, but I don't know how,
+[G]If I could I [C]would, but I don't know how
+[Bm]If I could I [C]would, and I'd take you [D]now
+{eov}
 
-{c: G9 arpeggio}
+{sot: Interlude <span>    </span>}
+G9 arpeggio
+{eot}
 
+{sov: V2}
 Stay with me till time turns over
-I wanna feel me feet leave the ground
+I wanna feel my feet leave the ground
 Take me where the whispering breezes can
-lift me up and spin me around...
+Lift me up and spin me around
+{eov}
 
-If i could i would, but i don't know how,
-if i could i would, but i don't know how
-If i could i would, and i'd take you now
+<i>Chorus</i>
 
-D          A             C         G
-Hear you laughing as we go (i'd take you now )
-D         A                  C                  G
-Flipping backwards through the doors and through the windows (i'd take you now )
-D            A                   C  C/B  Am
-         I'm melting into nothing
+{sov: V3}
+[D]Hear you [A]laughing as we [C]go (i'd take you [G]now )
+[D]Flipping [A]backwards through the [C]doors and through [G]the windows (i'd take you now )
+[D]    [A]         I'm melting into [C]nothing [Am]
+{eov}
 
-{c: Chorus 2x}
+<i>Chorus 2x</i>

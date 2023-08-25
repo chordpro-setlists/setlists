@@ -58,6 +58,11 @@
       "format": "%A, %B %e, %Y"
     }
   },
+  "diagrams": {
+    "show": "none",
+    "sorted": false,
+    "suppress": []
+  },
   // User settings. These are usually set by a separate config file.
   //
   "user": {
@@ -71,7 +76,7 @@
         "songindex"
       ],
       "label": "Setlist %{setlist}",
-      "line": "%{songindex} %{title}",
+      "line": "%{songindex} <span>   </span> %{title}",
       "pageno": "%{key}",
       "fold": false,
       "omit": false
@@ -325,12 +330,13 @@
         "size": 14
       },
       "text": {
-        "name": "Helvetica",
+        "name": "Helvetica-Bold",
         "size": 12
       },
       "chord": {
-        "name": "Helvetica-Oblique",
-        "size": 10
+        "name": "Helvetica",
+        "size": 10,
+        "color": "blue"
       },
       "chordfingers": {
         "file": "ChordProSymbols.ttf",
@@ -352,8 +358,8 @@
         "frame": 1
       },
       "tab": {
-        "name": "Courier",
-        "size": 10
+        "name": "Helvetica",
+        "size": 12
       },
       "toc": {
         "name": "Helvetica",
