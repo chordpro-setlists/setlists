@@ -3,39 +3,52 @@
 {key: G}
 {tempo: 77}
 
-There've been times that I've wondered
-And times that I don't
-Concepts I'll ponder
-And concepts I won't ever see
-God is not one of these
-Former or latter
-Which did you think I meant
-It doesn't matter to me
+{sov: Intro}
+<i>Drummer count in.</i>
+<i>| G F C G | G F C G |</i>
+{eov}
 
-Bug, Don't need it
-Bug, Don't feed it
-Bug, Thoughts faded
-Overrated
+{sov: V1}
+[G]There've been times that I've [F]wondered, and [C]times that I [G]don't.
+[G]Concepts I'll [F]ponder, and [C]concepts I won't ever [G]see
+[G]God is not [F]one of these, [C]former or [G]latter
+[G]Which did you [F]think I meant? [C]It doesn't [G]matter to me.
+{eov}
 
+{sov: Bridge:1}
+<i>Instrumental: | G F C G | G F C G |</i>
+<i>Ends in F to start chorus.</i>
+{eov}
 
-Gold in my hand
-In a country pool
-Standing and waving
-The rain, wind on the runway
-Spending or saving
-Credit or death
-Which did you think I meant
-Nothing I see can be taken from me
+{sov: Chorus}
+[F]Bug, [C]Don't need it.[G] [F]Bug, [C]Don't feed it.[G] [F]Bug, Thoughts [C]faded. [F] [C]Over[G]rated
+{eov}
 
-|: G F C G :|
+{sov: V2}
+Gold in my hand in a country pool
+Standing and waving, the rain, wind on the runway
+Spending or saving, credit or death
+Which did you think I meant? Nothing I see can be taken from me.
+{eov}
 
-Structure:
-Riff1
-Verse1
-Descending line x 2 -> Chorus
-Riff1 over Verse2
-(Add wah) Descending line x 2 -> Chorus (No wah)
-RIff2 x 2 -> It Doesn't Matter x 4
-Riff 3 (14th fret)
-JAM
-End with It Doesn't Matter along with Riff2 x 4
+<i>Bridge:1</i>
+
+<i>Chorus</i>
+
+{sov: Bridge:2}
+[G]It doesn't matter x 4
+{eov}
+
+{sov: Jam}
+<i>Jam in G</i>
+{eov}
+
+{sov: Outro}
+<i>Bridge:2, four times, to end.</i>
+{eov}
+
+{sov: Reference}
+{textcolour: blue}
+6/4/2022 (https://www.youtube.com/watch?v=KmdKUyWLd8s)
+{textcolour}
+{eov}

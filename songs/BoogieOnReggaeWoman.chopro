@@ -2,27 +2,46 @@
 {st:Stevie Wonder}
 {key: G}
 {tempo: 107}
+{define "walk down to A"}
 
-I like to see you boogie right across the floor,
-I like to do it to you til you holler for more
-I like to reggae but you dance too fast for me,
-I'd like to make love to you, so you can make me scream
+{sov: V1}
+[G]I like to see you boogie right across the [C]floor,  [walk down to A]
+[A]I like to do it to you [D]til you holler for [G]more
+[G]I like to reggae but you dance too fast for [C]me, [walk down to A]
+[A]I'd like to make love to you, [D]so you can make me [G]scream
+{eov}
 
-Boogie on reggae woman, what is wrong with me?
-Boogie on reggae woman, baby can you see?
+{sov: Chorus}
+[G]Boogie on reggae [A]woman, [C]what is wrong with [F]me?
+Boogie on [A]reggae woman, [D]baby can you [G]see?
+{eov}
 
+{sov: V2}
 I'd like to see both of us fall deeply in love
 I'd like to see you under, under the stars above
 I'd like to see us both fall deeply in love
 I'd like to see you in the raw under the stars above
+{eov}
 
-Boogie on reggae woman, what is wrong with you?
-Boogie on reggae woman, what ya tryin' to do?
+<i>Chorus</i>
 
-Boogie on reggae woman, what is wrong with me?
-Boogie on reggae woman, what ya tryin' to prove?
-Boogie on reggae woman, let me do it to you!
-Boogie on reggae woman,  what ya tryin' to do?
+{sov: Solo}
+<i>Guitar solo over changes.</i>
+{eov}
 
-|: A D B E A :|
-|: A B D G | G B E A |
+<i>Chorus</i>
+
+{sov: Solo}
+<i>Klavinet solo, staying in G</i>
+{eov}
+
+{sov: Outro}
+<i>Repeat chorus.</i>
+<i>End: G riff x 4</i>
+{eov}
+
+{sov: Reference}
+{textcolour: blue}
+Hampton, 1998 (https://www.youtube.com/watch?v=q6IMshcg-ow)
+{textcolour}
+{eov}
