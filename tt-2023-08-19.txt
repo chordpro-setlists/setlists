@@ -1,0 +1,5 @@
+songs/Bug.chopro
+songs/BoogieOnReggaeWoman.chopro
+songs/EverythingsRight.chopro
+songs/Dirt.chopro
+songs/LovingCup.chopro

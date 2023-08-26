@@ -2,45 +2,58 @@
 {st: Rolling Stones}
 {key: D}
 {tempo: 90}
+{textsize: 11}
+{tabsize: 11}
 
-I'm the man on the mountain, come on up
-I'm the plowman in the valley with a face full of mud
-Yes I am fumbling and I know my car won't start
-Yes I am stumbling and I know I play a bad guitar
+{sot: Intro}
+Piano: | G C | G C |
+{eot}
 
-Give me little drink from your loving cup
-Just one drink and I'll fall down drunk
+{sov: V1}
+[D]I'm the man on the [C]mountain, come on [G]up
+[D]I'm the plowman in the [C]valley with a face full of [G]mud
+Yes I am [C]fumbling and I know my car won't [G]start
+Yes I am [C]stumbling and I know I play a bad gui[G]tar
+[D]Give me little [C]drink from your loving [G]cup
+[D]Just one [C]drink and I'll fall down[G] .... drunk
+{eov}
 
+{sov: V2}
 I'm the man who walks the hillside in the sweet summer sun
 I'm the man who brings you roses when you ain't got none
 Well, I can run and jump and fish, but I won't fight
 You if you want to push and pull with me all night
-
 Give me little drink from your loving cup
 Just one drink and I'll fall down drunk
+{eov}
 
-I feel so humble with you tonight just sitting in front of the fire
+{sov: Bridge}
+[Em]I feel so humble with [Bm]you tonight just [C]sitting in front of the [G]fire
+[Bm]See your face dancing in the flame, feel your mouth kissing me again
+[Bm]What a beautiful buzz, what a beautiful [D]buzz
+What a beautiful [C]buzz, what a beautiful [G]buzz
+[D]Ohhhhh, what a beautiful [C]buzz, what a beautiful [G]buzz
+{eov}
 
-See your face dancing in the flame, feel your mouth kissing me again
-What a beautiful buzz, what a beautiful buzz
-What a beautiful buzz, what a beautiful buzz
-Ohhhhh, what a beautiful buzz, what a beautiful buzz
-
-Yes, I am nitty gritty and my shirt's all torn
-But I would love to spill the beans with you till dawn
-
+{sov: V3}
+[G]Yes, I am [C]nitty gritty and my shirt's all [G]torn
+But I would [C]love to spill the beans with you till [G]dawn
 Give me little drink from your loving cup
-Just one drink and I'll fall down drunk
+Just one drink and I'll fall down ...drunk
+{eov}
 
-Gimme little drink (...)
+{sov: B2}
+Gimme little drink x many
+{eov}
 
-Ohhhhhh, what a beautiful buzz, what a beautiful buzz (...)
+{sov: Lead}
+Guitar lead in G.
+{eov}
 
+{sov: Outro}
+[D]Oh, what a beautiful [C]buzz, what a beautiful [G]buzz (x4)
+{eov}
 
-|: D C G / :|
-| C G C G |
-|: F C / G :|
-| Em Bm C G |
-| Bb \ \ \ |
-| Bb \ \ D |
-| D C G \ |
+{sot: Notes}
+7/9/16 (https://www.youtube.com/watch?v=zgQwAVHKrnU)
+{eot}

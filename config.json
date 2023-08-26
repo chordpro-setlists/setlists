@@ -334,8 +334,8 @@
         "size": 12
       },
       "chord": {
-        "name": "Helvetica",
-        "size": 10,
+        "name": "Helvetica-Bold",
+        "size": 12,
         "color": "blue"
       },
       "chordfingers": {
