@@ -19,7 +19,7 @@ jobs:
 
       - name: Install ChordPro from CPAN
         run: |
-          cpan install ChordPro
+          sudo cpan install ChordPro
         env:
           PERL_CPANM_OPT: "--notest"
 
