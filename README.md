@@ -1,10 +1,27 @@
 # setlists
 
 # Requirements
-* Provide single source for lyrics/no-lyrics.
-* Provide multisong PDF plus individual songs. 
-* Include key of song and reference version information.
-* Provide historical record of arrangements for future reference.
+
+Old approach:
+* Philip creates "Setlist notes page" (song order, key, links).
+* Philip creates personal OnSong files.
+* Kevin creates multiple versions of PDF of setlist with performance notes.
+
+Problems with old approach
+* Multiple, potentially inconsistent "sources of truth" (PJ vs. KH versions).
+* KH version not appropriate for Philip (and vice versa)
+* Some information "lost" (setlist notes page performance notes vs. PDF)
+
+Goals of new approach
+* Single source of truth
+  * One file used to generate KH and PJ appropriate versions.
+* Comprehensive 
+  * Song file contains all of PJ's setlist notes page.
+* New features
+  * Easily accessible historical record of songs/setlists/etc.
+  * PDF setlist contains key signature list on TOC, tempo information.
+  * Multiple editors (both PJ and KH can collaborate on file) 
+
 
 ## To Do
 * Implement a GitHub action to run a gh-pages for the setlists/ directory.
