@@ -25,4 +25,6 @@ jobs:
 
       - name: Run ChordPro
         run: |
-          find . -maxdepth 1 -name "*.chopro" -exec chordpro {} \;
+          chordpro --version
+          chmod +x make-setlist.sh
+          ./make-setlist.sh
