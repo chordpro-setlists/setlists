@@ -1,0 +1,28 @@
+name: ChordPro Workflow
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Set up Perl
+        uses: shogo82148/actions-setup-perl@v1
+        with:
+          perl-version: '5.32'
+
+      - name: Install ChordPro from CPAN
+        run: |
+          cpanm ChordPro
+        env:
+          PERL_CPANM_OPT: "--notest"
+
+      - name: Run ChordPro
+        run: |
+          find . -maxdepth 1 -name "*.chopro" -exec chordpro {} \;
