@@ -14,6 +14,10 @@ Next, Philip creates a "personal" version of the song in chopro format, that he 
 
 Finally, Kevin creates a setlist for distribution to other members of the band which includes the chords as well as performance notes. This PDF file typically goes through a series of versions as new performance notes are added after rehearsals.
 
+Here's a screen image showing these various sources of setlist info:
+
+![](README-old.png)
+
 This approach yields significant problems:
 * Philip's Google Doc and ChoPro files and Kevin's PDF files represent multiple, potentially inconsistent "sources of truth". They have been inconsistent on numerous occasions.
 * We can't get rid of multiple versions: Philip does not want a cluttered page while others want the chord diagrams. 
