@@ -1,6 +1,5 @@
 #!/bin/bash
 
-# CHORDPRO=~/github/chordpro/chordpro/script/chordpro
 SETLIST="hsj-2023-08-19"
 VERSION="1"
 mkdir -p setlists/$SETLIST
