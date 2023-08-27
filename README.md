@@ -8,25 +8,25 @@ The goal of ChordPro-SetLists is to provide a simple way to produce setlist PDF 
 
 In our band, setlist chart creation and management has been an overly complex and error-prone process: 
 
-First, Philip creates a Google Doc "Setlist notes page". This page contains the list of proposed songs, in order, along with notes (who sings, what key, notes about the structure of the tune), a link to a reference performance of the tune, and a link to a "vanilla" PDF version of the tune.  This document is made available to the band.
+First, Philip created a Google Doc "Setlist notes page". This page contains the list of proposed songs, in order, along with notes (who sings, what key, notes about the structure of the tune), a link to a reference performance of the tune, and a link to a "vanilla" PDF version of the tune.  This document is made available to the band.
 
-Next, Philip creates a "personal" version of the song in chopro format, that he imports into the OnSong app for display during performance. Importantly, this version is lyrics-only, no chords, although it may include performance notes such as who solos when.
+Next, Philip created a "personal" version of the song in chopro format, that he imported into the OnSong app for display during performance. Importantly, this version is lyrics-only, no chords, although it may include performance notes such as who solos when.
 
-Finally, Kevin creates a setlist for distribution to other members of the band which includes the chords as well as performance notes. This PDF file typically goes through a series of versions as new performance notes are added after rehearsals.
+Finally, Kevin created a PDF version of the setlist for distribution to other members of the band which includes the chords as well as performance notes. This PDF file typically goes through a series of versions as new performance notes are added after rehearsals.
 
 Here's a screen image showing these various sources of setlist info:
 
 ![](README-old.png)
 
-This approach yields significant problems:
-* The "Setlist Notes", "OnSong", and "PDF" documents represent multiple, potentially inconsistent "sources of truth". They have been inconsistent on numerous occasions.
-* Some information gets "lost" altogether (for example, neither version results in a convenient listing of songs and key signature, which is originally present in Philip's Google Doc).
+This approach yields two significant problems:
+1. The "Setlist Notes", "OnSong", and "PDF" documents represent multiple, potentially inconsistent "sources of truth". They have been inconsistent on numerous occasions.
+2. Some information gets "lost" altogether (for example, neither version results in a convenient listing of songs and key signature, which is originally present in Philip's Google Doc).
 
 ### How chordpro-setlists helps
 
-chordpro-setlists is designed to address these problems. 
+ChordPro-SetLists is designed to address these problems. 
 
-In chordpro-setlists, there is a songs/ directory that contains ChordPro versions for each song that can appear in the setlist currently under development.  (The songs/ directory can and typically will contain many other songs as well.)
+In ChordPro-SetLists, there is a songs/ directory that contains ChordPro versions for each song that can appear in the setlist currently under development.  (The songs/ directory can and typically will contain many other songs as well.)
 
 Each ChordPro song file contains lyrics, chords, key, tempo, performance notes, and a link to a reference version. It is a complete reference guide to the important aspects of the tune for performance.
 
