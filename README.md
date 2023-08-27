@@ -1,12 +1,12 @@
 # ChordPro-SetLists
 
-The goal of chordpro-setlists is to provide a simple way to produce setlist PDF files in multiple formats (for example, with and without chords). 
+The goal of ChordPro-SetLists is to provide a simple way to produce setlist PDF files in multiple formats to satisfy the differing needs of band members during practice and performance.
 
 ## 1. Motivation
 
 ### How we did it before
 
-In our band, setlist chart creation has been a complex and error-prone process: 
+In our band, setlist chart creation and management has been an overly complex and error-prone process: 
 
 First, Philip creates a Google Doc "Setlist notes page". This page contains the list of proposed songs, in order, along with notes (who sings, what key, notes about the structure of the tune), a link to a reference performance of the tune, and a link to a "vanilla" PDF version of the tune.  This document is made available to the band.
 
@@ -68,7 +68,7 @@ This is ChordPro core 6.020
 
 ### 3.1 Create the setlist songlist file
 
-The first step is creating a .txt file containing a list of songs. For example, the <tt-2023-08-9.txt> file looks like this:
+The first step is creating a .txt file containing a list of songs. For example, the [./tt-2023-08-9.txt] file looks like this:
 
 ```shell
 songs/Bug.chopro
