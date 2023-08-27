@@ -1,0 +1,3 @@
+#!/bin/bash
+# set -x
+perl /Users/philipjohnson/github/chordpro/chordpro/script/chordpro "$@"
