@@ -1,20 +1,22 @@
 {t:Mississippi Halfstep Uptown Toodeloo}
 {st:Grateful Dead}
 
-{c: | C E7 F Am | F C G D7 G7 |}
-{c: | C E7 F Am | F C G Am E7 | }
+{sov: V1}
+{C]On the day when [E7]I was born [F]Daddy sat down and [Am]cried.
+[F]I had the mark just as [C]plain as [G]day; which [D7]could not be [G]denied.
+[C]They say that Cain caught [E7]Abel [F]rolling loaded [Am]dice;
+[F]Ace of Spades be[C]hind his [G]ear and [Am]him not thinkin' [E]twice.
+{eov}
 
-On the day when I was born Daddy sat down and cried.
-I had the mark just as plain as day; which could not be denied.
-They say that Cain caught Abel rolling loaded dice;
-Ace of Spades behind his ear and him not thinkin' twice.
+{sov: Chorus}
+[Am]Half step, Mississippi uptown toodeloo. [F]Hello, baby, I'm [C]gone, [G]goodbye
+[F]Half a cup of [C]Rock and [G]Rye. [F]Farewell to you old [C]Southern [G]skies
+[Am]I'm on my way, [E]on my way.
+{eov}
 
-{c: || Am F C G | F C G | F C G | Am E7 |}
-Half step, Mississippi uptown toodeloo. Hello, baby, I'm gone, goodbye
-Half a cup of Rock and Rye. Farewell to you old Southern skies
-I'm on my way, on my way.
-
-{cb: MV lead}
+{sov: Lead}
+MV Lead
+{eov}
 
 {c: Am / /  D9  | F Dm B7 E7 }
 {c: Am / /  D9  | F Am D7 G7 }
@@ -44,5 +46,3 @@ I'm on my way, on my way.
 Across the Rio Grande, across the lazy river.
 
 {cb: MS lead to end}
-
-

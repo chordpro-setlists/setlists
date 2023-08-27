@@ -20,8 +20,10 @@ jobs:
       - name: Cache CPAN Modules
         uses: actions/cache@v3
         with:
-          path: /usr/local
-          key: perl-${{ steps.perl.outputs.perl-hash }}
+          path: |
+            /home/runner/work/setlists/setlists/local/lib/perl5
+            /opt/hostedtoolcache/perl/5.32.1/x64/lib
+          key: ${{ runner.os }}-setlists
 
       - name: Install ChordPro from CPAN
         run: |
@@ -29,17 +31,16 @@ jobs:
         env:
           PERL_CPANM_OPT: "--notest"
 
-      - name: Run ChordPro and find out where installed
+      - name: Check that ChordPro is installed
         run: |
           chordpro --version
-          perl -V
 
       - name: Make setlists
         run: |
           chmod +x make-setlist.sh
           ./make-setlist.sh
 
-      - name: Publish to GitHub Pages again x 3
+      - name: Publish to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
