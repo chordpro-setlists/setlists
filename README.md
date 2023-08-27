@@ -19,8 +19,7 @@ Here's a screen image showing these various sources of setlist info:
 ![](README-old.png)
 
 This approach yields significant problems:
-* Philip's Google Doc and ChoPro files and Kevin's PDF files represent multiple, potentially inconsistent "sources of truth". They have been inconsistent on numerous occasions.
-* We can't get rid of multiple versions: Philip does not want a cluttered page while others want the chord diagrams. 
+* The "Setlist Notes", "OnSong", and "PDF" documents represent multiple, potentially inconsistent "sources of truth". They have been inconsistent on numerous occasions.
 * Some information gets "lost" altogether (for example, neither version results in a convenient listing of songs and key signature, which is originally present in Philip's Google Doc).
 
 ### How chordpro-setlists helps
@@ -38,6 +37,10 @@ Then you edit the make-setlist.sh file to refer to these two files, and run it.
 Running the make-setlist.sh file creates (or overwrites) a directory and adds to it:
   * Two PDF versions of the setlist, one with and one without the chord information.
   * A subdirectory called "songs/" with two PDF versions for each song, one with and one without chord information.
+
+Here is an example:
+
+![](README-new.png)
 
 Band members can select any combination of these PDF files to download. All of these files are consistent: while some files contain more information than others, there is no inconsistent information.  Have a "single source of truth" produce all PDF files is the first benefit of this approach.
 
