@@ -29,8 +29,10 @@ jobs:
         env:
           PERL_CPANM_OPT: "--notest"
 
-      - name: Run ChordPro
-        run: chordpro --version
+      - name: Run ChordPro and find out where installed
+        run: |
+          chordpro --version
+          perldoc -l ChordPro
 
       - name: Make setlists
         run: |
