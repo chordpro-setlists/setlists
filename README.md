@@ -1,8 +1,10 @@
-# chordpro-setlists
+# ChordPro-SetLists
 
-The goal of the chordpro-setlists program is to provide a simple way to produce setlist PDF files in multiple formats (for example, with and without chords). 
+The goal of chordpro-setlists is to provide a simple way to produce setlist PDF files in multiple formats (for example, with and without chords). 
 
-# Motivation
+## 1. Motivation
+
+### How we did it before
 
 In our band, setlist chart creation has been a complex and error-prone process: 
 
@@ -17,7 +19,7 @@ This approach yields significant problems:
 * We can't get rid of multiple versions: Philip does not want a cluttered page while others want the chord diagrams. 
 * Some information gets "lost" altogether (for example, neither version results in a convenient listing of songs and key signature, which is originally present in Philip's Google Doc).
 
-## How chordpro-setlists helps
+### How chordpro-setlists helps
 
 chordpro-setlists is designed to address these problems. 
 
@@ -42,3 +44,15 @@ Third, there is more information made available this way: the cover sheet lists 
 Fourth, while the setlist "archive" to date has been haphazard (to say the least), this approach yields an easy to navigate archive of what we played, when we played it, and how we played it. 
 
 Finally, this approach provides an opportunity for collaboration not present in the prior approach.
+
+## 2. Local installation
+
+### Install ChordPro
+
+### Create a setlist
+
+### Refine and iterate
+
+### Publish
+
+## 3. Cloud-based installation

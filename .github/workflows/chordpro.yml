@@ -32,7 +32,7 @@ jobs:
       - name: Run ChordPro and find out where installed
         run: |
           chordpro --version
-          perldoc -l ChordPro
+          perl -V
 
       - name: Make setlists
         run: |
