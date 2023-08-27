@@ -20,7 +20,7 @@ jobs:
       - name: Cache CPAN Modules
         uses: actions/cache@v3
         with:
-          path: local
+          path: /usr/local
           key: perl-${{ steps.perl.outputs.perl-hash }}
 
       - name: Install ChordPro from CPAN
