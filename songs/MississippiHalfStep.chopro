@@ -1,11 +1,13 @@
 {t:Mississippi Halfstep Uptown Toodeloo}
 {st:Grateful Dead}
+{key: Am}
+{tempo: 120}
 
 {sov: V1}
-{C]On the day when [E7]I was born [F]Daddy sat down and [Am]cried.
+[C]On the day when [E7]I was born [F]Daddy sat down and [Am]cried.
 [F]I had the mark just as [C]plain as [G]day; which [D7]could not be [G]denied.
 [C]They say that Cain caught [E7]Abel [F]rolling loaded [Am]dice;
-[F]Ace of Spades be[C]hind his [G]ear and [Am]him not thinkin' [E]twice.
+[F]Ace of Spades be[C]hind his [G]ear and [Am]him not thinkin' [E7]twice.
 {eov}
 
 {sov: Chorus}
@@ -14,35 +16,48 @@
 [Am]I'm on my way, [E]on my way.
 {eov}
 
-{sov: Lead}
+{sot: Interlude <span>   </span>}
+Am / /  D9  | F Dm B7 E7
+Am / /  D9  | F Am D7 G7
+{eot}
+
+{sot: Lead}
 MV Lead
-{eov}
+{eot}
 
-{c: Am / /  D9  | F Dm B7 E7 }
-{c: Am / /  D9  | F Am D7 G7 }
 
+{sov: V2}
 If all you got to live for is what you left behind,
 Get yourself a powder charge and seal that silver mine.
 Lost my boots in transit, baby, pile of smokin' leather.
 I nailed a retread to my feet and prayed for better weather.
+{eov}
+<i>(Chorus)</i>
 
-Half step, Mississippi uptown toodeloo Hello, baby, I'm gone, goodbye
-Half a cup of Rock and Rye. Farewell to you old Southern skies
-I'm on my way, on my way.
+{sot: Lead}
+PJ Lead
+{eot}
 
-{cb: PJ lead}
-
+{sov: V3}
 They say that when your ship comes in, the first man takes the sails;
 Second takes the after deck, the third the planks and rails,
 What's the point of callin' shots; this cue ain't straight in line.
 Cue ball's made of styrofoam and no one's got the time.
+{eov}
+<i>(Chorus)</i>
 
-Half step, Mississippi uptown toodeloo Hello, baby, I'm gone, goodbye
-Half a cup of Rock and Rye. Farewell to you old Southern skies
-I'm on my way, on my way.
+{sot: Lead}
+MS start > whisper quiet
+{eot}
 
-{cb: MS start > whisper quiet}
+{sov: Bridge}
+[A]Across the Rio [D]Grande, across the lazy [A]river.
+{eov}
 
-Across the Rio Grande, across the lazy river.
+{sot: Outro}
+MS to end
+{eot}
 
-{cb: MS lead to end}
+{sot: Notes}
+9/3/77 (https://www.youtube.com/watch?v=R6S2Jq2M7b8)
+{eot}
