@@ -37,7 +37,7 @@ jobs:
           chmod +x make-setlist.sh
           ./make-setlist.sh
 
-      - name: Publish to GitHub Pages
+      - name: Publish to GitHub Pages again
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
