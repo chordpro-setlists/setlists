@@ -12,6 +12,12 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v2
 
+      - name: Restore CPAN Cache
+        uses: actions/cache@v2
+        with:
+          path: ~/.cpan
+          key: cpan-cache-${{ hashFiles('cpanfile.snapshot') }}
+
       - name: Set up Perl
         uses: shogo82148/actions-setup-perl@v1
         with:
@@ -28,3 +34,11 @@ jobs:
           chordpro --version
           chmod +x make-setlist.sh
           ./make-setlist.sh
+
+      - name: Save CPAN Cache
+        uses: actions/cache@v2
+        with:
+          path: ~/.cpan
+          key: cpan-cache-${{ hashFiles('cpanfile.snapshot') }}
+          restore-keys: |
+            cpan-cache-
