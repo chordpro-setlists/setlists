@@ -1,4 +1,5 @@
-songs/ColdRainAndSnow.chopro
-songs/MississippiHalfStep.chopro
-songs/RambleOnRose.chopro
-songs/Candyman.chopro
+songs/LooseLucy.chopro
+songs/Althea.chopro
+songs/Cassidy.chopro
+songs/WestLAFadeaway.chopro
+songs/LonesomeAndALongWayFromHome.chopro
