@@ -36,10 +36,12 @@ jobs:
         run: |
           chordpro --version
 
-      - name: Make setlists
+      - name: Make setlists and index page.
         run: |
           chmod +x make-setlist.sh
           ./make-setlist.sh
+          chmod +x make-index.sh
+          ./make-index.sh
 
       - name: Publish to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
