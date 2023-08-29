@@ -28,33 +28,42 @@ EOF
 # Get the length of the directory path for stripping
 dir_length=${#directory}
 
-# Traverse the directory recursively and generate links for .pdf and .chopro files
-find "$directory" -type f \( -name "*.pdf" -o -name "*.chopro" \) | sort | while read -r file; do
+echo "<div class="container">
+        <h1 class="mt-4">File List</h1>
+        <ul class="list-group mt-4">"
+
+# Traverse the directory recursively and generate links for .nochord.pdf files
+find "$directory" -type f -name "*.nochords.pdf" | sort | while read -r file; do
     filename=$(basename "$file")  # Extract the filename without path
     escaped_filename=$(echo "$filename" | sed 's/\//\\\//g')  # Escape special characters
     relative_path="${file:$dir_length}"  # Get the relative path by stripping the top-level directory
     # Remove the leading slash, if present
     relative_path=$(echo "$relative_path" | sed 's/^\/\{0,1\}//')
+    relative_path_no_ext="${relative_path%.nochords.pdf}"
+    filepath_chords="${relative_path_no_ext}.pdf"
+    filepath_nochords="${relative_path_no_ext}.nochords.pdf"
+    filename_no_ext="${filename%.nochords.pdf}"
 
-    # Check if the file starts with "setlist"
-    if [[ $filename == setlist* ]]; then
-        # Write a link for each "setlist" file using Bootstrap classes
-        echo "  <li class=\"list-group-item\"><a href=\"$relative_path\">$escaped_filename</a></li>" >> "$html_file_path"
+    # Write a link for each setlist file using Bootstrap classes
+    if [[ $filename = setlist* ]]; then
+      echo "  <li class=\"list-group-item\">$filename_no_ext (<a href=\"$filepath_chords\">chords</a>, <a href=\"$filepath_nochords\">no chords</a>)</li>" >> "$html_file_path"
     fi
 done
 
-# Traverse again to list other files
-find "$directory" -type f \( -name "*.pdf" -o -name "*.chopro" \) | sort | while read -r file; do
+find "$directory" -type f -name "*.nochords.pdf" | sort | while read -r file; do
     filename=$(basename "$file")  # Extract the filename without path
     escaped_filename=$(echo "$filename" | sed 's/\//\\\//g')  # Escape special characters
     relative_path="${file:$dir_length}"  # Get the relative path by stripping the top-level directory
     # Remove the leading slash, if present
     relative_path=$(echo "$relative_path" | sed 's/^\/\{0,1\}//')
+    relative_path_no_ext="${relative_path%.nochords.pdf}"
+    filepath_chords="${relative_path_no_ext}.pdf"
+    filepath_nochords="${relative_path_no_ext}.nochords.pdf"
+    filename_no_ext="${filename%.nochords.pdf}"
 
-    # Check if the file doesn't start with "setlist"
+    # Write a link for each non-setlist file using Bootstrap classes
     if [[ $filename != setlist* ]]; then
-        # Write a link for each other file using Bootstrap classes
-        echo "  <li class=\"list-group-item\"><a href=\"$relative_path\">$escaped_filename</a></li>" >> "$html_file_path"
+      echo "  <li class=\"list-group-item\">$filename_no_ext (<a href=\"$filepath_chords\">chords</a>, <a href=\"$filepath_nochords\">no chords</a>)</li>" >> "$html_file_path"
     fi
 done
 
