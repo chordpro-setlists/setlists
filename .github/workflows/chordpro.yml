@@ -17,11 +17,14 @@ jobs:
         with:
           perl-version: '5.32'
           install-modules-with: cpanm
-          install-modules: chordpro
+          install-modules: | 
+            chordpro
+            Image::ExifTool
 
-      - name: Check that ChordPro is installed
+      - name: Check that ChordPro and ExifTool are installed
         run: |
           chordpro --version
+          exiftool -ver
 
       - name: Make setlists and index page.
         run: |
