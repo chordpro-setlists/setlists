@@ -16,21 +16,8 @@ jobs:
         uses: shogo82148/actions-setup-perl@v1
         with:
           perl-version: '5.32'
-
-      - name: Cache CPAN Modules
-        uses: actions/cache@v3
-        with:
-          path: |
-            /home/runner/work/setlists/setlists/local/lib/perl5/**
-            /opt/hostedtoolcache/perl/5.32.1/x64/lib/**
-            /root/.cpan/**
-          key: ${{ runner.os }}-setlists
-
-      - name: Install ChordPro from CPAN
-        run: |
-          sudo cpan install chordpro
-        env:
-          PERL_CPANM_OPT: "--notest"
+          install-modules-with: cpanm
+          install-modules: chordpro
 
       - name: Check that ChordPro is installed
         run: |
