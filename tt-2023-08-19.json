@@ -4,7 +4,7 @@
       "fields": [
         "songindex"
       ],
-      "label": "Sunshine Family Farm Fundraiser (8/19/2023)",
+      "label": "Tropical Tweeze 8/19/2023 (Sunshine Family Farm)",
       "line": "%{songindex} <span>   </span> %{title}",
       "pageno": "%{key}",
       "fold": false,
