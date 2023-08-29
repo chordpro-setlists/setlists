@@ -20,17 +20,15 @@ cat > "$html_file_path" <<EOF
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
 </head>
 <body>
-<div class="container">
-  <h1 class="mt-4">File List</h1>
-  <ul class="list-group mt-4">
+
 EOF
 
 # Get the length of the directory path for stripping
 dir_length=${#directory}
 
-echo "<div class="container">
-        <h1 class="mt-4">File List</h1>
-        <ul class="list-group mt-4">"
+echo "<div class=\"container\">
+        <h1 class=\"mt-4\">Set Lists</h1>
+        <ul class=\"list-group mt-4\">" >> "$html_file_path"
 
 # Traverse the directory recursively and generate links for .nochord.pdf files
 find "$directory" -type f -name "*.nochords.pdf" | sort | while read -r file; do
@@ -50,6 +48,10 @@ find "$directory" -type f -name "*.nochords.pdf" | sort | while read -r file; do
     fi
 done
 
+echo "  </ul>
+        <h1 class=\"mt-4\">Songs</h1>
+        <ul class=\"list-group mt-4\">" >> "$html_file_path"
+
 find "$directory" -type f -name "*.nochords.pdf" | sort | while read -r file; do
     filename=$(basename "$file")  # Extract the filename without path
     escaped_filename=$(echo "$filename" | sed 's/\//\\\//g')  # Escape special characters
@@ -66,6 +68,8 @@ find "$directory" -type f -name "*.nochords.pdf" | sort | while read -r file; do
       echo "  <li class=\"list-group-item\">$filename_no_ext (<a href=\"$filepath_chords\">chords</a>, <a href=\"$filepath_nochords\">no chords</a>)</li>" >> "$html_file_path"
     fi
 done
+
+echo " </ul>" >> "$html_file_path"
 
 # Close the HTML structure
 cat >> "$html_file_path" <<EOF
