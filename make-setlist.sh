@@ -9,7 +9,7 @@ mkdir -p setlists/$SETLIST/songs
 echo "Generating setlists..."
 chordpro --config=config.json --config=$SETLIST.json -filelist $SETLIST.txt -o setlists/$SETLIST/setlist-$SETLIST-v${VERSION}.pdf
 
-chordpro -l --config=config.json --config=$SETLIST.json -filelist $SETLIST.txt -o setlists/$SETLIST/setlist-$SETLIST-v${VERSION}-lyrics.pdf
+chordpro -l --config=config.json --config=$SETLIST.json -filelist $SETLIST.txt -o setlists/$SETLIST/setlist-$SETLIST-v${VERSION}-nochords.pdf
 
 ## Create individual songs (with and without lyrics)
 echo "Generating individual songs..."
@@ -17,6 +17,6 @@ while IFS= read -r filename; do
 
   chordpro --meta=user=$SETLIST --config=config.json $filename -o setlists/$SETLIST/"${filename%.chopro}.pdf"
 
-  chordpro --meta=user=$SETLIST -l --config=config.json $filename -o setlists/$SETLIST/"${filename%.chopro}-lyrics.pdf"
+  chordpro --meta=user=$SETLIST -l --config=config.json $filename -o setlists/$SETLIST/"${filename%.chopro}-nochords.pdf"
 
 done < "$SETLIST.txt"
