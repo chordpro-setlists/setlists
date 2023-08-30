@@ -1,29 +1,40 @@
 {t:Lonesome and a long way from home}
 {st:Bonnie Bramlett, Leon Russell}
 {key: C}
+{tempo: 100}
 
-{c: C /// | F ///| C ///|}
+{sot: Intro}
+C /// | F ///| C ///|
+{eot}
 
-Out on the open highway
-Such a lovely day but something's wrong
-Something, something must be wrong
+{sov: V1}
+[C]Out on the open highway
+Such a lovely day but something's [F]wrong
+Something, something must be [C]wrong
 Just left home this morning
-This old road keeps rolling on and on
-Rolling, rolling on and on
+This old road keeps rolling on and [F]on
+Rolling, rolling on and [C]on
+[C]Won't somebody help me? (Somebody [F]help me?)  x 3
+[C]I've never been so lonesome and [Bb]long [F]way from [C]home
+(Never been lonesome and long way)
+{eov}
 
-Won't somebody help me?
-Somebody help me? (X3)
+<i>Repeat Verse 1</i>
 
-{c: |C /// | C /// | Bb F C |}
-I've never been so lonesome and long way from home
-Never been lonesome and long way (X2)
+{sot: Break}
+C> |D /// | F ///| G# ///| G ///|
+{eot}
 
-{c: Repeat Verse 1}
-{c: Break:  C> |D /// | F ///| G# ///| G ///|}
+{sot: Jam}
+MS lead over verse chords into open Jam in C
+MV > PJ > MS
+vamp to signal return to verse
+{eot}
 
-{cb: MS lead over verse chords into open Jam in C}
-{cb: MV -> PJ -> MS}
-{cb: vamp to signal return to verse}
+<i>Repeat V1</i>
+<i>Repeat Break</i>
+<i>end in C</i>
 
-{c: Verse 1}
-{c: Break, then end in C}
+{sot: Notes}
+9/3/89 (https://www.youtube.com/watch?v=itwoxRg1Lug)
+{eot}

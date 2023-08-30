@@ -1,33 +1,51 @@
 {t:Cassidy}
 {st:Grateful Dead}
 {key: E}
+{tempo: 80}
 
-{cb: Count in: 1-2-3-4 }
-
+{sov: v1}
 [E]I have seen where the wolf has slept by the silver [A]stream,
 [E]I can tell by the mark he left you were in his [A]dream
 [Em]Ah, child of countless t[Am]rees, [Em]ah, child of boundless [Am]seas
 [F#m]What you are, what you're meant to [A]be
 [F#m]Speaks his name for you were born to [A]me, born to me, Cassid[E]y.
+{eov}
 
+{sov: V2}
 Lost now on the country miles in his Cadillac,
 I can tell by the way you smile he is rolling back
 Come wash the nighttime clean, come grow the scorched ground green
 Blow the horn and tap the tambourine,
 Close the gap on the dark years in between you and me, Cassidy.
+{eov}
 
+{sov: V3}
 [A]Quick beats in an [E]icy heart, [A]catch colt draws a [E]coffin cart
 [A]There he goes and now [E]here she starts, hear her [B]cry
 [F#m]    [E]  [B]  Flight of the seabirds,
 [F#m]    [E]  [B]  Scattered like lost words
 [B]Wheel to the stor[A]m and f[E]ly
+{eov}
 
-{c: Melodic lead }
+{sot: Lead}
+Melodic lead over verse chords (PJ)
+{eot}
 
-{c: 2x through}
+{sov: V4 x 2}
 [E]Fare the well now, let your life proceed by its own d[A]esign
 Nothing to [E]tell now, let the words be yours I'm done with [A]mine
+{eov}
 
-{c: E (8 bars x 6) | F#m (8 bars) | E (8 bars x 3) | F#m (8 bars) | G#m (8 bars) |}
+{sot: Jam}
+Long jam in E, into:
+E (8 bars x 6) | F#m (8 bars) | E (8 bars x 3) | F#m (8 bars) | G#m (8 bars) |
+{eot}
 
+{sov: Outro}
 Flight of the seabirds, scattered like lost words, wheel to the storm and fly.
+{eov}
+
+{sot: Notes}
+Count in: 1-2-3-4
+7/23/90 (https://www.youtube.com/watch?v=wcQJ-mXcYu4)
+{eot}
