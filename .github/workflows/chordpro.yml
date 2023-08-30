@@ -26,12 +26,13 @@ jobs:
           chordpro --version
           exiftool -ver
 
-      - name: Make setlists and index page.
+      - name: Make setlists and index pages.
         run: |
           chmod +x make-setlist.sh
+          chmod +x make-index-top.sh
+          chmod +x make-index-interior.sh
           ./make-setlist.sh
-          chmod +x make-index.sh
-          ./make-index.sh setlists
+          ./make-index-top.sh setlists
 
       - name: Publish to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
