@@ -27,7 +27,7 @@ jobs:
       - name: Make setlists and index pages.
         run: |
           chmod +x make-setlist.sh
-          chmod +x make-index-top.sh
+          chmod +x make-index.sh
           chmod +x make-index-interior.sh
           ./make-setlist.sh
           ./make-index.sh
