@@ -11,3 +11,4 @@ songs/GoldenRoad.chopro
 songs/Truckin.chopro
 songs/NewSpeedwayBoogie.chopro
 songs/Sugaree.chopro
+songs/SugarMagnolia.chopro
