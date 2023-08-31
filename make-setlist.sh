@@ -19,4 +19,6 @@ while IFS= read -r filename; do
 
   chordpro --meta=user=$SETLIST -l --config=config.json $filename -o setlists/$SETLIST/"${filename%.chopro}.nochords.pdf"
 
+  cp $filename setlists/$SETLIST/songs/
+
 done < "$SETLIST.txt"

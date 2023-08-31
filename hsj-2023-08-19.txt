@@ -7,3 +7,5 @@ songs/Althea.chopro
 songs/Cassidy.chopro
 songs/WestLAFadeaway.chopro
 songs/LonesomeAndALongWayFromHome.chopro
+songs/GoldenRoad.chopro
+songs/Truckin.chopro

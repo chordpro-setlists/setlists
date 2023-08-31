@@ -61,11 +61,12 @@ find "$directory" -type f -name "*.nochords.pdf" | sort | while read -r file; do
     relative_path_no_ext="${relative_path%.nochords.pdf}"
     filepath_chords="${relative_path_no_ext}.pdf"
     filepath_nochords="${relative_path_no_ext}.nochords.pdf"
+    filepath_chopro="${relative_path_no_ext}.chopro"
     filename_no_ext="${filename%.nochords.pdf}"
 
     # Write a link for each non-setlist file using Bootstrap classes
     if [[ $filename != setlist* ]]; then
-      echo "  <li class=\"list-group-item\">$filename_no_ext (<a href=\"$filepath_chords\">chords</a>, <a href=\"$filepath_nochords\">no chords</a>)</li>" >> "$html_file_path"
+      echo "  <li class=\"list-group-item\">$filename_no_ext (<a href=\"$filepath_chords\">chords</a>, <a href=\"$filepath_nochords\">no chords</a>)</li>, <a href=\"$filepath_chopro\">chopro</a>)</li>" >> "$html_file_path"
     fi
 done
 
