@@ -1,6 +1,11 @@
 #!/bin/bash
 
-SETLIST="hsj-2023-08-19"
+if [ $# -ne 1 ]; then
+    echo "Usage: $0 <setlist>"
+    exit 1
+fi
+
+SETLIST="$1"
 VERSION="" # Could replace with "-V1" if you want versioning.
 mkdir -p setlists/$SETLIST
 mkdir -p setlists/$SETLIST/songs
@@ -14,6 +19,7 @@ chordpro -l --config=config.json --config=$SETLIST.json -filelist $SETLIST.txt -
 ## Create individual songs (with and without lyrics)
 echo "Generating individual songs..."
 while IFS= read -r filename; do
+  echo "  $filename"
 
   chordpro --meta=user=$SETLIST --config=config.json $filename -o setlists/$SETLIST/"${filename%.chopro}.pdf"
 

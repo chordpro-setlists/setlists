@@ -1,32 +1,47 @@
 {t:Sugaree}
 {st:Grateful Dead}
 {key: B}
+{tempo: 86}
 
-{cb: Count in: 1-2-3-4 1-2-3 }
+{sov: V1}
+[B]When they come to [E]take you down,[B] when they bring that [E]wagon 'round
+[B]When they come to [E]call on you,[B] and drag your poor body [E]down
+[F#m]Just one thing I [C#m]ask of you, [A]just one [E]thing for me
+[B]Please forget you [C#m]knew my name, my [A]darling [E]Sugaree
+[B]Shake it, shake it[E] sugaree, [C#m]just don't tell them[A] that you know [E]me
+[B]Shake it, shake it[E] sugaree, [C#m]just don't tell them[A] you know me
+{eov}
 
-When they come to take you down, when they bring that wagon 'round
-When they come to call on you, and drag your poor body down
+{sot: Lead}
+MV Lead
+{eot}
 
-Just one thing I ask of you, just one thing for me
-Please forget you knew my name, my darling Sugaree
-Shake it, shake it sugaree, just don't tell them that you know me
-Shake it, shake it sugaree, just don't tell them that you know me
-
-{cb: Lead: MV}
-
+{sov: V2}
 You thought you was the cool fool and never could do no wrong.
 Had everything sewed up tight. How come you lay awake all night long?
+Just one thing...
+{eov}
 
-{cb: Lead: MS}
+{sot: Lead}
+MS Lead
+{eot}
 
+{sov: V3}
 Well in spite of all you gained, you still had to stand out in the pouring rain
 One last voice is calling you and I guess it's time you go
+Just one thing...
+{eov}
 
-{cb: Lead: PJ}
+{sot: Lead}
+PJ Lead
+{eot}
 
+{sov: V4}
 Well shake it up now Sugaree, I'll meet you at the Jubilee
 And if that Jubilee don't come maybe I'll meet you on the run
+Just one thing...
+{eov}
 
-{c: Intro/Verse: ||: B    E :||}
-{c: Chorus: | F#m  C#m  A   E |  B  C#m A   E |}
-{c: Chorus: ||: B    E    C#m    A    E  :||}
+{sot: Notes}
+Oct 74 (https://www.youtube.com/watch?v=CaEI8x0mEN8)
+{eot}
