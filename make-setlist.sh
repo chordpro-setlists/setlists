@@ -1,11 +1,6 @@
 #!/bin/bash
 
-if [ $# -ne 1 ]; then
-    echo "Usage: $0 <setlist>"
-    exit 1
-fi
-
-SETLIST="$1"
+SETLIST="tt-2023-08-19"
 VERSION="" # Could replace with "-V1" if you want versioning.
 mkdir -p setlists/$SETLIST
 mkdir -p setlists/$SETLIST/songs

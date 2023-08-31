@@ -1,11 +1,6 @@
 #!/bin/bash
 
-if [ $# -ne 1 ]; then
-    echo "Usage: $0 <directory>"
-    exit 1
-fi
-
-directory="$1"
+directory="setlists"
 index_file="$directory/index.html"
 
 if [ ! -d "$directory" ]; then
