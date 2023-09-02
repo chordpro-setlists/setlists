@@ -1,6 +1,6 @@
 #!/bin/bash
 
-SETLIST="hsj-2023-08-19"
+SETLIST="tt-repertoire"
 VERSION="" # Could replace with "-V1" if you want versioning.
 mkdir -p setlists/$SETLIST
 mkdir -p setlists/$SETLIST/songs

@@ -1,0 +1,9 @@
+songs/Bug.chopro
+songs/BoogieOnReggaeWoman.chopro
+songs/Dirt.chopro
+songs/EverythingsRight.chopro
+songs/IfICould.chopro
+songs/Joy.chopro
+songs/LovingCup.chopro
+songs/MountainsInTheMist.chopro
+songs/Possum.chopro
