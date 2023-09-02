@@ -7,3 +7,4 @@ songs/Joy.chopro
 songs/LovingCup.chopro
 songs/MountainsInTheMist.chopro
 songs/Possum.chopro
+songs/WolfmansBrother.chopro
