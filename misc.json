@@ -1,0 +1,14 @@
+{
+  "contents": [
+    {
+      "fields": [
+        "songindex"
+      ],
+      "label": "Miscellaneous",
+      "line": "%{songindex} <span>   </span> %{title}",
+      "pageno": "%{key}",
+      "fold": false,
+      "omit": false
+    }
+  ]
+}
