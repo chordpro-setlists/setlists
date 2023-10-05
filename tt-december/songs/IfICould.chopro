@@ -1,7 +1,7 @@
 {t:If I Could}
 {st:Phish}
 {key: G}
-{tempo: 88}
+{tempo: 79}
 {define: "D11*"}
 
 {sov: V1}
@@ -13,8 +13,8 @@
 
 {sov: Chorus}
 [G]If I could I [C]would, but I don't know how,
-[G]If I could I [C]would, but I don't know [Bm]how
-If I could I [C]would, and I'd take you [D]now
+[G]If I could I [C]would, but I don't know how
+[Bm]If I could I [C]would, and I'd take you [D]now
 {eov}
 
 {sot: Interlude <span>    </span>}
@@ -31,14 +31,14 @@ Lift me up and spin me around
 <i>Chorus</i>
 
 {sov: V3}
-[D]Hear you [A]laughing as we [C]go (i'd take you [G]now )
-[D]Flipping [A]backwards through the [C]doors and through [G]the windows (i'd take you now )
+[D]Hear you [A]laughing as we [C]go (i'd [G]take you [D]now )
+Flipping [A]backwards through the [C]doors and through [G]the windows (i'd take you now )
 [D]    [A]         I'm melting into [C]nothing [Am]
 {eov}
 
 <i>Chorus 2x</i>
 
 {sot: Notes}
-Studio (https://www.youtube.com/watch?v=MFKEKHbCe1Y)
 December (https://www.youtube.com/watch?v=thmTiP_K5ZU)
+Live from here (https://www.youtube.com/watch?v=OFNqci1sFIQ)
 {eot}
