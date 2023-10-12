@@ -1,6 +1,6 @@
 #!/bin/bash
 
-SETLIST="tt-december"
+SETLIST="jam-2023-10-18"
 VERSION="" # Could replace with "-V1" if you want versioning.
 mkdir -p setlists/$SETLIST
 mkdir -p setlists/$SETLIST/songs
