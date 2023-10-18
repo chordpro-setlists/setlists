@@ -1,1 +1,3 @@
 songs/ManyRiversToCross.chopro
+songs/BackIn79.chopro
+songs/BurnIt.chopro
