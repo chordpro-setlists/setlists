@@ -1,0 +1,14 @@
+{
+  "contents": [
+    {
+      "fields": [
+        "songindex"
+      ],
+      "label": "Jam 11/08/2023",
+      "line": "%{songindex} <span>   </span> %{title}",
+      "pageno": "%{key}",
+      "fold": false,
+      "omit": false
+    }
+  ]
+}

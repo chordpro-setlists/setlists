@@ -1,0 +1,10 @@
+songs/ChinaCatSunflower.chopro
+songs/IKnowYouRider.chopro
+songs/EverythingsRight.chopro
+songs/BlazeOn.chopro
+songs/MeetDeBoys.chopro
+songs/Willin.chopro
+songs/MidnightMoonlight.chopro
+songs/JustOneMore.chopro
+songs/BigRiver.chopro
+songs/Possum.chopro
