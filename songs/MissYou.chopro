@@ -3,6 +3,10 @@
 {key: F}
 {tempo: 153}
 
+{sot: Intro}
+|: F# / E B :|
+{eot}
+
 {sov: V1}
 You're [F#]smiling at me,[F#]   [E]  from [B]your picture frame,
 and I [F#]miss you  [F#] [E] [B]
@@ -19,17 +23,17 @@ No I will never for[B]get [B] [A] [E]
 There's a hole in my heart, that'll never be filled, I miss you
 This all should get easier, but it never will, I miss you
 I float through the days, and the long lonely nights, I miss you
-And I hear your footsteps, you're coming down the stairs
-Lost in your laughter, the sun in your hair
-A brief recollection, the light in your eyes,
-I see the reflection, but it passes by
-It passes me by
+And [B]I hear your [F#]footsteps, you're [G#m]coming down the [B]stairs
+[E]Lost in your laughter[C#m], the sun in your hair[E]
+[B]A brief recollection[F#], the [B]light in your eyes,
+I [E]see the reflection[C#m], but it passes [B]by [B] [A] [E]
+It passes me by [B] [A] [E]
 {eov}
 
-{sov: Solo}
+{sot: Solo}
 (solo over bridge chords)
 B     B   A   E
-{eov}
+{eot}
 
 {sov: V3}
 You're smiling at me, from your picture frame, I miss you
@@ -38,9 +42,9 @@ You're in faces of people, I see on the street
 You're everywhere  (x3)
 {eov}
 
-{sov: Outro}
-F#     F#   E   B  (x2)
-{eov}
+{sot: Outro}
+F#     F#   E   B
+{eot}
 
 
 {sot: Notes}
