@@ -1,3 +1,4 @@
+songs/AWaveOfHope.chopro
 songs/BackOnTheTrain.chopro
 songs/BackwardsDownTheNumberline.chopro
 songs/BlazeOn.chopro
