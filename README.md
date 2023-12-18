@@ -66,7 +66,7 @@ This is ChordPro core 6.020
 
 ### 3.1 Create the setlist songlist file
 
-The first step is creating a .txt file containing a list of songs. For example, the [tt-2023-08-19.txt](https://github.com/chordpro-setlists/setlists/blob/main/tt-2023-08-19.txt) songlist file looks like this:
+The first step is creating a .txt file containing a list of songs. For example, the [tt-2023-08-19.txt](https://github.com/chordpro-setlists/setlists/blob/main/setlist-definitions/tt-2023-08-19.txt) songlist file looks like this:
 
 ```shell
 songs/Bug.chopro
