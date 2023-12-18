@@ -64,9 +64,9 @@ This is ChordPro core 6.020
 
 ## 3. Create a setlist
 
-### 3.1 Create the setlist songlist file
+### 3.1 Create the setlist definition file
 
-The first step is creating a .txt file containing a list of songs. For example, the [tt-2023-08-19.txt](https://github.com/chordpro-setlists/setlists/blob/main/setlist-definitions/tt-2023-08-19.txt) songlist file looks like this:
+The first step is to create a .txt file that defines the list of songs in the setlist. This file should be located in the `setlist-definitions/` directory. For example,  [setlist-definitions/tt-2023-08-19.txt](https://github.com/chordpro-setlists/setlists/blob/main/setlist-definitions/tt-2023-08-19.txt) file looks like this:
 
 ```shell
 songs/Bug.chopro
@@ -76,11 +76,11 @@ songs/Dirt.chopro
 songs/LovingCup.chopro
 ```
 
-By convention, the "songs/" directory contains a repository of the entire repertoire. The songlist file enables you to pick specific songs and the order in which they will be played for a particular performance.
+The `songs/` directory contains files representing all of the songs in the repertoire. The setlist definition file enables you to pick specific songs and the order in which they will be played for a particular performance.
 
 ### 3.2 Update make-setlist.sh
 
-The next step is to edit make-setlist.sh to generate the PDF files for your new setlist. For example,  [make-setlist.sh](https://github.com/chordpro-setlists/setlists/blob/main/make-setlist.sh) currently looks like:
+The next step is to edit make-setlist.sh to generate the PDF files for your setlist definition. For example,  [make-setlist.sh](https://github.com/chordpro-setlists/setlists/blob/main/make-setlist.sh) currently looks like:
 
 ```html
 #!/bin/bash
