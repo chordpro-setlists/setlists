@@ -11,18 +11,18 @@ mkdir -p setlists/$SETLIST/songs
 
 ## Create the setlists (with and without lyrics)
 echo "Generating setlist for $SETLIST..."
-chordpro --config=config.json --config=contents.json -filelist setlist-definitions/$SETLIST.txt -o setlists/$SETLIST/setlist-$SETLIST${VERSION}.pdf
+chordpro --config=scripts/config.json --config=scripts/contents.json -filelist setlist-definitions/$SETLIST.txt -o setlists/$SETLIST/setlist-$SETLIST${VERSION}.pdf
 
-chordpro -l --config=config.json --config=contents.json -filelist setlist-definitions/$SETLIST.txt -o setlists/$SETLIST/setlist-$SETLIST${VERSION}.nochords.pdf
+chordpro -l --config=scripts/config.json --config=scripts/contents.json -filelist setlist-definitions/$SETLIST.txt -o setlists/$SETLIST/setlist-$SETLIST${VERSION}.nochords.pdf
 
 ## Create individual songs (with and without lyrics)
 echo "Generating individual songs..."
 while IFS= read -r filename; do
   echo "  $filename"
 
-  chordpro --meta=user=$SETLIST --config=config.json $filename -o setlists/$SETLIST/"${filename%.chopro}.pdf"
+  chordpro --meta=user=$SETLIST --config=scripts/config.json $filename -o setlists/$SETLIST/"${filename%.chopro}.pdf"
 
-  chordpro --meta=user=$SETLIST -l --config=config.json $filename -o setlists/$SETLIST/"${filename%.chopro}.nochords.pdf"
+  chordpro --meta=user=$SETLIST -l --config=scripts/config.json $filename -o setlists/$SETLIST/"${filename%.chopro}.nochords.pdf"
 
   cp $filename setlists/$SETLIST/songs/
 

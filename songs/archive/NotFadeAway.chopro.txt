@@ -1,0 +1,23 @@
+{t:Not fade away}
+{st:Buddy Holly}
+
+I'm gonna tell you how it's gonna be
+You're gonna give your love to me
+I wanna love you night and day
+You know my love will not fade away
+You know my love will not fade away
+
+{cb: Lead: PJ}
+
+My love is bigger than a cadillac
+I try to show it but you drive me back
+Your love for me has got to be real
+You're gonna know just how I feel
+Our love is real, not fade away.
+
+{cb: Lead: MS}
+{cb: Jam: in E}
+{cb: Transition: GDTRFB}
+
+{cb: Verse: Repeat first verse}
+{cb: Vocal jam}

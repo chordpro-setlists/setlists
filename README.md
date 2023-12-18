@@ -30,9 +30,9 @@ In ChordPro-SetLists, there is a songs/ directory that contains ChordPro version
 
 Each ChordPro song file contains lyrics, chords, key, tempo, performance notes, and a link to a reference version. It is a complete reference guide, the "single source of truth" for the song currently in rehearsal for performance.
 
-To produce a setlist, you create two files: a text file containing a list of songs, in order, as well as a json file that contains the string you wish to use for the table of contents. 
+To produce a setlist, you create a "setlist definition" files: a text file containing a list of song files, in order. 
 
-Then you edit the make-setlist.sh file to refer to these two files, and run it. 
+Then you edit the make-setlist.sh file to refer to this file, and run it. 
 
 Running the make-setlist.sh file creates (or overwrites) a directory and adds to it:
   * Two PDF versions of the setlist, one with and one without the chord information.
@@ -78,33 +78,7 @@ songs/LovingCup.chopro
 
 By convention, the "songs/" directory contains a repository of the entire repertoire. The songlist file enables you to pick specific songs and the order in which they will be played for a particular performance.
 
-### 3.2 Create the setlist json file
-
-Next, create a file with the same name and a .json suffix. This file is used to specify the title for the table of contents page. For example, the [tt-2023-08-19.json](https://github.com/chordpro-setlists/setlists/blob/main/tt-2023-08-19.json) file looks like this:
-
-```shell
-{
-  "contents": [
-    {
-      "fields": [
-        "songindex"
-      ],
-      "label": "Tropical Tweeze 8/19/23 (Sunshine Family Farm)",
-      "line": "%{songindex} <span>   </span> %{title}",
-      "pageno": "%{key}",
-      "fold": false,
-      "omit": false
-    }
-  ]
-}
-```
-
-The only line you need to change is the one with the "label" field.
-
-In future, this file will not be needed when ChordPro supports meta variables in this json file section.
-
-
-### 3.3 Update make-setlist.sh
+### 3.2 Update make-setlist.sh
 
 The next step is to edit make-setlist.sh to generate the PDF files for your new setlist. For example,  [make-setlist.sh](https://github.com/chordpro-setlists/setlists/blob/main/make-setlist.sh) currently looks like:
 
@@ -135,7 +109,7 @@ done < "$SETLIST.txt"
 
 In general, all you should need to do is edit the third line defining SETLIST.
 
-### 3.5 Run make-setlist.sh
+### 3.3 Run make-setlist.sh
 
 Now that everything is configured, you should be able to generate your new setlist by invoking `./make-setlist.sh`:
 
@@ -162,12 +136,13 @@ setlists/
                               :
 ```
 
-### 3.5 Publish
+### 3.4 Publish
 
 Once the setlist looks the way you want it, you can commit your changes to GitHub. This will trigger a GitHub action that:
 
 1. Installs ChordPro
 2. Runs the `./make-setlist.sh` script (to generate the PDF files)
 3. Runs the `./make-index.sh` script to generate an index.html file, 
-4. Publishes the `setlists/` directory so that those files are accessable on the web.  
+4. Publishes the `setlists/` directory so that those files are accessable on the web.
+
 Once the action completes, you can go to <https://chordpro-setlists.github.io/setlists/> to see your published setlist.

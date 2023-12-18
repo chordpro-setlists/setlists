@@ -1,0 +1,32 @@
+{t:Quinn the Eskimo}
+{st:Bob Dylan}
+{key: C}
+
+Well, everybody's building big ships and boats
+Some are building monuments, others jotting down notes
+Everybody's in despair, every girl and boy
+But when Quinn the Eskimo gets here, everybody's gonna jump for joy
+
+Come all without, come all within
+You'll not see nothing like the mighty Quinn
+Come all without, come all within
+You'll not see nothing like the mighty Quinn
+
+I like to do just like the rest, I like my sugar sweet
+But jumping queues and making haste just ain't my cup of meat.
+Everybody's out there feeding pigeons on a limb
+But when Quinn the Eskimo gets here, the pigeons gonna run to him
+
+(Chorus)
+
+A cat's meow and a cow's moo, I can recite them all,
+Tell me where it hurts you, honey, and I'll tell you who to call
+Nobody can get any sleep, there's someone on everybody's toes
+When Quinn the Eskimo gets here, everybody's gonna wanna doze
+
+(Chorus)
+
+{cb: Lead: MV -> MS -> PJ, |: C / F / :| C / G / | F / C|}
+{cb: Chorus 2x: acapella}
+{cb: Chorus 2x: with instruments}
+{cb: Outro}

@@ -1,0 +1,60 @@
+{t:Backwards down the numberline}
+{st:Phish}
+
+{c: intro: |  G  |   G  | }
+
+C                 G
+Happy happy oh my friend
+                 D
+Blow out candles once again
+                   Em
+Leave the presents all inside
+Em    D   C              G
+Take  my  hand and let’s take a ride
+                   D           Dsus   D
+Backwards down the number line
+                         Em
+You were eight and I was nine
+                          D
+Do you know what happened then?
+(A)(B) C
+        Do you know why we're still friends
+                        G
+Laughing all these many years
+                            D
+We pushed through hardships tasted tears
+               Em
+Made a promise one to keep
+Em D C                      G
+      I can still recite it in my sleep
+             D                Dsus   D
+Every time a birthday comes
+                            Em
+Call your friend and sing a song
+           D    C
+Or whisper it into his ear
+                                    G
+Or write it down, just don't miss a year
+
+
+{c: Chorus 1: (played 4x through)}
+    F              C                                   G
+You decide what it contains, How long it goes but this remains
+         F          C                         G
+The only rule is it begins, Happy happy oh my friend
+
+{c: Chorus 2: (play 2x, starting after the 2nd time through "Chorus 1" above)}
+    F      C                               G
+And all my friends come backwards down the number line x3
+
+{c: Bridge: Em  D  C  Em  D  C}
+
+Bm                        C
+And when I see you coming down the line with eyes wide open
+Bm                                C
+Somewhere in between the past and future, where you drift in time
+                        D        G
+You can see a different point of view
+
+{c: Repeat Chorus 2x}
+{c: Jam -> Repeat Chorus}

@@ -1,0 +1,14 @@
+{
+  "contents": [
+    {
+      "fields": [
+        "songindex"
+      ],
+      "label": "Table of Contents",
+      "line": "%{songindex} <span>   </span> %{title}",
+      "pageno": "%{key}",
+      "fold": false,
+      "omit": false
+    }
+  ]
+}
