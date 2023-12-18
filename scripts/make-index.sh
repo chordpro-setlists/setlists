@@ -61,6 +61,6 @@ echo "HTML file '$html_filename' generated as 'index.html' in '$directory'."
 for subdirectory in "$directory"/*/; do
     if [ -d "$subdirectory" ]; then
         subdirectory_name=$(basename "$subdirectory")
-        ./make-index-interior.sh "$subdirectory"
+        ./scripts/make-index-interior.sh "$subdirectory"
     fi
 done
