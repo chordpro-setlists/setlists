@@ -27,10 +27,10 @@ jobs:
       - name: Make setlists and index pages.
         run: |
           chmod +x make-setlist.sh
-          chmod +x make-index.sh
-          chmod +x make-index-interior.sh
+          chmod +x scripts/make-index.sh
+          chmod +x scripts/make-index-interior.sh
           ./make-setlist.sh
-          ./make-index.sh
+          ./scripts/make-index.sh
 
       - name: Publish to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
