@@ -4,6 +4,7 @@ songs/BlazeOn.chopro
 songs/ChinaCatSunflower.chopro
 songs/IKnowYouRider.chopro
 songs/EverythingsRight.chopro
+songs/FranklinsTower.chopro
 songs/FunkyBitch.chopro
 songs/JustOneMore.chopro
 songs/MeetDeBoys.chopro
