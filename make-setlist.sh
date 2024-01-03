@@ -1,6 +1,7 @@
 #!/bin/bash
 
-SETLIST="phish"
+#SETLIST="phish"
+SETLIST="jam-2024-01-10"
 # SETLIST="tt-december"
 # SETLIST="jam-2023-10-18"
 # SETLIST="jam-2023-11-08"

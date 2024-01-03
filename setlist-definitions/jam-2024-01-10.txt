@@ -1,0 +1,13 @@
+songs/BackOnTheTrain.chopro
+songs/BigRiver.chopro
+songs/BlazeOn.chopro
+songs/ChinaCatSunflower.chopro
+songs/IKnowYouRider.chopro
+songs/EverythingsRight.chopro
+songs/FunkyBitch.chopro
+songs/JustOneMore.chopro
+songs/MeetDeBoys.chopro
+songs/MidnightMoonlight.chopro
+songs/OnlyHomeIveEverKnown.chopro
+songs/Possum.chopro
+songs/WolfmansBrother.chopro
