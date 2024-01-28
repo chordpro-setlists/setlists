@@ -2,31 +2,43 @@
 {st:Bob Dylan}
 {key: C}
 
-Well, everybody's building big ships and boats
-Some are building monuments, others jotting down notes
-Everybody's in despair, every girl and boy
-But when Quinn the Eskimo gets here, everybody's gonna jump for joy
+{sov: V1}
+Well, [C]everybody's [F]building [C]big ships and [F]boats
+[C]Some are building [F]monuments, [C]others jotting down [F]notes
+[C]Everybody's [F]in despair, [C]every girl and [F]boy
+But when [C]Quinn the Eskimo [G]gets here, every[F]body's gonna jump for [C]joy
+{eov}
 
-Come all without, come all within
-You'll not see nothing like the mighty Quinn
-Come all without, come all within
-You'll not see nothing like the mighty Quinn
+{sov: Chorus}
+[C]Come all without, [F]come all within
+[C]You'll not see nothing like the [G]mighty [C]Quinn
+[C]Come all without, [F]come all within
+[C]You'll not see nothing like the [G]mighty [C]Quinn
+{eov}
 
+{sov: V2}
 I like to do just like the rest, I like my sugar sweet
 But jumping queues and making haste just ain't my cup of meat.
 Everybody's out there feeding pigeons on a limb
 But when Quinn the Eskimo gets here, the pigeons gonna run to him
+{eov}
 
-(Chorus)
+<i>Chorus</i>
 
+{sov: V3}
 A cat's meow and a cow's moo, I can recite them all,
 Tell me where it hurts you, honey, and I'll tell you who to call
 Nobody can get any sleep, there's someone on everybody's toes
 When Quinn the Eskimo gets here, everybody's gonna wanna doze
+{eov}
 
-(Chorus)
+<i>Chorus</i>
+<i>Lead</i>
+<i>Chorus 2x: acapella</i>
+<i>Chorus 2x: with instruments</i>
+<i>Outro</i>
 
-{cb: Lead: MV -> MS -> PJ, |: C / F / :| C / G / | F / C|}
-{cb: Chorus 2x: acapella}
-{cb: Chorus 2x: with instruments}
-{cb: Outro}
+
+{sot: Notes}
+12/27/86 (https://youtu.be/Fx91uWtocDg?t=83)
+{eot}

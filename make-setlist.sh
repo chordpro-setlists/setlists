@@ -1,11 +1,12 @@
 #!/bin/bash
 
 #SETLIST="phish"
-SETLIST="jam-2024-01-10"
+#SETLIST="jam-2024-01-10"
 # SETLIST="tt-december"
 # SETLIST="jam-2023-10-18"
 # SETLIST="jam-2023-11-08"
 # SETLIST="jam-2023-12-06"
+SETLIST="afterparty-2023-04-05"
 VERSION="" # Could replace with "-V1" if you want versioning.
 mkdir -p setlists/$SETLIST
 mkdir -p setlists/$SETLIST/songs
