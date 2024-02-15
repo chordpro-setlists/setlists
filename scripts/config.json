@@ -250,7 +250,7 @@
         // Footer with page number.
         "footer": [
           "%{key|Key: %{key}}",
-          "%{tempo|Tempo: %{tempo} BPM}",
+          "%{vocals|Vocals: %{vocals}}<span>    </span>%{tempo|Tempo: %{tempo} BPM}",
           "%{page}"
         ],
         // Background page.
@@ -262,7 +262,7 @@
         // But no footer.
         "footer": [
           "%{key|Key: %{key}}",
-          "%{tempo|Tempo: %{tempo} BPM}",
+          "%{vocals|Vocals: %{vocals}}<span>    </span>%{tempo|Tempo: %{tempo} BPM}",
           "%{page}"
         ],
         // Background page.

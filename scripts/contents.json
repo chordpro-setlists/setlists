@@ -6,7 +6,7 @@
       ],
       "label": "Table of Contents",
       "line": "%{songindex} <span>   </span> %{title}",
-      "pageno": "%{key}",
+      "pageno": "%{vocals}<span>  </span>%{key}",
       "fold": false,
       "omit": false
     }

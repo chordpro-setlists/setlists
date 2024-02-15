@@ -4,14 +4,15 @@ songs/BlazeOn.chopro
 songs/BoogieOnReggaeWoman.chopro
 songs/CatfishJohn.chopro
 songs/DontLetGo.chopro
-songs/EverythingsRight.chopro
 songs/Evangeline.chopro
+songs/EverythingsRight.chopro
 songs/JustOneMore.chopro
 songs/LetItRock.chopro
 songs/LonesomeAndALongWayFromHome.chopro
 songs/MeetDeBoys.chopro
 songs/MidnightMoonlight.chopro
 songs/MySistersAndBrothers.chopro
+songs/MysteryTrain.chopro
 songs/Possum.chopro
 songs/QuinnTheEskimo.chopro
 songs/SecondThatEmotion.chopro
