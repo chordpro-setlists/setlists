@@ -6,6 +6,7 @@ songs/CatfishJohn.chopro
 songs/DontLetGo.chopro
 songs/Evangeline.chopro
 songs/EverythingsRight.chopro
+songs/Hungersite.chopro
 songs/JustOneMore.chopro
 songs/LetItRock.chopro
 songs/LonesomeAndALongWayFromHome.chopro
