@@ -10,7 +10,7 @@ Tempo: %{tempo}
 Vocals: %{vocals}
 {end_of_textblock}
 {sot: Intro}
-Slow pickup: Bb > Gm > Ab -> Bb > Gm > Ab/drum fill > Bb
+Slow pickup: Gm > Ab -> Bb > Gm > Ab/drum fill > Bb
 {eot}
 
 {sov: V1}
