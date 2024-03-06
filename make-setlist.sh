@@ -23,9 +23,9 @@ echo "Generating individual songs..."
 while IFS= read -r filename; do
   echo "  $filename"
 
-  chordpro --meta=user=$SETLIST --config=scripts/config.json $filename -o setlists/$SETLIST/"${filename%.chopro}.pdf"
+  chordpro --meta=user=$SETLIST --config=scripts/config-new2.json $filename -o setlists/$SETLIST/"${filename%.chopro}.pdf"
 
-  chordpro --meta=user=$SETLIST -l --config=scripts/config.json $filename -o setlists/$SETLIST/"${filename%.chopro}.nochords.pdf"
+  chordpro --meta=user=$SETLIST -l --config=scripts/config-new2.json $filename -o setlists/$SETLIST/"${filename%.chopro}.nochords.pdf"
 
   cp $filename setlists/$SETLIST/songs/
 
