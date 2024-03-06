@@ -2,7 +2,16 @@
 {st:Goose}
 {key: F}
 {tempo: 110}
-{meta: vocals PJ}
+{meta: vocals MV}
+
+{start_of_textblock label="" flush="right" anchor="line" x="100%"}
+Key: %{key}
+Tempo: %{tempo}
+Vocals: %{vocals}
+{end_of_textblock}
+{sot: Intro}
+|: F .... | Eb .... | Eb .... | F .... :|
+{eot}
 
 {sov: V1}
 [F]Hope. It's bent like [Eb]rope. Oh, I'm growing tired
@@ -20,7 +29,7 @@ Hanging [Bm]on, they've taken [Ab]all, but we won't [Db]lay that [Eb]down
 {eov}
 
 {sot: Solo 1}
-Over F / Eb / F
+| F .... | Eb .... | Eb .... | F .... |
 {eot}
 
 {sov: V2}
@@ -28,17 +37,21 @@ Over F / Eb / F
 I know it's now nearing [F]view
 [F]There. It's only [Eb]air. Nothing tethered to the garment
 We're climbing [F]through
+<i> Chorus </i>
 {eov}
 
-<i> Chorus </i>
+{sot: Solo 2}
+| F .... | Eb .... | Eb .... | F .... |
+{eot}
 
+<i> Chorus </i>
 
 {sot: Jam}
-Over F / Eb / F
+| F .... | Eb .... | Eb .... | F .... |
+Starts quiet: Intro riff
+Dissolves into jam in F.
 {eot}
 
-<i> Chorus </i>
-
-{sot: Notes}
+{sov: Notes}
 6/25/22 (https://www.youtube.com/watch?v=nHR_guYzB20)
-{eot}
+{eov}
