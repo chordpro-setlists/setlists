@@ -10,7 +10,7 @@ Tempo: %{tempo}
 Vocals: %{vocals}
 {end_of_textblock}
 {sot: Intro}
-||: A / / / | %      | %       |  %    :||
+|: A / / /  | %      | %       | %      :|
 {eot}
 
 {sot: Verse}
@@ -55,7 +55,7 @@ Can't stop the train, gotta let it roll on
 {eov}
 
 {sot: Outro}
-||: A / / / | %      | %     |  %    :||
+|: A / / / | %      | %     |  %    :|
 {eot}
 
 {sov: Notes}

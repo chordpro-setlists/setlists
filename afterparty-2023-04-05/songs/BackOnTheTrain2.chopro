@@ -10,13 +10,13 @@ Tempo: %{tempo}
 Vocals: %{vocals}
 {end_of_textblock}
 {sot: Intro}
-||: F9 / / / :||
+|: F9 / / / :|
 {eot}
 
 {sot: Verse}
-| F9 / / /   | F9 / Bb Ab |
-| F9 / / /   | Bb / Ab /  |
-| Eb / Bb Ab | F9 / /  /  |
+| F9 . . .   | Bb / Ab / |
+| F9 / / /   | Bb / Ab / |
+| Eb / Bb Ab | F9 . . .  |
 {eot}
 
 {sov: V1}

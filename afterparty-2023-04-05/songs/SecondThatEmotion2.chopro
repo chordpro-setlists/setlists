@@ -11,7 +11,7 @@ Tempo: %{tempo}
 Vocals: %{vocals}
 {end_of_textblock}
 {sot: Intro}
-4x ||: E / D / | A / / / :|| A / / / |
+4x |: E / D / | A / / / :| A / / / |
 {eot}
 
 {sot: Verse}
@@ -26,8 +26,8 @@ A taste of honey is worse than none at all
 {eov}
 
 {sot: Chorus}
-2x ||: D / / / | A / / / :||
-2x ||: A / / / | E / D / | D / / / | A / / / :||
+2x |: D / / / | A / / / :|
+2x |: A / / / | E / D /  | D / / / | A / / / :|
 {eot}
 
 {sov}

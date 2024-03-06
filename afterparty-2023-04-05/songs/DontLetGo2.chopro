@@ -10,11 +10,11 @@ Tempo: %{tempo}
 Vocals: %{vocals}
 {end_of_textblock}
 {sot: Intro}
- | >A / / DA | >A / >A / |
+| >A / / DA | >A / >A /  |
 {eot}
 
 {sot: Verse}
-||: A / / DA | >A / >A / :||
+|: A / / DA | >A / >A / :|
 {eot}
 
 {sov: V1}
@@ -25,8 +25,8 @@ Keeps me grinnin' from ear to ear <i>(Don't let go, don't let go)</i>
 {eov}
 
 {sot: Chorus}
-||: D / A /  | A / / D A :||
-||: A / / DA | >A / >A / :||
+|: D / A /  |  A /  /  DA :|
+|: A / / DA | >A / >A  /  :|
 {eot}
 
 {sov}
