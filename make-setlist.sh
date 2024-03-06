@@ -6,17 +6,17 @@
 # SETLIST="jam-2023-10-18"
 # SETLIST="jam-2023-11-08"
 # SETLIST="jam-2023-12-06"
-# SETLIST="afterparty-2023-04-05"
-SETLIST="song-test"
+#SETLIST="song-test"
+SETLIST="afterparty-2023-04-05"
 VERSION="" # Could replace with "-V1" if you want versioning.
 mkdir -p setlists/$SETLIST
 mkdir -p setlists/$SETLIST/songs
 
 ## Create the setlists (with and without lyrics)
 echo "Generating setlist for $SETLIST..."
-chordpro --config=scripts/config-default.json --config=scripts/contents.json -filelist setlist-definitions/$SETLIST.txt -o setlists/$SETLIST/setlist-$SETLIST${VERSION}.pdf
+chordpro --config=scripts/config-new2.json --config=scripts/contents.json -filelist setlist-definitions/$SETLIST.txt -o setlists/$SETLIST/setlist-$SETLIST${VERSION}.pdf
 
-chordpro -l --config=scripts/config.json --config=scripts/contents.json -filelist setlist-definitions/$SETLIST.txt -o setlists/$SETLIST/setlist-$SETLIST${VERSION}.nochords.pdf
+chordpro -l --config=scripts/config-new2.json --config=scripts/contents.json -filelist setlist-definitions/$SETLIST.txt -o setlists/$SETLIST/setlist-$SETLIST${VERSION}.nochords.pdf
 
 ## Create individual songs (with and without lyrics)
 echo "Generating individual songs..."

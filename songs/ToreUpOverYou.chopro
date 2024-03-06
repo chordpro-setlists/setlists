@@ -4,6 +4,14 @@
 {tempo: 130}
 {meta: vocals JM}
 
+{start_of_textblock label="" flush="right" anchor="line" x="100%"}
+Key: %{key}
+Tempo: %{tempo}
+Vocals: %{vocals}
+{end_of_textblock}
+{sot: Intro}
+| G /// | F /// | C /// | G //// |
+{eot}
 
 {sov: V1}
 [C]Ever since you been gone, I just cried the whole night long
@@ -21,16 +29,23 @@ Tore [G]up over you, and I [F]just can't find my [C]way.
 Never loved me like ya told me so, if you did how could you go?
 It was you not me that left, and went away with someone else
 Tore up over you, and I just can't find my way.
+<i>(Chorus)</i>
 {eov}
 
-{sot: Jam}
+{sov: Jam}
 Super Jam
-{eot}
+{eov}
 
 {sov: V3}
 Tell me what did I do, to make you go away?
 Tell me what can I say, to make you come back to stay?
 Tore up over you, and I just can't find my way.
+<i>(Chorus)</i>
+{eov}
+
+{sov: Outro}
+Tore up over you and I just can't find my way (X3)
+(Intro lick)
 {eov}
 
 {sot: Notes}

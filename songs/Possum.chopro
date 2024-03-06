@@ -5,6 +5,11 @@
 {meta: vocals PJ}
 
 
+{start_of_textblock label="" flush="right" anchor="line" x="100%"}
+Key: %{key}
+Tempo: %{tempo}
+Vocals: %{vocals}
+{end_of_textblock}
 {sov: V1}
 [E7]I come from atop the mountain baby where the people come to pray
 [A7]I come from atop the mountain baby where the people come to [E7]pray
@@ -23,6 +28,6 @@ Whoa [A7]possum, possum, possum... [E7]POSSUM.
 Whoa [B]possum, [G]your [A7]end is the [E]road
 {eov}
 
-{sot: Notes}
+{sov: Notes}
 12/04/09 (https://www.youtube.com/watch?v=Rz31jYsrLm4)
-{eot}
+{eov}

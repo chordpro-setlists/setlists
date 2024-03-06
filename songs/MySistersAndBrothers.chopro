@@ -4,7 +4,11 @@
 {tempo: 70}
 {meta: vocals JM}
 
-
+{start_of_textblock label="" flush="right" anchor="line" x="100%"}
+Key: %{key}
+Tempo: %{tempo}
+Vocals: %{vocals}
+{end_of_textblock}
 {sov: V1}
 [A]I want to say to my sisters and my brothers, "Keep the Faith"
 When the [D]storm flies and the wind blows go [E]on at a steady pace
@@ -43,6 +47,6 @@ We can all live together forever and ever, when we make it to the Promised Land.
 {eov}
 
 
-{sot: Notes}
+{sov: Notes}
 8/27/91 (https://www.youtube.com/watch?v=asMZcBKCLhs)
-{eot}
+{eov}

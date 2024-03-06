@@ -4,9 +4,13 @@
 {tempo: 100}
 {meta: vocals JM}
 
-
+{start_of_textblock label="" flush="right" anchor="line" x="100%"}
+Key: %{key}
+Tempo: %{tempo}
+Vocals: %{vocals}
+{end_of_textblock}
 {sot: Intro}
-C /// | F ///| C ///|
+|: C /// | F ///| C /// :|
 {eot}
 
 {sov: V1}
@@ -16,27 +20,29 @@ Something, something must be [C]wrong
 [C]Just left home this morning
 This old road keeps rolling on and [F]on
 Rolling, rolling on and [C]on
-[C]Won't somebody help me? (Somebody [F]help me?)  x 3
+[C]Won't somebody help me? <i>(Somebody [F]help me?)</i> (x3)
 [C]I've never been so lonesome and [Bb]long [F]way from [C]home
-(Never been lonesome and long way)
+<i>(Never been lonesome and long way)</i>
 {eov}
 
 <i>Repeat Verse 1</i>
 
 {sot: Break}
-C> |D /// | F ///| G# ///| G ///|
+| C>D /// |F /// | G# /// | G /// |
 {eot}
 
 {sot: Jam}
 JM lead over verse chords into open Jam in C
 MV > PJ > JM
-vamp to signal return to verse
+vamp to signal return to Verse1
 {eot}
 
-<i>Repeat V1</i>
-<i>Repeat Break</i>
-<i>end in C</i>
+{sov: Repeat}
+<i>Verse 1</i>
+<i>Break</i>
+<i>End in C</i>
+{eov}
 
-{sot: Notes}
+{sov: Notes}
 9/3/89 (https://www.youtube.com/watch?v=itwoxRg1Lug)
-{eot}
+{eov}

@@ -179,7 +179,7 @@
     // Set to non-zero to ignore the directive.
     "titles-directive-ignore": false,
     // Even/odd pages. A value of -1 denotes odd/even pages.
-    "even-odd-pages": 0,
+    "even-odd-pages": 1,
     // Align songs to even/odd pages. When greater than 1, force alignment.
     "pagealign-songs": 0,
     // PDF file to add as front matter.
@@ -358,7 +358,7 @@
         "frame": 1
       },
       "tab": {
-        "name": "Helvetica",
+        "name": "Courier",
         "size": 12
       },
       "toc": {

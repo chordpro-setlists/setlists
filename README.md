@@ -62,6 +62,8 @@ Your installation is OK when you can invoke the chordpro command successfully:
 This is ChordPro core 6.020 
 ```
 
+In my case, I downloaded the [source files](https://github.com/ChordPro/chordpro) from GitHub and used `sudo make` to build it. 
+
 ## 3. Create a setlist
 
 ### 3.1 Create the setlist definition file

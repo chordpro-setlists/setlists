@@ -1,0 +1,51 @@
+{t:Boogie On Reggae Woman}
+{st:Stevie Wonder}
+{key: G}
+{tempo: 105}
+{meta: vocals MV}
+
+{start_of_textblock label="" flush="right" anchor="line" x="100%"}
+Key: %{key}
+Tempo: %{tempo}
+Vocals: %{vocals}
+{end_of_textblock}
+{sov: V1}
+[G]I like to see you boogie right across the [C]floor,  [B] [Bb] [A]
+[A]I like to do it to you [D]til you holler for [G]more
+[G]I like to reggae but you dance too fast for [C]me, [B] [Bb] [A]
+[A]I'd like to make love to you, [D]so you can make me [G]scream
+{eov}
+
+{sov: Chorus}
+[G]Boogie on [G#]reggae [A]woman, [C]what is wrong with [F]me? [F] [G] [A]
+Boogie on [A]reggae woman, [D]baby can you [G]see?
+{eov}
+
+{sov: V2}
+I'd like to see both of us fall deeply in love
+I'd like to see you under, under the stars above
+I'd like to see us both fall deeply in love
+I'd like to see you in the raw under the stars above
+{eov}
+
+<i>Chorus</i>
+
+{sov: Solo}
+Guitar solo over changes.
+{eov}
+
+<i>Chorus</i>
+
+{sov: Jam}
+Klavinet-led jam, staying in G.
+{eov}
+
+{sov: Outro}
+Repeat chorus.
+End: G riff x 4
+{eov}
+
+{soV: Notes}
+Phish plays this up a half step (Ab).
+Hampton, 1998 (https://www.youtube.com/watch?v=q6IMshcg-ow)
+{eoV}

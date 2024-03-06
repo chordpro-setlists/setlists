@@ -4,6 +4,15 @@
 {tempo: 105}
 {meta: vocals JM}
 
+{start_of_textblock label="" flush="right" anchor="line" x="100%"}
+Key: %{key}
+Tempo: %{tempo}
+Vocals: %{vocals}
+{end_of_textblock}
+{sot: Intro}
+|: A / C C# ... :|
+{eot}
+
 {sov: Chorus}
 [A]Mama said, "Don't go [D]near that river,
 [A]Don't be hangin' around old Catfish [E]John"
@@ -15,34 +24,39 @@
 Take me back to another morning
 To a time so long ago
 When the sweet magnolias blossomed
-And the cotton fields were white as snow
+Cotton fields were white as snow
 {eov}
 
 {sov: V2}
 Catfish John was a river hobo
-He lived and died on the riverbend
-Thinking back, I still remember
+Lived and died by the river bend
+Looking back, I still remember
 I was proud to be his friend
+<i>Chorus</i>
 {eov}
 
-<i>Chorus</i>
+
+{sot: Lead}
+|: D / / / |A / / / :| A / E / |A / / / |
+{eot}
 
 {sov: V3}
 Born a slave in the town of Vicksburg
 Traded for a chestnut mare
-He never spoke a word in anger
+Lord he never spoke in anger
 Though his load was hard to bear
 {eov}
+
 
 {sov: V4}
 Let me dream of another morning
 And a time so long ago
 When the sweet magnolias blossom
 And the cotton fields were white as snow
+<i>Chorus</i>
 {eov}
 
-<i>Chorus</i>
 
-{sot: Notes}
+{sov: Notes}
 6/16/82 (https://www.youtube.com/watch?v=ANzJdVFaBGQ)
-{eot}
+{eov}

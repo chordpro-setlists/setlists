@@ -4,6 +4,15 @@
 {tempo: 100}
 {meta: vocals MV}
 
+{start_of_textblock label="" flush="right" anchor="line" x="100%"}
+Key: %{key}
+Tempo: %{tempo}
+Vocals: %{vocals}
+{end_of_textblock}
+{sot: Intro}
+(Vamp on E)
+NOTE: First two "A" chords of each verse are 10 bars long.
+{eot}
 
 {sov: V1}
 [A]Train I ride, [E]sixteen coaches long.
@@ -30,9 +39,9 @@ Well, I hate to tell you boy, that train don't stop here any more.
 [B]It took away my baby, [A]I'll never see her [E]again.
 {eov}
 
-{sot: Lead}
-(Through chords}
-{eot}
+{sov: Lead}
+(Verse chords}
+{eov}
 
 {sov: Bridge}
 [E]Well I went down to the station, to meet my baby at the gate
@@ -47,7 +56,7 @@ Well, I hate to tell you boy, that train don't stop here any more.
 [B]It took away my baby, [A]guess I got what I [E]deserve.
 {eov}
 
-{sot: Notes}
+{sov: Notes}
 7/9/77 (https://www.youtube.com/watch?v=lzGYBdhlxmg)
 3/22/78 (https://www.youtube.com/watch?v=GsxrHHDdRGg)
-{eot}
+{eov}

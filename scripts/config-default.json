@@ -152,7 +152,7 @@
     // "base" defaults to 1.
     // Use 0 for an empty string, and -1 for a muted string.
     // "fingers" is optional.
-    // "display" (optional) can be used to change the way the chord is displayed. 
+    // "display" (optional) can be used to change the way the chord is displayed.
     "chords" : [
       //  {
       //    "name"  : "Bb",
@@ -752,7 +752,7 @@
     },
 
     // Settings for the parser/preprocessor.
-    // For selected lines, you can specify a series of 
+    // For selected lines, you can specify a series of
     // { "target" : "xxx", "replace" : "yyy" }
     // Every occurrence of "xxx" will be replaced by "yyy".
     // Use wisely.
