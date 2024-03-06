@@ -1,0 +1,57 @@
+{t:Hungersite}
+{st:Goose}
+{key: F}
+{tempo: 110}
+{meta: vocals MV}
+
+{start_of_textblock label="" flush="right" anchor="line" x="100%"}
+Key: %{key}
+Tempo: %{tempo}
+Vocals: %{vocals}
+{end_of_textblock}
+{sot: Intro}
+|: F .... | Eb .... | Eb .... | F .... :|
+{eot}
+
+{sov: V1}
+[F]Hope. It's bent like [Eb]rope. Oh, I'm growing tired
+Of hauling on yester[F]day
+[F]Closed. Is that how it [Eb]goes. Well I might be rusted
+But brother, I'm here to [F]stay
+{eov}
+
+{sov: Chorus}
+[Eb]Is it time to shed our weapons yet my [F]friend
+Is it [Eb]love we've drawn away in our groundless [F]low
+Can we [Eb]step out of the wreckage yet my [F]friend
+Running [Gm]all [Am]against their [Bb]hungry sight[Cm]
+Hanging [Bb]on, they've taken [Ab]all, but we won't [Db]lay that [Eb]down
+{eov}
+
+{sot: Solo 1}
+| F .... | Eb .... | Eb .... | F .... |
+{eot}
+
+{sov: V2}
+[F]Breath. Don't it [Eb]let. Just a little closer
+I know it's now nearing [F]view
+[F]There. It's only [Eb]air. Nothing tethered to the garment
+We're climbing [F]through
+<i> Chorus </i>
+{eov}
+
+{sot: Solo 2}
+| F .... | Eb .... | Eb .... | F .... |
+{eot}
+
+<i> Chorus </i>
+
+{sot: Jam}
+| F .... | Eb .... | Eb .... | F .... |
+Starts quiet: Intro riff
+Dissolves into jam in F.
+{eot}
+
+{sov: Notes}
+6/25/22 (https://www.youtube.com/watch?v=nHR_guYzB20)
+{eov}
