@@ -15,8 +15,10 @@ mkdir -p setlists/$SETLIST/songs
 
 ## Set up the table of contents
 cp -f scripts/contents-template.json scripts/contents.json
-sed -i "s/@TITLE@/$SETLIST/g" scripts/contents.json
-sed -i "s/@VERSION@/$VERSIONNUM/g" scripts/contents.json
+sed -i -e "s/@TITLE@/$SETLIST/g" scripts/contents.json
+sed -i -e "s/@VERSION@/$VERSIONNUM/g" scripts/contents.json
+rm -f scripts/contents.json-e
+
 
 ## Create the setlists (with and without lyrics)
 echo "Generating setlist for $SETLIST..."
