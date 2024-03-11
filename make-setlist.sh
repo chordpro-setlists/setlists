@@ -1,15 +1,15 @@
 #!/bin/bash
 
-#SETLIST="phish"
+SETLIST="phish"
 #SETLIST="jam-2024-01-10"
 # SETLIST="tt-december"
 # SETLIST="jam-2023-10-18"
 # SETLIST="jam-2023-11-08"
 # SETLIST="jam-2023-12-06"
-#SETLIST="song-test"
-SETLIST="afterparty-2023-04-05"
-VERSIONNUM="1"
-VERSIONSUFFIX="-v1"
+# SETLIST="song-test"
+# SETLIST="afterparty-2023-04-05"
+# VERSIONNUM="1"
+# VERSIONSUFFIX="-v1"
 mkdir -p setlists/$SETLIST
 mkdir -p setlists/$SETLIST/songs
 
@@ -17,6 +17,7 @@ mkdir -p setlists/$SETLIST/songs
 cp -f scripts/contents-template.json scripts/contents.json
 sed -i -e "s/@TITLE@/$SETLIST/g" scripts/contents.json
 sed -i -e "s/@VERSION@/$VERSIONNUM/g" scripts/contents.json
+# Because macOS sed is different and will leave this file behind.
 rm -f scripts/contents.json-e
 
 

@@ -1,7 +1,8 @@
 {t:Everything's Right}
 {st:Phish}
 {key: A}
-{tempo: 145}
+{tempo: 80}
+{meta: vocals PJ}
 
 {textsize: 11}
 {tabsize: 11}
@@ -15,7 +16,7 @@ It's [E]time to get out, I paid my dues
 {sov: V2}
 My shoes have holes, my socks are bare, the mirror's secret is I'm losing my hair
 I'm in prison without a crime, the sentence stretches out undefined
-It's time to get out, I paid my dues, I paid my dues
+It's [D]time to get out, I paid my dues, I paid my dues
 {eov}
 
 {sov: Chorus}
@@ -55,16 +56,12 @@ Solo over changes.
 (full band) Na, Na, Na, Na, Yeah... (x4)
 {eot}
 
-{sot: Jam}
-Solo over A
+{sot: Jam/Outro}
+Solo over A. End with Build x 4:  A / G / C / D
+Ending: Na, Na, Na... Yeah (It's gonna be all right)
 {eot}
-
-{sot: Outro}
-Back to: Na, Na, Na... Yeah (It's gonna be all right)
-{eot}
-
 
 {sot: Notes}
-Vocals: Philip. Phish plays this in B. Easier to sing in A.
+Phish plays this in B. Easier to sing in A.
 11/9/22 (https://www.youtube.com/watch?v=GK4oldKYkiY)
 {eot}
