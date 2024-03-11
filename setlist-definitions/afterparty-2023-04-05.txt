@@ -7,7 +7,6 @@ songs/MidnightMoonlight.chopro
 songs/MeetDeBoys2.chopro
 songs/BoogieOnReggaeWoman2.chopro
 songs/JustOneMore.chopro
-songs/BlazeOn2.chopro
 songs/AfterMidnight2.chopro
 songs/WolfmansBrother2.chopro
 songs/QuinnTheEskimo2.chopro
@@ -19,3 +18,4 @@ songs/CatfishJohn.chopro
 songs/Possum.chopro
 songs/LonesomeAndALongWayFromHome.chopro
 songs/MySistersAndBrothers.chopro
+songs/BlazeOn2.chopro

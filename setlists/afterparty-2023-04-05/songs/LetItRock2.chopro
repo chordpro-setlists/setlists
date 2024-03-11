@@ -10,6 +10,7 @@ Tempo: %{tempo}
 Vocals: %{vocals}
 {end_of_textblock}
 {sot: Intro}
+(JM intro)
 |: A / / /  | %      | %       | %      :|
 {eot}
 
@@ -29,7 +30,7 @@ Payday's coming and my work is all done
 {eov}
 
 {sov: Lead}
-(Over verse)
+<i>MV</i>
 {eov}
 
 {sov: V2}
@@ -42,7 +43,7 @@ We've got an off-schedule train comin two miles about
 {eov}
 
 {sov: Lead}
-(Over verse)
+<i>JM</i>
 {eov}
 
 {sov: V3}
@@ -56,6 +57,7 @@ Can't stop the train, gotta let it roll on
 
 {sot: Outro}
 |: A / / / | %      | %     |  %    :|
+Hang on b7, PJ starts Back on the Train riff
 {eot}
 
 {sov: Notes}
