@@ -16,7 +16,9 @@ mkdir -p setlists/$SETLIST/songs
 ## Set up the table of contents
 cp -f scripts/contents-template.json scripts/contents.json
 sed -i -e "s/@TITLE@/$SETLIST/g" scripts/contents.json
-sed -i -e "s/@VERSION@/$VERSIONNUM/g" scripts/contents.json
+if [[ -z "$VERSIONNUM" ]]; then
+  sed -i -e "s/@VERSION@/$VERSIONNUM/g" scripts/contents.json
+fi
 # Because macOS sed is different and will leave this file behind.
 rm -f scripts/contents.json-e
 
