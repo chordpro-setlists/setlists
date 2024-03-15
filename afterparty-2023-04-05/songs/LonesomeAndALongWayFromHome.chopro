@@ -28,7 +28,7 @@ Rolling, rolling on and [C]on
 <i>Repeat Verse 1</i>
 
 {sot: Break}
-| C>D /// |F /// | G# /// | G /// |
+| C#>D /// | F /// | G# /// | G /// |
 {eot}
 
 {sot: Jam}
@@ -39,7 +39,7 @@ vamp to signal return to Verse1
 
 {sov: Repeat}
 <i>Verse 1</i>
-<i>Break</i>
+| C>C#>D /// | F /// | G# /// | G /// |
 <i>End in C</i>
 {eov}
 
