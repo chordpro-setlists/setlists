@@ -4,7 +4,7 @@
       "fields": [
         "songindex"
       ],
-      "label": "phish ",
+      "label": "afterparty-2023-04-05 (v 2)",
       "line": "%{songindex} <span>   </span> %{title}",
       "pageno": "%{vocals}<span>  </span>%{key}",
       "fold": false,

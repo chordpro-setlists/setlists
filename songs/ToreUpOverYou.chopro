@@ -2,7 +2,7 @@
 {st: Jerry Garcia Band}
 {key: C}
 {tempo: 130}
-{meta: vocals JM}
+{meta: vocals MV}
 
 {start_of_textblock label="" flush="right" anchor="line" x="100%"}
 Key: %{key}
