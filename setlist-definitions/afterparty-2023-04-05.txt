@@ -17,5 +17,6 @@ songs/CatfishJohn.chopro
 songs/BoogieOnReggaeWoman2.chopro
 songs/Possum.chopro
 songs/LonesomeAndALongWayFromHome.chopro
+songs/Encore.chopro
 songs/MySistersAndBrothers.chopro
 songs/BlazeOn2.chopro
