@@ -10,6 +10,7 @@ Tempo: %{tempo}
 Vocals: %{vocals}
 {end_of_textblock}
 {sot: Intro}
+guitar starts > everyone trickles in
 | >A / / DA | >A / >A /  |
 {eot}
 
@@ -65,7 +66,6 @@ Your lips kissing some other man <i>(Don't let go, don't let go)</i>
 {sov: Jam}
 <i>In A</i>
 <i>Fade to acapella "Don't Let Go"</i>
-<i>PJ starts Midnight Moonlight riff</i>
 {eov}
 
 {sov: Notes}
