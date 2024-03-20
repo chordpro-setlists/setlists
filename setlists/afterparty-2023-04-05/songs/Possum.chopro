@@ -10,6 +10,11 @@ Key: %{key}
 Tempo: %{tempo}
 Vocals: %{vocals}
 {end_of_textblock}
+
+{sov: Intro}
+Guitar only > add bass > long build with drums
+{eov}
+
 {sov: V1}
 [E7]I come from atop the mountain baby where the people come to pray
 [A7]I come from atop the mountain baby where the people come to [E7]pray
@@ -23,6 +28,7 @@ The road was his end, his end was the road, so they say
 {eov}
 
 {sov: Chorus}
+<i>(POSSUM: Four bar phrase)</i>
 Whoa [E7]possum, possum, possum... POSSUM.
 Whoa [A7]possum, possum, possum... [E7]POSSUM.
 Whoa [B]possum, [G]your [A7]end is the [E]road
@@ -32,9 +38,15 @@ Whoa [B]possum, [G]your [A7]end is the [E]road
 Over verse chords
 {eov}
 
-{sov: Repeat}
+{sov: V2}
 Repeat V2
-Repeat chorus. Extend the last "possum" prior to POSSUM.
+{eov}
+
+{sov: Chorus}
+<i>(POSSUM: Eight bar phrase)</i>
+Whoa [E7]possum, possum, possum... POSSUM.
+Whoa [A7]possum, possum, possum... [E7]POSSUM.
+Whoa [B]possum, [G]your [A7]end is the [E]road
 {eov}
 
 {sov: Outro}

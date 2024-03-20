@@ -11,7 +11,7 @@ Tempo: %{tempo}
 Vocals: %{vocals}
 {end_of_textblock}
 {sot: Intro}
-4x |: E / D / | A / / / :| A / / / |
+drum pickup ... 3&4, then 4x |: E / D / | A / / / :| A / / / |
 {eot}
 
 {sot: Verse}
@@ -59,8 +59,9 @@ And so it makes you wise to break the rules
 <i>V1/Chorus</i>
 {eov}
 
-{sov: Lead}
-<i>JM (once over verse/chorus, then stay in A)</i>
+{sov: Jam}
+<i>JM (once over verse/chorus)</i>
+<i>Jam in A</i>
 <i>PJ does intro riff to bring to verse</i>
 {eov}
 

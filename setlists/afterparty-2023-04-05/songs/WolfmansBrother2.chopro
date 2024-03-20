@@ -10,7 +10,7 @@ Tempo: %{tempo}
 Vocals: %{vocals}
 {end_of_textblock}
 {sot: Intro}
-Slow pickup: Gm > Ab -> drum fill -> |: Bb  Gm  Ab :|
+Keys: (Slow) Gm > Ab -> drum fill -> (All) |: Bb  Gm  Ab :|
 {eot}
 
 {sov: V1}
