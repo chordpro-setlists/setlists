@@ -4,7 +4,7 @@
       "fields": [
         "songindex"
       ],
-      "label": "afterparty-2023-04-05 (v 7)",
+      "label": "hsj-2023-04-05 (v 1)",
       "line": "%{songindex} <span>   </span> %{title}",
       "pageno": "%{vocals}<span>  </span>%{key}",
       "fold": false,
