@@ -1,0 +1,67 @@
+{t:Let it rock}
+{st: Chuck Berry}
+{key: A}
+{tempo: 110}
+{meta: vocals MV}
+
+{start_of_textblock label="" flush="right" anchor="line" x="100%"}
+Key: %{key}
+Tempo: %{tempo}
+Vocals: %{vocals}
+{end_of_textblock}
+{sot: Intro}
+(PJ intro)
+|: A / / /  | %      | %       | %      :|
+{eot}
+
+{sot: Verse}
+| A / / /   | %      | %       | %       |
+| D / / /   | %      | A / / / | %       |
+| E / / /   | %      | A / / / | %       |
+{eot}
+
+{sov: V1}
+Well up in the evening down in Mobile, Alabama
+Working on the railroad with the steel driving hammer
+Gotta make some money to buy some brand new shoes
+Trying to find somebody to take away these blues
+"She don't love me" hear them singing in the sun
+Payday's coming and my work is all done
+{eov}
+
+{sov: Lead}
+<i>MV</i>
+{eov}
+
+{sov: V2}
+Later in the evening when the sun is sinking low
+All day I been waiting for the whistle to blow
+Sitting in a tepee built right on the tracks
+Rolling them bones until the foreman comes back
+Pick up you belongings boys and scatter about
+We've got an off-schedule train comin two miles about
+{eov}
+
+{sov: Lead}
+<i>JM</i>
+{eov}
+
+{sov: V3}
+Everybody's trembling and running around
+Picking up their money, tearing the tepee down
+Foreman wants a penny about to go insane
+Trying to get the workers out the way of the train
+Engineer blowing the whistle loud and long
+Can't stop the train, gotta let it roll on
+{eov}
+
+{sot: Outro}
+4x |: A / / / | %      | %     |  %    :|
+Hang on b7 (i.e. G)
+{eot}
+
+
+
+{sov: Notes}
+6/24/82 (https://www.youtube.com/watch?v=Pi-TX6PK_bY)
+{eov}

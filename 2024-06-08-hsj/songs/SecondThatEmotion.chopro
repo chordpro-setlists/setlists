@@ -1,0 +1,80 @@
+{t: Second That Emotion}
+{st: Smokey Robinson}
+{key: A}
+{tempo: 90}
+{meta: vocals PJ}
+
+
+{start_of_textblock label="" flush="right" anchor="line" x="100%"}
+Key: %{key}
+Tempo: %{tempo}
+Vocals: %{vocals}
+{end_of_textblock}
+{sot: Intro}
+drum pickup ... 3&4, then 4x |: E / D / | A / / / :| A / / / |
+{eot}
+
+{sot: Verse}
+| A / / /| % | % | % | % | % |D / E / | A / / / |
+{eot}
+
+{sov}
+Maybe you want to give me kisses sweet
+But only for one night with no repeat
+And maybe you'll go away and never call
+A taste of honey is worse than none at all
+{eov}
+
+{sot: Chorus}
+2x |: D / / / | A / / / :|
+2x |: A / / / | E / D /  | D / / / | A / / / :|
+{eot}
+
+{sov}
+Oh in that case I don't want no part
+That that would only break my heart
+But if you feel like lovin' me
+If you got the notion, I second that emotion
+If you feel like giving me a lifetime of devotion
+I second that emotion
+{eov}
+
+{sov: Lead}
+<i>MV (over verse/chorus)</i>
+{eov}
+
+{sov: V2}
+Maybe you think that love would tie you down
+You don't have the time to hang around
+Maybe you think that love was made for fools
+And so it makes you wise to break the rules
+<i>(Chorus)</i>
+{eov}
+
+{sov: Lead}
+<i>PJ (over verse/chorus)</i>
+{eov}
+
+{sov: Repeat}
+<i>V1/Chorus</i>
+{eov}
+
+{sov: Jam}
+<i>JM (once over verse/chorus)</i>
+<i>Jam in A</i>
+<i>PJ does intro riff to bring to verse</i>
+{eov}
+
+{sov: Repeat}
+<i>V2/Chorus</i>
+{eov}
+
+{sov: Outro}
+Intro riff 4x
+{eov}
+
+
+
+{sov: Notes}
+Shoreline, 1990 (https://www.youtube.com/watch?v=xJXi5QhTIHc)
+{eov}
