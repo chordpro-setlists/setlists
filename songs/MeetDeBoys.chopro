@@ -4,16 +4,19 @@
 {tempo: 73}
 {meta: vocals JM}
 
+{start_of_textblock label="" flush="right" anchor="line" x="100%"}
+Key: %{key}
+Tempo: %{tempo}
+Vocals: %{vocals}
+{end_of_textblock}
 {sot: Intro}
-Idea: Larry taps: 1-2-3-4 1-2-3 (pickup) straight into Chorus.
+Drummer pickup, straight into chorus?
 {eot}
 
-{sov: Chorus}
-[F]Meet de boys on the Battlefront
-Meet de boys on the Battle[C]front
-Meet de boys on the Battlefront
-Yeah, the Wild Tchoupitoulas gonna stomp some [F]rump!
-{eov}
+{sot}
+| F / / / | / / / C |
+| C / / / | / / / F |
+{eot}
 
 {sov: V1}
 Oh the prettiest little thing that I ever seen
@@ -27,6 +30,14 @@ Injuns comin' from all over town
 Big Chief singin', gonna take 'em down
 A Jackimo feeno, hey-la-hey
 Injuns are rulers on the holiday
+{eov}
+
+{sov: Chorus}
+Meet de boys on the Battlefront
+Meet de boys on the Battlefront
+Meet de boys on the Battlefront
+Yeah, the Wild Tchoupitoulas gonna stomp some rump!
+<i>Lead</i>
 {eov}
 
 {sov: V3}
@@ -43,6 +54,8 @@ I walked through fire and I swam through mud
 Snatched the features from an eagle, drank panther blood
 {eov}
 
+<i>Chorus + Lead</i>
+
 {sov: V5}
 Got an itty bitty spy, got a heart of steel
 If his shank won't get you, his hatchet will
@@ -57,7 +70,11 @@ We get back home, we're gonna kneel and pray
 We had some fun on the holiday
 {eov}
 
-{sot: Notes}
+<i>Chorus + Lead</i>
+
+
+
+{sov: Notes}
 Album (https://www.youtube.com/watch?v=n643nLCbMoE)
 2/17/23 (Dumpstaphunk) (https://www.youtube.com/watch?v=kQU53AVjnc0)
-{eot}
+{eov}

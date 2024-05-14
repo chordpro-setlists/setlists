@@ -4,14 +4,33 @@
 {tempo: 160}
 {meta: vocals JM}
 
-{transpose: -9}
+{start_of_textblock label="" flush="right" anchor="line" x="100%"}
+Key: %{key}
+Tempo: %{tempo}
+Vocals: %{vocals}
+{end_of_textblock}
+{sot: Intro}
+G7 vamp
+{eot}
+
+{sot: Form}
+| G7 / / / | Bb / C / | G7 / / / | G7 / / / |
+| G7 / / / | Bb / C / | G7 / / / | G7 / / / |
+| G7 / / / | Bb / / / | C  / / / | D  / / / |
+| G7 / / / | Bb / C / | G7 / / / | G7 / / / |
+{eot}
+
 {sov: V1}
-[E7]After midnight [G]we gonna [A]let it all hang [E7]out
-[E7]After midnight [G]we gonna [A]chugalug and [E7]shout
-[E7]Gonna cause talk and suspicion
-[G]We gonna give an exhibition
-[A]We gonna find out what it is all [B]about
-[E7]After midnight [G]we gonna [A]let it all hang [E7]down
+After midnight we gonna let it all hang out
+After midnight we gonna chugalug and shout
+Gonna cause talk and suspicion
+We gonna give an exhibition
+We gonna find out what it is all about
+After midnight we gonna let it all hang down
+{eov}
+
+{sov: Lead}
+<i>(Over verse chords)</i>
 {eov}
 
 {sov: V2}
@@ -23,7 +42,25 @@ We gonna find out what it is all about
 After midnight we gonna let it all hang down
 {eov}
 
+{sov: Lead}
+<i>(Over verse chords)</i>
+{eov}
 
-{sot: Notes}
-2/28/80 (https://www.youtube.com/watch?v=ejJPy-ONqJc)
+{sov: Repeat}
+<i>(Verse 1)</i>
+{eov}
+
+{sot: Jam}
+G7
 {eot}
+
+{sov: Outro}
+<i>(Verse 1)</i>
+<i>(Repeat "After midnight we gonna let it all hang down" to end.)</i>
+{eov}
+
+
+
+{sov: Notes}
+2/28/80 (https://www.youtube.com/watch?v=ejJPy-ONqJc)
+{eov}

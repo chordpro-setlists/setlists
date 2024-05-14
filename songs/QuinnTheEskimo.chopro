@@ -4,7 +4,14 @@
 {tempo: 160}
 {meta: vocals PJ}
 
-
+{start_of_textblock label="" flush="right" anchor="line" x="100%"}
+Key: %{key}
+Tempo: %{tempo}
+Vocals: %{vocals}
+{end_of_textblock}
+{sot: Intro}
+| C / G / | F / C / |
+{eot}
 {sov: V1}
 Well, [C]everybody's [F]building [C]big ships and [F]boats
 [C]Some are building [F]monuments, [C]others jotting down [F]notes
@@ -13,10 +20,10 @@ But when [C]Quinn the Eskimo [G]gets here, every[F]body's gonna jump for [C]joy
 {eov}
 
 {sov: Chorus}
-[C]Come all without, [F]come all within
-[C]You'll not see nothing like the [G]mighty [C]Quinn
-[C]Come all without, [F]come all within
-[C]You'll not see nothing like the [G]mighty [C]Quinn
+[C]Come all without, [G]come all with[C]in
+[C]You'll not see nothing like the [F]mighty [C]Quinn
+[C]Come all without, [G]come all with[C]in
+[C]You'll not see nothing like the [F]mighty [C]Quinn
 {eov}
 
 {sov: V2}
@@ -24,26 +31,34 @@ I like to do just like the rest, I like my sugar sweet
 But jumping queues and making haste just ain't my cup of meat.
 Everybody's out there feeding pigeons on a limb
 But when Quinn the Eskimo gets here, the pigeons gonna run to him
+<i>Chorus > Short Lead over C/F only</i>
 {eov}
 
-<i>Chorus</i>
 
 {sov: V3}
 A cat's meow and a cow's moo, I can recite them all,
 Tell me where it hurts you, honey, and I'll tell you who to call
 Nobody can get any sleep, there's someone on everybody's toes
 When Quinn the Eskimo gets here, everybody's gonna wanna doze
+<i>Chorus</i>
 {eov}
 
-<i>Chorus</i>
-<i>Lead</i>
-<i>Chorus 2x: acapella</i>
-<i>Chorus 2x: with instruments</i>
-<i>Outro</i>
+{sov: Lead}
+<i>MV -> JM -> PJ: Over verse chords only </i>
+{eov}
+
+{sov: Chorus}
+<i>Chorus: acapella + drums</i>
+<i>Chorus: with instruments</i>
+{eov}
+
+{sot: Outro}
+| C / G / | F / C / |
+{eot}
 
 
 
-{sot: Notes}
+{sov: Notes}
 12/27/86 (Grateful Dead) (https://youtu.be/Fx91uWtocDg?t=80)
 12/30/11 (Phish) (https://www.youtube.com/watch?v=Xiw8fVtlQ00)
-{eot}
+{eov}

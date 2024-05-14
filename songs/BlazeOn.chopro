@@ -4,6 +4,15 @@
 {tempo: 90}
 {meta: vocals PJ}
 
+{start_of_textblock label="" flush="right" anchor="line" x="100%"}
+Key: %{key}
+Tempo: %{tempo}
+Vocals: %{vocals}
+{end_of_textblock}
+{sot: Intro}
+PJ gtr lick > drum fill > add rest (mellow)
+{eot}
+
 {sov: V1}
 [C]Climb that hill, stay on your feet
 [G]Scramble for your footing when it [C]gets too steep
@@ -36,9 +45,9 @@ And then one day you'll find to your intense delight
 That 3 wrong turns can really make a right
 So why not be like me? Be proud of all your crimes
 Cause when i screw up once, I do it 2 more times
+<i>(Chorus)</i>
 {eov}
 
-<i>Chorus</i>
 
 {sov: V3}
 [C]And we'll be [F]dancing in the fields, running through the [C]moor,
@@ -47,9 +56,9 @@ Cause when i screw up once, I do it 2 more times
 So you [G]better get ready, cause a change is coming soon,
 I met a [F]liar, called the [C]messiah, I got the [G]frying pan, I wanted [C]fire,
 I saw a [F]red dress, I met a [C]daughter, I got the [G]quicksand, I prayed for water.
+<i>(Chorus)</i>
 {eov}
 
-<i>Chorus</i>
 
 {sot: Jam}
 Bb -> C riff into jam in C.
@@ -59,6 +68,6 @@ Bb -> C riff into jam in C.
 Bb -> C riff and "Blaze On" repeated.
 {eot}
 
-{sot: Notes}
+{sov: Notes}
 7/29/17 (https://www.youtube.com/watch?v=GFdgMrDrXbI)
-{eot}
+{eov}

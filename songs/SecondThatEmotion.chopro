@@ -5,22 +5,42 @@
 {meta: vocals PJ}
 
 
-<i>Intro: E  E | D D | A A </i>
+{start_of_textblock label="" flush="right" anchor="line" x="100%"}
+Key: %{key}
+Tempo: %{tempo}
+Vocals: %{vocals}
+{end_of_textblock}
+{sot: Intro}
+drum pickup ... 3&4, then 4x |: E / D / | A / / / :| A / / / |
+{eot}
 
-{sov: V1}
-[A]Maybe you want to give me kisses sweet
-[A]But only for one night with no repeat
-[A]And maybe you'll go away and never call
-A [D]taste of honey is [E]worse than none at [A]all
+{sot: Verse}
+| A / / /| % | % | % | % | % |D / E / | A / / / |
+{eot}
+
+{sov}
+Maybe you want to give me kisses sweet
+But only for one night with no repeat
+And maybe you'll go away and never call
+A taste of honey is worse than none at all
 {eov}
 
-{sov: Chorus}
-[A]Oh in [D]that case I don't want no [A]part
-[D]That that would only break my [A]heart
-But [A]if you feel like lovin' me
-[D]If you got the notion, I second that e[A]motion
-[A]If you feel like givin' me a [E]lifetime of de[D]votion
-I second that e[A]motion [E] [E] [D] [D] [A] [A]
+{sot: Chorus}
+2x |: D / / / | A / / / :|
+2x |: A / / / | E / D /  | D / / / | A / / / :|
+{eot}
+
+{sov}
+Oh in that case I don't want no part
+That that would only break my heart
+But if you feel like lovin' me
+If you got the notion, I second that emotion
+If you feel like giving me a lifetime of devotion
+I second that emotion
+{eov}
+
+{sov: Lead}
+<i>MV (over verse/chorus)</i>
 {eov}
 
 {sov: V2}
@@ -28,16 +48,33 @@ Maybe you think that love would tie you down
 You don't have the time to hang around
 Maybe you think that love was made for fools
 And so it makes you wise to break the rules
+<i>(Chorus)</i>
 {eov}
 
-<i>(Chorus)</i>
-<i>(Lead)</i>
-<i>(V1 Repeated)</i>
+{sov: Lead}
+<i>PJ (over verse/chorus)</i>
+{eov}
 
-{sot: Next}
-Tore up over you
-{eot}
+{sov: Repeat}
+<i>V1/Chorus</i>
+{eov}
 
-{sot: Notes}
+{sov: Jam}
+<i>JM (once over verse/chorus)</i>
+<i>Jam in A</i>
+<i>PJ does intro riff to bring to verse</i>
+{eov}
+
+{sov: Repeat}
+<i>V2/Chorus</i>
+{eov}
+
+{sov: Outro}
+Intro riff 4x
+{eov}
+
+
+
+{sov: Notes}
 Shoreline, 1990 (https://www.youtube.com/watch?v=xJXi5QhTIHc)
-{eot}
+{eov}

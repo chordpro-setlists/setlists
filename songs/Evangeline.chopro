@@ -4,34 +4,62 @@
 {tempo: 95}
 {meta: vocals JM}
 
-{sov: Chorus}
-[D]Evangeline, she's on her own
-Just barely [A]seventeen, when she left [D]home  [G] [A]
-Don't know where she's [D]been, [D7]or where she's [G]gone [Gm],
-She is the [D]queen of make-[A]believe, Evange[D]line. [G] [A]
+{start_of_textblock label="" flush="right" anchor="line" x="100%"}
+Key: %{key}
+Tempo: %{tempo}
+Vocals: %{vocals}
+{end_of_textblock}
+{sov: Intro}
+<i>(JM pickup to start, instrumental over chorus)</i>
 {eov}
 
-{sov: V1}
-[D]I still re[A]member this little [D]girl,
-Black eyes just [A]starin' at this mean old [D]world
-Went off to [A]find some some American [D]dream,
-Train ticket in the [A]pocket, [G]of her new blue [D]jeans [G] [A]
+{sot: Chorus}
+|D / / /  | %        | A / / / | D GD A / |
+|D / D7 / | G / Gm / | D / A / | D GD D / |
+{eot}
+
+{sov}
+Evangeline, she's on her own
+Just barely seventeen, when she left home
+Don't know where she's been, or where she's gone,
+She is the queen of make-believe, Evangeline.
 {eov}
 
-<i>Chorus</i>
+{sot: Verse}
+| A / / / | D / / / | A / / / | D / / / |
+| G / / / | D / / / | A / / / | D GD A /|
+{eot}
 
-{sov: V1}
+{sov}
+I still remember this little girl,
+Black eyes just starin' at this mean old world
+Went off to find some, some American dream,
+Train ticket in the pocket of her new blue jeans
+<i>(Chorus)</i>
+{eov}
+
+{sov: V2}
 She went out dancin', on a Saturday night
 Silk stockings and high heels, looking fine and just right
 On Sunday mornin', she's on her own
 Head lyin' on the back stair, by the telephone
 {eov}
 
-<i>Chorus</i>
-<i>Lead</i>
-<i>Repeat V1</i>
-<i>Chorus 2x</i>
+{sov: Lead}
+<i>MV -> JM </i>
+{eov}
 
-{sot: Notes}
-9/10/89 (https://www.youtube.com/watch?v=Gc3ohWI9Ic0)
+{sov: Repeat}
+<i>(V1)</i>
+<i>(Chorus X 2)</i>
+{eov}
+
+{sot: Tag}
+| D / A / | D GD D |
 {eot}
+
+
+
+{sov: Notes}
+9/10/89 (https://www.youtube.com/watch?v=Gc3ohWI9Ic0)
+{eov}

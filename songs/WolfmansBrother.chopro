@@ -4,9 +4,13 @@
 {tempo: 92}
 {meta: vocals MV}
 
-
+{start_of_textblock label="" flush="right" anchor="line" x="100%"}
+Key: %{key}
+Tempo: %{tempo}
+Vocals: %{vocals}
+{end_of_textblock}
 {sot: Intro}
-| Bb / Gm Ab |
+Keys: (Slow) Gm > Ab -> drum fill -> (All) |: Bb  Gm  Ab :|
 {eot}
 
 {sov: V1}
@@ -49,7 +53,10 @@ It's the Wolfman's Brother, the Wolfman's Brother
 Comin' down on...comin' down on me.
 {eov}
 
-{sot: Notes}
-Emil's tab (https://www.emilstabs.org/tabs/Wolfman's%20Brother.txt)
-7/3/13 (https://www.youtube.com/watch?v=ARufTkR9BpU)
+{sot: Jam}
+Vocal Jam over |: Bb  Gm  Ab :|
+  * Justin: "Wolfman's Brother"
+  * Matt: "Shouldn't have took more than you gave"
+  * Philip: scat
+ Dissolve into Bb jam > |: Bb  Gm  Ab :| to outro
 {eot}
