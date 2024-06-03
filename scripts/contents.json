@@ -6,7 +6,7 @@
       ],
       "label": "2024-06-08-hsj (v 2)",
       "line": "%{songindex} <span>   </span> %{title}",
-      "pageno": "%{vocals}<span>  </span>%{key}",
+      "pageno": "%{vocals}<span>  </span>%{key}<span>  </span>%{timing}",
       "fold": false,
       "omit": false
     }

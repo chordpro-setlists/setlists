@@ -3,6 +3,7 @@
 {key: Bb}
 {tempo: 92}
 {meta: vocals MV}
+{meta: timing 07min}
 
 {start_of_textblock label="" flush="right" anchor="line" x="100%"}
 Key: %{key}

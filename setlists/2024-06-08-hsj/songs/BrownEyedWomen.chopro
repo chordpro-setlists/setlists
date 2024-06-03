@@ -3,6 +3,7 @@
 {key: A}
 {tempo: 111}
 {meta: vocals JM}
+{meta: timing ??min}
 
 {start_of_textblock label="" flush="right" anchor="line" x="100%"}
 Key: %{key}
@@ -17,7 +18,7 @@ C#m  E  A  E
 [C#m]Gone are the days when the [E]ox fall down,
 [B]Take up the yoke and plow the [A]fields around.
 [C#m]Gone are the days when the [E]ladies said, "Please,
-[A]Gentle Jack Jones, won't you come home to [E]me?"
+[A]Gentle Jack Jones, won't you come to [E]me?"
 {eov}
 
 {sov: Chorus}
@@ -29,7 +30,7 @@ And it [F#m]looks like the old man's [A]getting [E]on.
 
 {sov: V2}
 1920 when he stepped to the bar, Drank to the dregs of the whiskey jar.
-1930 when the walls caved in, He made his way sellin' red-eyed gin.
+1930 when the Wall caved in, He made his way sellin' red-eyed gin.
 {eov}
 <i>Chorus</i>
 
