@@ -17,7 +17,7 @@ Vocals: %{vocals}
 {eov}
 
 {sot: Lead}
-MV Lead
+MV
 {eot}
 
 {sov: V2}
@@ -27,7 +27,7 @@ This old way, And I ain't goin be treated this old way.
 {eov}
 
 {sot: Lead}
-Melodic lead (PJ+MV) ->MV lead
+Melodic lead (PJ+MV) -> MV lead
 {eot}
 
 {sov: V3}
@@ -37,12 +37,12 @@ Winds don't blow, going where those chilly winds don't blow.
 {eov}
 
 {sot: Lead}
-PJ lead
+PJ
 {eot}
 
-{sot: V1}
-Repeat V1
-{eot}
+{sov: Repeat}
+V1
+{eov}
 
 {sov: Outro}
 Run me out in the cold rain and snow (4x)

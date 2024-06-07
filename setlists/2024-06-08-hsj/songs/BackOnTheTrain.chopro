@@ -36,9 +36,9 @@ I turn my face into the howlin' wind
 It took me a long time to get back on the train
 {eov}
 
-{sov: Lead}
-<i>(Over verse chords)</i>
-{eov}
+{sot: Lead}
+Over verse chords
+{eot}
 
 {sov: V3}
 See my face in the town that's flashing by
@@ -58,17 +58,13 @@ It took me a long time to get back on the train
 It took me a long time to get back on the train
 {eov}
 
-{sov: Jam}
-<i>Starts in F</i>
+{sot: Jam}
+Stay in F.
+{eot}
+
+{sov: Repeat}
+V4
 {eov}
-
-{sov: Outro}
-<i>(Repeat V4)</i>
-{eov}
-
-
-
-
 
 {sov: Notes}
 8/29/2021 (https://www.youtube.com/watch?v=cJAZLawDkJg)

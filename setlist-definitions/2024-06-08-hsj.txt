@@ -1,13 +1,14 @@
 songs/ColdRainAndSnow.chopro
-songs/Bug.chopro
-songs/SecondThatEmotion.chopro
-songs/ToreUpOverYou.chopro
-songs/BackOnTheTrain.chopro
 songs/BoogieOnReggaeWoman.chopro
+songs/SecondThatEmotion.chopro
+songs/BackOnTheTrain.chopro
+songs/Bug.chopro
 songs/QuinnTheEskimo.chopro
+songs/ToreUpOverYou.chopro
 songs/Evangeline.chopro
 songs/LetItRock.chopro
 songs/MidnightMoonlight.chopro
+songs/SetBreak.chopro
 songs/BrownEyedWomen.chopro
 songs/EverythingsRight.chopro
 songs/AfterMidnight.chopro
@@ -18,5 +19,6 @@ songs/IKnowYouRider.chopro
 songs/WolfmansBrother.chopro
 songs/JustOneMore.chopro
 songs/Possum.chopro
+songs/Encore.chopro
 songs/LonesomeAndALongWayFromHome.chopro
 songs/BlazeOn.chopro
