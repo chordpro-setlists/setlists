@@ -1,9 +1,9 @@
 songs/ColdRainAndSnow.chopro
 songs/BoogieOnReggaeWoman.chopro
 songs/SecondThatEmotion.chopro
-songs/BackOnTheTrain.chopro
 songs/Bug.chopro
 songs/QuinnTheEskimo.chopro
+songs/BackOnTheTrain.chopro
 songs/ToreUpOverYou.chopro
 songs/Evangeline.chopro
 songs/LetItRock.chopro
