@@ -1,0 +1,63 @@
+{t:Shakedown Street}
+{st:Grateful Dead}
+{key: Dm}
+{tempo: 110}
+{meta: vocals ??}
+{meta: timing 10min}
+
+{start_of_textblock label="" flush="right" anchor="line" x="100%"}
+Key: %{key}
+Tempo: %{tempo}
+Vocals: %{vocals}
+{end_of_textblock}
+{sot: Form}
+Intro: Dm
+Verse: | G /// | F C9 | Dm ///|
+Chorus: ||: C7 /// | % :|| (4x),
+followed by: ||: Dm ///|  % :||  (4x)
+{eot}
+{sov: V1}
+You tell me this town ain't got no heart
+The sunny side of the street is dark
+Maybe that's cause it's midnight,
+In the dark of the moon besides.
+Maybe the dark is from your eyes (x3)
+You know you got such dark eyes!
+{eov}
+
+{sov: Chorus}
+Nothing shaking on Shakedown Street
+Used to be the heart of town
+Don't tell me this town ain't got no heart.
+You just gotta poke around.
+{eov}
+
+{sov: V2}
+You think you've seen this town clear through
+Nothin' here that could interest you
+It's not because you missed out
+On the thing that we had to start.
+Maybe you had too much too fast (x3)
+Or just over played your part.
+{eov}
+
+{c: Chorus }
+{c: Short lead }
+
+{sov: V3}
+Since I'm passing your way today
+I just stopped in 'cause I want to say
+I recall your darkness
+When it crackled like a thundercloud.
+Don't tell me this town ain't got no heart (x3)
+When I can hear it beat out loud!
+{eov}
+
+{c: Full Chorus x 4}
+{c: "Don't tell me this town.." x 4 }
+{c: Long Jam in C7}
+{c: Chorus x 2 -> End }
+
+{sov: Notes}
+7/26/87 (https://www.youtube.com/watch?v=7IgyGOUk2jw)
+{eov}
