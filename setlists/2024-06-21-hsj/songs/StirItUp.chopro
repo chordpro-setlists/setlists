@@ -1,0 +1,58 @@
+{t:Stir It Up}
+{st:Bob Marley}
+{key: Em}
+{tempo: 75}
+{meta: vocals ??}
+{meta: timing 10min}
+
+{start_of_textblock label="" flush="right" anchor="line" x="100%"}
+Key: %{key}
+Tempo: %{tempo}
+Vocals: %{vocals}
+{end_of_textblock}
+{sot: Intro}
+Em / A7
+{eot}
+
+{sot: Form}
+| A / / / | D / E / |
+{eot}
+
+{sov: V1}
+Stir it up; little darlin', stir it up. Come on, baby.
+Come on and stir it up: little darlin', stir it up. O-oh!
+It's been a long, long time, yeah!
+Since I got you on my mind. (oh-oh-oh-oh) Oh-oh!
+Now you are here, I said,
+It's so clear
+There's so much we could do, baby,
+Just me and you.
+{eov}
+
+{sov: Chorus}
+Come on and stir it up, little darlin'!
+Stir it up, come on, baby!
+Come on and stir it up, yeah!
+Little darlin', stir it up! O-oh!
+{eov}
+
+{sov: V2}
+I'll push the wood,
+Then I blaze ya fire;
+Then I'll satisfy your heart's desire.
+Said, I stir it every minute,
+All you got to do, baby,
+Is keep it in, eh!
+{eov}
+
+
+{sov: V2}
+Quench me when I'm thirsty,
+Come on and cool me down, baby, when I'm hot.
+Your recipe is, darlin' is so tasty,
+When you show and stir your pot.
+{eov}
+
+{sov: Notes}
+1973 (https://www.youtube.com/watch?v=rf8GjhXvOjU)
+{eov}

@@ -1,0 +1,5 @@
+songs/DownByTheRiver.chopro
+songs/HardToHandle.chopro
+songs/Hungersite.chopro
+songs/StirItUp.chopro
+songs/BlazeOn.chopro
