@@ -1,6 +1,6 @@
 {t:Stir It Up}
 {st:Bob Marley}
-{key: Em}
+{key: A}
 {tempo: 75}
 {meta: vocals MV}
 {meta: timing 10min}
@@ -10,9 +10,6 @@ Key: %{key}
 Tempo: %{tempo}
 Vocals: %{vocals}
 {end_of_textblock}
-{sot: Intro}
-Em / A7
-{eot}
 {sot: Form}
 | A / / / | D / E / |
 {eot}
