@@ -3,3 +3,4 @@ songs/HardToHandle.chopro
 songs/Hungersite.chopro
 songs/StirItUp.chopro
 songs/BlazeOn.chopro
+songs/WhiteRoom.chopro

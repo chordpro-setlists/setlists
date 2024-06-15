@@ -1,8 +1,8 @@
 {t:Hard To Handle}
-{st:Grateful Dead}
+{st:Otis Redding}
 {key: B}
 {tempo: 100}
-{meta: vocals ??}
+{meta: vocals JM}
 {meta: timing 10min}
 
 {start_of_textblock label="" flush="right" anchor="line" x="100%"}
@@ -19,7 +19,8 @@ Verse:
 | B / / / | B  / / / | B / / / | B  / / / |
 Chorus:
 | F# / / / |
-| D E A B |
+| B  / / / |
+| A  E B / |
 {eot}
 
 {sov: V1}
@@ -65,6 +66,8 @@ Verse chords
 
 
 {sov: Notes}
+Black Crowes (https://www.youtube.com/watch?v=BRcs_OzQb14)
+Otis Reading (https://www.youtube.com/watch?v=w7D-OQHIfqU)
 8/6/71 (https://www.youtube.com/watch?v=Na9a79rdjxs)
 7/3/71, Yale Bowl (https://www.youtube.com/watch?v=24W9xoJa-q0)
 {eov}

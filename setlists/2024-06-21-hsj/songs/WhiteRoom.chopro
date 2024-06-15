@@ -1,0 +1,66 @@
+{t:White Room}
+{st:Cream}
+{key: E}
+{tempo: 110}
+{meta: vocals JM}
+{meta: timing 10min}
+
+{start_of_textblock label="" flush="right" anchor="line" x="100%"}
+Key: %{key}
+Tempo: %{tempo}
+Vocals: %{vocals}
+{end_of_textblock}
+{sot: Intro}
+Gm  F  Dm  C
+Ahh...
+
+Gm  F  Dm  C   A7
+Ahh...
+{eot}
+
+{sov: V1}
+In a [D]white room    with black [G]curtains near the [D]stations
+Blackroof [D]country   , no gold [G]pavements,     [C]tired [D]starlings,
+Silver [D]horses   run down [G]moonbeams [C]in your [D]dark eyes.
+Dawnlight [D]smiles   on your [G]leaving,       [C]my con[D]tentment.
+I'll [C]wait in this [G]place where the [Bb]sun never [A]shines.
+[C]Wait in this [G]place where the [Bb]shadows [C]run from them[D]selves.
+{eov}
+
+{sov: V2}
+You said no strings could secure you at the stations.
+Platform ticket, restless diesels, goodbye windows.
+I walked into such a sad time at the station.
+As I walked out felt my own need just beginning.
+I'll wait in the queue when the trains come back
+I'll wait for you where the shadows run from themselves
+{eov}
+
+{sot: Interlude}
+Gm  F  Dm  C
+Ahh...
+
+Gm  F  Dm  C   A7
+Ahh...
+{eot}
+
+{sov: V3}
+At the party she was kindness in the hard crowd
+Consolation from the old wound now forgotten
+Yellow tigers crouched in jungles in her dark eyes
+She's just dressing goodbye windows, tired starlings
+I'll sleep in this place with the lonely crowd,
+Lie in the dark where the shadows run from themselves
+{eov}
+
+{sot: Outro}
+Gm  F  Dm  C
+Ahh...
+
+Gm  F  Dm  C   A7
+Ahh...
+{eot}
+
+{sov: Notes}
+Studio (https://www.youtube.com/watch?v=V5BF1V1pbTs)
+{eov}
