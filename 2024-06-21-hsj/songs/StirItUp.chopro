@@ -2,7 +2,7 @@
 {st:Bob Marley}
 {key: Em}
 {tempo: 75}
-{meta: vocals ??}
+{meta: vocals MV}
 {meta: timing 10min}
 
 {start_of_textblock label="" flush="right" anchor="line" x="100%"}
@@ -13,7 +13,6 @@ Vocals: %{vocals}
 {sot: Intro}
 Em / A7
 {eot}
-
 {sot: Form}
 | A / / / | D / E / |
 {eot}
