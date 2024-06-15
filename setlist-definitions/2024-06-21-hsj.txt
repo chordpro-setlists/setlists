@@ -1,3 +1,4 @@
+songs/Shelter.chopro
 songs/DownByTheRiver.chopro
 songs/HardToHandle.chopro
 songs/Hungersite.chopro

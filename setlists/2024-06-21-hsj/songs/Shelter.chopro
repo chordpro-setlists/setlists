@@ -1,0 +1,66 @@
+{t:Shelter}
+{st:Justin Murata}
+{key: G}
+{tempo: 90}
+{meta: vocals JM}
+{meta: timing 10min}
+
+{start_of_textblock label="" flush="right" anchor="line" x="100%"}
+Key: %{key}
+Tempo: %{tempo}
+Vocals: %{vocals}
+{end_of_textblock}
+{sot: Form}
+Verse: G - D - F - C
+Chorus: D - C - G
+Bridge: Em - D - C
+{eot}
+
+{sov: V1}
+Over on the big blue ocean
+was a storm raging on a cold grey sea
+Tossing and turning and generally yearning
+for a cool cool breeze under a shady tree
+Was the second on the first boat off the dock
+trying to keep the third mate from going into shock
+Saying one plus one and two plus two
+its gotta make a difference when I look at you
+{eov}
+
+{sov: Chorus}
+Throw me some shelter and I’ll roll you some one
+Throw me the loose and I’ll bring up the line
+Throw me some shelter and I’ll roll you some wine
+{eov}
+
+{sov: V2}
+Looking up at the stars up above
+there was one bad mother bearing down on me
+So I had a little talk with the man upstairs
+he said his old lady would see me for a nominal fee
+I had a good look at the nature of the deal
+when the words emerged that made it real
+One plus one, two plus two,
+gotta make a difference when I look at you
+{eov}
+
+<i>CHORUS</i>
+<i>Break</i>
+
+{sov: Bridge}
+Had a little bit of a commotion when the captain thought the ocean did two U-turns
+It was nothing but the boat going around and around and around and around and
+{eov}
+
+{sov: V3}
+Over the mountain past the valley
+back where we started out near the great divide
+Eight billion souls grooving along
+or at least navigating a bumpy ride
+One plus one, two plus two,
+gotta make a difference when I look at you
+{eov}
+
+{sov: Notes}
+Demo (https://www.youtube.com/watch?v=L8BmcL8rgUQ)
+{eov}
