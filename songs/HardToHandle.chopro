@@ -11,7 +11,7 @@ Tempo: %{tempo}
 Vocals: %{vocals}
 {end_of_textblock}
 {sot: Intro}
-Em / A7
+Drums -> Guitar Riff
 {eot}
 
 {sot: Form}
@@ -20,7 +20,6 @@ Verse:
 Chorus:
 | F# / / / |
 | B  / / / |
-| A  E B / |
 {eot}
 
 {sov: V1}
@@ -42,6 +41,10 @@ Hey little thing let me light your candle
 Yes I am
 {eov}
 
+{sot: Break 1}
+|  D / / /  | E / / / | A E B / |
+{eot}
+
 {sov: V2}
 Action speaks louder than words
 And I'm a man of great experience
@@ -53,17 +56,20 @@ I'm advertising love for free
 So won't you place your ad with me
 {eov}
 
-{sov: Other}
-Give it to me, baby, I got to have it - some of your love
-It's all I need, early in the morning, late in the evening
-{eov}
+<i>Chorus</i>
 
-
-{sot: Jam}
-Verse chords
+{sot: Break 2}
+|: A E B / :| (x4)
 {eot}
 
+{sot: Lead}
+Stay in B for a long time
+End with: Break 2
+{eot}
 
+{sov: Outro}
+V1 -> Chorus -> Break 2
+{eov}
 
 {sov: Notes}
 Black Crowes (https://www.youtube.com/watch?v=BRcs_OzQb14)

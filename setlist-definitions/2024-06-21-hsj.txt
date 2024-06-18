@@ -1,7 +1,8 @@
-songs/Shelter.chopro
-songs/DownByTheRiver.chopro
 songs/HardToHandle.chopro
-songs/Hungersite.chopro
-songs/StirItUp.chopro
-songs/BlazeOn.chopro
 songs/WhiteRoom.chopro
+songs/MeetDeBoys.chopro
+songs/Hungersite.chopro
+songs/Shelter.chopro
+songs/StirItUp.chopro
+songs/DownByTheRiver.chopro
+songs/BlazeOn.chopro
