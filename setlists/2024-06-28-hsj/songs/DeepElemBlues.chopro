@@ -1,0 +1,61 @@
+{t:Deep Elem Blues}
+{st: Grateful Dead}
+{key: E}
+{tempo: 130}
+{meta: vocals JM}
+{meta: timing 10min}
+
+{start_of_textblock label="" flush="right" anchor="line" x="100%"}
+Key: %{key}
+Tempo: %{tempo}
+Vocals: %{vocals}
+{end_of_textblock}
+{sot: Form}
+E A B7
+{eot}
+
+{sov: V1}
+If you go down to Deep Elem
+Put your money in your shoes
+The women in Deep Elem
+Got them Deep Elem blues
+{eov}
+
+{sov: Chorus}
+Oh, sweet Mama,
+Your Daddy's got them Deep Elem Blues
+Oh, sweet Mama,
+Your Daddy's got them Deep Elem Blues
+{eov}
+
+{sov: V2}
+Once I had a girlfriend
+She meant the world to me
+She went down to Deep Elem
+Now she ain't what she used to be
+{eov}
+
+{sov: V3}
+Once I knew a preacher
+Preached the bible through and through
+He went down to Deep Elem,
+Now his preaching days are through
+{eov}
+
+{sov: V4}
+When you go down to Deep Elem
+To have a little fun
+Have your ten dollars ready
+When the police man comes
+{eov}
+
+{sov: V5}
+When you go down to Deep Elem
+Put your money in your pants
+Cause the women in Deep Elem
+They don't give a man a chance
+{eov}
+
+{sov: Notes}
+10/31/81 (https://www.youtube.com/watch?v=qx1LqnIJLj8)
+{eov}

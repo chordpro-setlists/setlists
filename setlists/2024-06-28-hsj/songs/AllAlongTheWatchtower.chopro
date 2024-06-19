@@ -1,0 +1,65 @@
+{t:All Along The Watchtower}
+{st: Jimi Hendrix}
+{key: A}
+{tempo: 115}
+{meta: vocals JM}
+{meta: timing 10min}
+
+{start_of_textblock label="" flush="right" anchor="line" x="100%"}
+Key: %{key}
+Tempo: %{tempo}
+Vocals: %{vocals}
+{end_of_textblock}
+
+
+{sot: Form}
+Am G F G
+{eot}
+
+{sov: V1}
+"There must be some kinda way out of here"
+Said the joker to the thief
+"There’s too much confusion,
+I can’t get no relief
+Businessmen, they drink my wine,
+Plow men dig my earth
+None of them along the line
+Know what any of it is worth"
+{eov}
+
+{sov: Lead}
+<i>(Over verse chords)</i>
+{eov}
+
+{sov: V2}
+"No reason to get excited"
+The thief he kindly spoke
+"There are many here among
+Us who feel that life is but a joke
+But, you and I, we’ve been through that
+And this is not our fate
+So let us not talk falsely now,
+Because the hour is getting late"
+
+{eov}
+
+{sov: Lead}
+<i>(Over verse chords)</i>
+{eov}
+
+{sov: V3}
+All along the watchtower
+Princes kept their view
+While other women came and went
+Barefoot servants, too
+Outside in the cold distance
+A wild cat did growl
+Two riders were approaching
+And the wind began to howl.
+{eov}
+
+
+
+{sov: Notes}
+9/30/89 (https://www.youtube.com/watch?v=D69V5R09naQ)
+{eov}

@@ -1,0 +1,33 @@
+{t:Dear Mr. Fantasy}
+{st: Traffic}
+{key: G}
+{tempo: 70}
+{meta: vocals MV}
+{meta: timing 10min}
+
+{start_of_textblock label="" flush="right" anchor="line" x="100%"}
+Key: %{key}
+Tempo: %{tempo}
+Vocals: %{vocals}
+{end_of_textblock}
+
+
+{sot: Form}
+| G F C G |
+| Em G | Em G | Em G | F D |
+{eot}
+
+{sov: V1}
+Dear Mr. Fantasy play us a tune,
+Something to make us all happy.
+Do anything to keep us out of this gloom
+Sing a song, play guitar, make it snappy.
+You are the one who makes us all glad
+But doing that, you break down in tears
+Please don't be sad if it was a straight life you had
+We wouldn't have known you all these years.
+{eov}
+
+{sov: Notes}
+7/2/89 (https://www.youtube.com/watch?v=QwaKQvwMIe8)
+{eov}

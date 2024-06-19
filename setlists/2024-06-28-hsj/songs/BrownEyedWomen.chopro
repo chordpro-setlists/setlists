@@ -3,7 +3,7 @@
 {key: A}
 {tempo: 111}
 {meta: vocals JM}
-{meta: timing ??min}
+{meta: timing 08min}
 
 {start_of_textblock label="" flush="right" anchor="line" x="100%"}
 Key: %{key}

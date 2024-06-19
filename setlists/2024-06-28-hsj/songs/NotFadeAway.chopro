@@ -1,0 +1,37 @@
+{t:Not Fade Away}
+{st: Buddy Holly}
+{key: E}
+{tempo: 80}
+{meta: vocals JM}
+{meta: timing 10min}
+
+{start_of_textblock label="" flush="right" anchor="line" x="100%"}
+Key: %{key}
+Tempo: %{tempo}
+Vocals: %{vocals}
+{end_of_textblock}
+
+{sot: Form}
+E A
+{eot}
+
+{sov: V1}
+I'm gonna tell you how it's gonna be
+You're gonna give your love to me
+I wanna love you night and day
+You know my love will not fade away
+You know my love will not fade away
+{eov}
+
+{sov: V2}
+My love is bigger than a cadillac
+I try to show it but you drive me back
+Your love for me has got to be real
+You're gonna know just how I feel
+Our love is real, not fade away.
+{eov}
+
+
+{sov: Notes}
+10/31/80 (https://www.youtube.com/watch?v=0BVPwqlZxeo)
+{eov}

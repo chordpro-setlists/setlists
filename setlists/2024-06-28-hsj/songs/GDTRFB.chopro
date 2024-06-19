@@ -1,0 +1,32 @@
+{t:Going Down The Road Feeling Bad}
+{st: Traditional}
+{key: E}
+{tempo: 115}
+{meta: vocals All}
+{meta: timing 10min}
+
+{start_of_textblock label="" flush="right" anchor="line" x="100%"}
+Key: %{key}
+Tempo: %{tempo}
+Vocals: %{vocals}
+{end_of_textblock}
+
+
+{sot: Form}
+E
+A E
+A E C#m
+E B E
+{eot}
+
+{sov: Verses}
+Going down the road feeling bad.
+Going where the climate suits my clothes. (x3)
+Going where the water tastes like wine. (x3)
+Going where the chilly winds don't blow. (x3)
+{eov}
+
+
+{sov: Notes}
+1974 (https://www.youtube.com/watch?v=hveoUtdJ2dw)
+{eov}
