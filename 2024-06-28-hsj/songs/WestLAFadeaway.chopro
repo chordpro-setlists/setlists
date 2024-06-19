@@ -3,7 +3,14 @@
 {key: A}
 {tempo: 85}
 {define "E7+9"}
+{meta: vocals PJ}
+{meta: timing 10min}
 
+{start_of_textblock label="" flush="right" anchor="line" x="100%"}
+Key: %{key}
+Tempo: %{tempo}
+Vocals: %{vocals}
+{end_of_textblock}
 {sov: V1}
 [Am]I'm looking for a chateau, 21 rooms but one will do
 [Am]I'm looking for a chateau, 21 rooms but one will do
@@ -46,7 +53,7 @@ Lord, and just how far to go.
 <i>Chorus</i>
 
 {sot: Jam}
-MV->MS Lead
+MV -> JM Lead
 {eot}
 
 <i>Repeat V1</i>

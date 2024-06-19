@@ -1,0 +1,57 @@
+{t:Women are smarter}
+{st: Grateful Dead}
+{key: E}
+{tempo: 115}
+{meta: vocals MV}
+{meta: timing 10min}
+
+{start_of_textblock label="" flush="right" anchor="line" x="100%"}
+Key: %{key}
+Tempo: %{tempo}
+Vocals: %{vocals}
+{end_of_textblock}
+{sot: Form}
+E B B E
+{eot}
+
+{sov: V1}
+Let us put men and women together to see which one is smarter
+Some say the men but I say no,
+The women got the men like a puppet show
+It ain't me, it's the people who say
+Men are leading the women astray
+I say it's the women today
+Smarter than the man in every way.
+{eov}
+
+{sov: Chorus}
+That's right the women are smarter,
+That's right the women are smarter,
+That's right the women are smarter,
+The women are smarter, that's right.
+{eov}
+
+{sov: V2}
+Little boy sit on the corner and cry,
+Big man come and ask him why
+He say I can't do what the big boys do,
+The man sat down and he cried too.
+{eov}
+
+{sot: Lead}
+Jam over verse chords
+{eot}
+
+
+{sov: V3}
+Ever since the world began,
+Women been mendin' the ways of man,
+Listen boys, cause I got a plan,
+Give it up, don't try to understand.
+{eov}
+
+
+
+{sov: Notes}
+9/30/89 (https://www.youtube.com/watch?v=D69V5R09naQ)
+{eov}
