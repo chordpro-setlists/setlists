@@ -10,19 +10,17 @@ Key: %{key}
 Tempo: %{tempo}
 Vocals: %{vocals}
 {end_of_textblock}
-{sot: Intro}
+{sot: Fanfare}
+In 5/4:
 Gm  F  Dm  C
-Ahh...
-
-Gm  F  Dm  C   A7
-Ahh...
+Gm  F  Dm  C   Am
 {eot}
 
 {sov: V1}
-In a [D]white room    with black [G]curtains near the [D]stations
-Blackroof [D]country   , no gold [G]pavements,     [C]tired [D]starlings,
+In a [D]white room with black [G]curtains near the [D]stations
+Blackroof [D]country, no gold [G]pavements, [C]tired [D]starlings,
 Silver [D]horses   run down [G]moonbeams [C]in your [D]dark eyes.
-Dawnlight [D]smiles   on your [G]leaving,       [C]my con[D]tentment.
+Dawnlight [D]smiles on your [G]leaving, [C]my con[D]tentment.
 I'll [C]wait in this [G]place where the [Bb]sun never [A]shines.
 [C]Wait in this [G]place where the [Bb]shadows [C]run from them[D]selves.
 {eov}
@@ -37,11 +35,7 @@ I'll wait for you where the shadows run from themselves
 {eov}
 
 {sot: Interlude}
-Gm  F  Dm  C
-Ahh...
-
-Gm  F  Dm  C   A7
-Ahh...
+Fanfare
 {eot}
 
 {sov: V3}
@@ -53,12 +47,8 @@ I'll sleep in this place with the lonely crowd,
 Lie in the dark where the shadows run from themselves
 {eov}
 
-{sot: Outro}
-Gm  F  Dm  C
-Ahh...
-
-Gm  F  Dm  C   A7
-Ahh...
+{sot: Jam}
+Fanfare -> Jam -> Ritard -> Drum Cue -> Fanfare to end
 {eot}
 
 {sov: Notes}
