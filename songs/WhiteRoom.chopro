@@ -11,7 +11,7 @@ Tempo: %{tempo}
 Vocals: %{vocals}
 {end_of_textblock}
 {sot: Fanfare}
-In 5/4:
+In 5/4, except Am which is 4/4.
 Gm  F  Dm  C
 Gm  F  Dm  C   Am
 {eot}

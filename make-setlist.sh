@@ -8,8 +8,8 @@
 # SETLIST="jam-2023-12-06"
 # SETLIST="song-test"
 SETLIST="2024-06-21-hsj"
-VERSIONNUM="5"
-VERSIONSUFFIX="-v5"
+VERSIONNUM="6"
+VERSIONSUFFIX="-v6"
 mkdir -p setlists/$SETLIST
 mkdir -p setlists/$SETLIST/songs
 
