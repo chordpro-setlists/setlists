@@ -93,7 +93,7 @@
     // PDF Properties. Arbitrary key/values may be added.
     // Note that the context for substitutions is the first song.
     "info": {
-      "title": "%{title}",
+      "title": "2024-06-28-hsj",
       "author": "Philip Johnson",
       "subject": "",
       "keywords": ""
@@ -226,11 +226,7 @@
           ""
         ],
         // Footer is title -- page number.
-        "footer": [
-          "%{title}",
-          "",
-          "%{page}"
-        ],
+        "footer"    : [ "", "", "%{page}" ],
         // Background page.
         "background": ""
       },
@@ -248,11 +244,7 @@
           ""
         ],
         // Footer with page number.
-        "footer": [
-          "%{key|Key: %{key}}",
-          "%{vocals|Vocals: %{vocals}}<span>    </span>%{tempo|Tempo: %{tempo} BPM}",
-          "%{page}"
-        ],
+        "footer"    : [ "", "", "%{page}" ],
         // Background page.
         "background": ""
       },
@@ -260,11 +252,7 @@
       "first": {
         // It has title and subtitle, like normal 'first' pages.
         // But no footer.
-        "footer": [
-          "%{key|Key: %{key}}",
-          "%{vocals|Vocals: %{vocals}}<span>    </span>%{tempo|Tempo: %{tempo} BPM}",
-          "%{page}"
-        ],
+        "footer"    : [ "", "", "%{page}" ],
         // Background page.
         "background": ""
       }
@@ -331,7 +319,7 @@
       },
       "text": {
         "name": "Helvetica-Bold",
-        "size": 12
+        "size": 11
       },
       "chord": {
         "name": "Helvetica-Bold",
@@ -358,8 +346,9 @@
         "frame": 1
       },
       "tab": {
-        "name": "Courier",
-        "size": 12
+        "name": "Courier-Bold",
+        "size": 12,
+        "color": "blue"
       },
       "toc": {
         "name": "Helvetica",
