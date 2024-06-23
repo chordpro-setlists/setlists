@@ -5,6 +5,11 @@
 {meta: vocals All}
 {meta: timing 05min}
 
+{start_of_textblock label="" flush="right" anchor="line" x="100%"}
+Key: %{key}
+Tempo: %{tempo}
+Vocals: %{vocals}
+{end_of_textblock}
 {sov: Chorus}
 [D]I know you, rider, gonna [C]miss me [G]when I'm [D]gone
 [D]I know you, rider, gonna [C]miss me [G]when I'm [D]gone
