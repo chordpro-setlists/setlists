@@ -8,14 +8,14 @@ songs/DontLetGo.chopro
 songs/ScarletBegonias.chopro
 songs/FireOnTheMountain.chopro
 songs/SetBreak.chopro
-songs/ShakedownStreet.chopro
+songs/Evangeline.chopro
 songs/ChinaCatSunflower.chopro
 songs/IKnowYouRider.chopro
 songs/LetItRock.chopro
 songs/MidnightMoonlight.chopro
 songs/BrownEyedWomen.chopro
 songs/Sugaree.chopro
-songs/Evangeline.chopro
+songs/ShakedownStreet.chopro
 songs/NotFadeAway.chopro
 songs/GDTRFB.chopro
 songs/Encore.chopro
