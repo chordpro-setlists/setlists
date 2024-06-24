@@ -1,10 +1,15 @@
 {t:Scarlet Begonias}
 {st:Grateful Dead}
 {key: E}
-{tempo: 167}
+{tempo: 160}
 {meta: vocals PJ}
 {meta: timing 10min}
 
+{start_of_textblock label="" flush="right" anchor="line" x="100%"}
+Key: %{key}
+Tempo: %{tempo}
+Vocals: %{vocals}
+{end_of_textblock}
 {sov: V1}
 [E]As I was walking round Grosvenor Square, [B] [A]
 [E]Not a chill to the winter, but a nip to the air. [B] [A]
