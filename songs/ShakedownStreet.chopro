@@ -13,9 +13,11 @@ Vocals: %{vocals}
 {sot: Form}
 Intro: Dm
 Verse: | G /// | F C9 | Dm ///|
+       | Fmaj7 /// | Em7 /// | x4 -> G
 Chorus: ||: C7 /// | % :|| (4x),
 followed by: ||: Dm ///|  % :||  (4x)
 {eot}
+
 {sov: V1}
 You tell me this town ain't got no heart
 The sunny side of the street is dark
