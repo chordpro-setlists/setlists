@@ -10,11 +10,13 @@ Key: %{key}
 Tempo: %{tempo}
 Vocals: %{vocals}
 {end_of_textblock}
-
-
 {sot: Form}
 Am G F G
 {eot}
+
+{sov: Intro}
+Justin starts.
+{eov}
 
 {sov: V1}
 "There must be some kinda way out of here"
@@ -58,6 +60,16 @@ Two riders were approaching
 And the wind began to howl.
 {eov}
 
+{sov: V4}
+"No reason to get excited"
+The thief he kindly spoke
+"There are many here among
+Us who feel that life is but a joke.
+{eov}
+
+{eot: Outro}
+NO OUTRO. Hard stop after "joke".
+{eot}
 
 
 {sov: Notes}
