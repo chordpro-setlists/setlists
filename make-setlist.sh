@@ -6,8 +6,9 @@
 # SETLIST="jam-2023-10-18"
 # SETLIST="jam-2023-11-08"
 # SETLIST="jam-2023-12-06"
-SETLIST="song-test"
+# SETLIST="song-test"
 # SETLIST="2024-06-28-hsj"
+SETLIST="2024-07-27-jam"
 VERSIONNUM="1"
 VERSIONSUFFIX="-v1"
 mkdir -p setlists/$SETLIST
@@ -35,14 +36,14 @@ chordpro --config=scripts/config.json --config=scripts/contents.json -filelist s
 chordpro -l --config=scripts/config.json --config=scripts/contents.json -filelist setlist-definitions/$SETLIST.txt -o setlists/$SETLIST/setlist-$SETLIST${VERSIONSUFFIX}.nochords.pdf
 
 ## Create individual songs (with and without lyrics)
-echo "Generating individual songs..."
-while IFS= read -r filename; do
-  echo "  $filename"
-
-  chordpro --meta=user=$SETLIST --config=scripts/config.json $filename -o setlists/$SETLIST/"${filename%.chopro}.pdf"
-
-  chordpro --meta=user=$SETLIST -l --config=scripts/config.json $filename -o setlists/$SETLIST/"${filename%.chopro}.nochords.pdf"
-
-  cp $filename setlists/$SETLIST/songs/
-
-done < "setlist-definitions/$SETLIST.txt"
+#echo "Generating individual songs..."
+#while IFS= read -r filename; do
+#  echo "  $filename"
+#
+#  chordpro --meta=user=$SETLIST --config=scripts/config.json $filename -o setlists/$SETLIST/"${filename%.chopro}.pdf"
+#
+#  chordpro --meta=user=$SETLIST -l --config=scripts/config.json $filename -o setlists/$SETLIST/"${filename%.chopro}.nochords.pdf"
+#
+#  cp $filename setlists/$SETLIST/songs/
+#
+#done < "setlist-definitions/$SETLIST.txt"
