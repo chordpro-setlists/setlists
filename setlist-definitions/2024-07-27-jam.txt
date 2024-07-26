@@ -6,14 +6,17 @@ songs/BrownEyedWomen.chopro
 songs/Candyman.chopro
 songs/DearMrFantasy.chopro
 songs/DeepElemBlues.chopro
+songs/DireWolf.chopro
 songs/EverythingsRight.chopro
 songs/EyesOfTheWorld.chopro
+songs/JackStraw.chopro
 songs/MidnightMoonlight.chopro
 songs/OnlyHomeIveEverKnown.chopro
 songs/PeggyO.chopro
 songs/ShakedownStreet.chopro
 songs/Shelter.chopro
 songs/Sugaree.chopro
+songs/TheyLoveEachOther.chopro
 songs/ToreUpOverYou.chopro
 songs/WestLAFadeaway.chopro
 
