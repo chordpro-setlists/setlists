@@ -4,9 +4,9 @@
 {tempo: 107}
 
 {sov: V1}
-[Emaj7]Right outside this[A] lazy summer [Emaj7]home
-[Emaj7]You ain't got time to call your[A] soul a critic, [Emaj7]no.
-[A]Right outside the [C#m]lazy gate[B] of winter's summer [A]home,
+[Emaj7]Right outside this[A] lazy summer [Emaj7]home [Bm7] [A]
+[Emaj7]You ain't got time to call your[A] soul a critic, [Emaj7]no. [Bm7] [A]
+[A]Right outside the [C#m]lazy gate[B] of winter's summer [A]home
 [C#m]Wonderin' where the [B]nut thatch winters,[D] wings a mile [A]long
 Just [Emaj7]carried the [A]bird [Emaj]away. [A] [C]
 {eov}
@@ -32,6 +32,7 @@ Night comes so quiet, it's close on the heels of the day.
 
 {sot: Lead}
 MV Lead (Emaj7 Bm A)
+{eot}
 
 {sov: V3}
 Sometimes we live no particular way but our own.
