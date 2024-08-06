@@ -93,7 +93,7 @@
     // PDF Properties. Arbitrary key/values may be added.
     // Note that the context for substitutions is the first song.
     "info": {
-      "title": "2024-07-27-jam",
+      "title": "song-test",
       "author": "Philip Johnson",
       "subject": "",
       "keywords": ""

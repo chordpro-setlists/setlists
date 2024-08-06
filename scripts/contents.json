@@ -4,7 +4,7 @@
       "fields": [
         "songindex"
       ],
-      "label": "2024-07-27-jam (v 1)",
+      "label": "song-test (v 1)",
       "line": "%{songindex} <span>   </span> %{title}",
       "pageno": "%{vocals}<span>  </span>%{key}<span>  </span>%{timing}",
       "fold": false,
