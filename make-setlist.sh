@@ -1,6 +1,6 @@
 #!/bin/bash
 
-SETLIST="phish"
+# SETLIST="phish"
 # SETLIST="jam-2024-01-10"
 # SETLIST="tt-december"
 # SETLIST="jam-2023-10-18"
@@ -9,9 +9,9 @@ SETLIST="phish"
 # SETLIST="song-test"
 # SETLIST="2024-06-28-hsj"
 # SETLIST="2024-07-27-jam"
-# SETLIST="2024-10-04-hsj"
-VERSIONNUM=""
-VERSIONSUFFIX=""
+SETLIST="2024-10-04-hsj"
+VERSIONNUM="2"
+VERSIONSUFFIX="-V2"
 mkdir -p setlists/$SETLIST
 mkdir -p setlists/$SETLIST/songs
 
