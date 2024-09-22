@@ -4,7 +4,7 @@
       "fields": [
         "songindex"
       ],
-      "label": "song-test (v 1)",
+      "label": "phish @VERSION@",
       "line": "%{songindex} <span>   </span> %{title}",
       "pageno": "%{vocals}<span>  </span>%{key}<span>  </span>%{timing}",
       "fold": false,

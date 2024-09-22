@@ -3,6 +3,7 @@ songs/BackOnTheTrain.chopro
 songs/BackwardsDownTheNumberline.chopro
 songs/BlazeOn.chopro
 songs/Bug.chopro
+songs/CaymanReview.chopro
 songs/Dirt.chopro
 songs/EverythingsRight.chopro
 songs/FunkyBitch.chopro
