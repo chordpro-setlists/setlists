@@ -5,6 +5,8 @@
 {meta: vocals JM}
 {meta: timing 10min}
 
+{textsize: 11}
+{tabsize: 11}
 {start_of_textblock label="" flush="right" anchor="line" x="100%"}
 Key: %{key}
 Tempo: %{tempo}
@@ -12,20 +14,15 @@ Vocals: %{vocals}
 {end_of_textblock}
 {sot: Form}
 Verse: G - D - F - C
-Verse to Chorus: Hold the G for one measure
-Chorus: D - C - G
+Chorus: D - C - G (one bar of G prior to first chorus)
 Bridge: Em - D - C
 {eot}
 
 {sov: V1}
-Over on the big blue ocean
-was a storm raging on a cold grey sea
-Tossing and turning and generally yearning
-for a cool cool breeze under a shady tree
-Was the second on the first boat off the dock
-trying to keep the third mate from going into shock
-Saying one plus one and two plus two
-its gotta make a difference when I look at you
+Over on the big blue ocean was a storm raging on a cold grey sea
+Tossing and turning and generally yearning for a cool cool breeze under a shady tree
+Was the second on the first boat off the dock trying to keep the third mate from going into shock
+Saying one plus one and two plus two its gotta make a difference when I look at you
 {eov}
 
 {sov: Chorus}
@@ -35,18 +32,19 @@ Throw me some shelter and I’ll roll you some wine
 {eov}
 
 {sov: V2}
-Looking up at the stars up above
-there was one bad mother bearing down on me
-So I had a little talk with the man upstairs
-he said his old lady would see me for a nominal fee
-I had a good look at the nature of the deal
-when the words emerged that made it real
-One plus one, two plus two,
-gotta make a difference when I look at you
+Looking up at the stars up above there was one bad mother bearing down on me
+So I had a little talk with the man upstairs he said his old lady would see me for a nominal fee
+I had a good look at the nature of the deal when the words emerged that made it real
+One plus one, two plus two, gotta make a difference when I look at you
 {eov}
 
-<i>CHORUS</i>
-<i>Break</i>
+{sov: Chorus}
+<i>  </i>
+{eov}
+
+{sot: Break}
+Break over verse chords.
+{eot}
 
 {sov: Bridge}
 Had a little bit of a commotion when the captain thought the ocean did two U-turns
@@ -54,20 +52,24 @@ It was nothing but the boat going around and around and around and around and
 {eov}
 
 {sov: V3}
-Over the mountain past the valley
-back where we started out near the great divide
-Eight billion souls grooving along
-or at least navigating a bumpy ride
-One plus one, two plus two,
-gotta make a difference when I look at you
+Over the mountain past the valley back where we started out near the great divide
+Eight billion souls grooving along or at least navigating a bumpy ride
+One plus one, two plus two, gotta make a difference when I look at you
 {eov}
 
-<i>CHORUS</i>
+{sov: Chorus}
+<i>  </i>
+{eov}
 
 {sot: Jam}
 Jam over Chorus chords.
-Justin cues the ending by ritarding.
 {eot}
+
+{sot: Outro}
+Return to verse chords to end.
+{eot}
+
+
 
 {sov: Notes}
 Demo (https://www.youtube.com/watch?v=L8BmcL8rgUQ)

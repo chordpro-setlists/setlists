@@ -4,6 +4,12 @@
 {meta: vocals PJ}
 {meta: timing 10min}
 
+{start_of_textblock label="" flush="right" anchor="line" x="100%"}
+Key: %{key}
+Tempo: %{tempo}
+Vocals: %{vocals}
+{end_of_textblock}
+
 {sot: Intro}
 |: C#m7 /// | F#9 /// :|
 {eot}
@@ -22,7 +28,7 @@ When the white flash comes I won't look for shade
 Gonna dive for a rip tide with my Apocalypse Babe
 {eov}
 
-{sot: Lead}
+{sot: Break}
 |: C#m7 /// | F#9 /// :| x4
 {eot}
 
@@ -45,8 +51,8 @@ If I close my eyes I see she's awake
 Dream away the darkness my Apocalypse Babe
 {eov}
 
-{sot: Outro}
-|: C#m7 /// | F#9 /// :| x a lot
+{sot: Jam}
+|: C#m7 /// | F#9 /// :|
 {eot}
 
 {sov: Notes}
