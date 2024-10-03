@@ -77,7 +77,8 @@ done
 #  </ul>
 #</div>
 
-echo " </div>" >> "$html_file_path"
+cat >> "$html_file_path" <<EOF
+</div>
 
 <!-- Include Bootstrap JS and Popper.js from CDN (optional) -->
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
