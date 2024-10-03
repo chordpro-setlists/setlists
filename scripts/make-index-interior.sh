@@ -48,9 +48,9 @@ find "$directory" -type f -name "*.nochords.pdf" | sort | while read -r file; do
     fi
 done
 
-echo "  </ul>
-        <h1 class=\"mt-4\">Songs</h1>
-        <ul class=\"list-group mt-4\">" >> "$html_file_path"
+#echo "  </ul>
+#        <h1 class=\"mt-4\">Songs</h1>
+#        <ul class=\"list-group mt-4\">" >> "$html_file_path"
 
 find "$directory" -type f -name "*.nochords.pdf" | sort | while read -r file; do
     filename=$(basename "$file")  # Extract the filename without path
@@ -70,12 +70,14 @@ find "$directory" -type f -name "*.nochords.pdf" | sort | while read -r file; do
     fi
 done
 
-echo " </ul>" >> "$html_file_path"
+#echo " </ul>" >> "$html_file_path"
 
 # Close the HTML structure
-cat >> "$html_file_path" <<EOF
-  </ul>
-</div>
+#cat >> "$html_file_path" <<EOF
+#  </ul>
+#</div>
+
+echo " </div>" >> "$html_file_path"
 
 <!-- Include Bootstrap JS and Popper.js from CDN (optional) -->
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
