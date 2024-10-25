@@ -6,7 +6,7 @@
       ],
       "label": "@TITLE@ @VERSION@",
       "line": "%{songindex} <span>   </span> %{title}",
-      "pageno": "%{vocals}<span>  </span>%{key}<span>  </span>%{timing}",
+      "pageno": "%{vocals}<span>  </span>%{key}",
       "fold": false,
       "omit": false
     }
