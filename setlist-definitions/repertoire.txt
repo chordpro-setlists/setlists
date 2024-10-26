@@ -23,6 +23,7 @@ songs/FranklinsTower.chopro
 songs/FireOnTheMountain.chopro
 songs/GDTRFB.chopro
 songs/HardToHandle.chopro
+songs/HowSweetItIs.chopro
 songs/Hungersite.chopro
 songs/IKnowYouRider.chopro
 songs/JustOneMore.chopro

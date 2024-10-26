@@ -1,0 +1,54 @@
+{t:How Sweet It Is}
+{st:Jr. Walker and the AllStars}
+{key: C}
+{tempo: 100}
+{meta: vocals JM}
+{meta: timing 10min}
+
+{start_of_textblock label="" flush="right" anchor="line" x="100%"}
+Key: %{key}
+Tempo: %{tempo}
+Vocals: %{vocals}
+{end_of_textblock}
+
+{sot: Intro}
+C  Am G  F  C  |: G F C C7 :|
+{eot}
+
+{sov: Chorus}
+[F]How sweet it [G]is to be loved by [C]you
+[F]How sweet it [G]is to be loved by [C]you
+{eov}
+
+{sov: V1}
+[C]I needed the shelter of [Am]someone's arms and [G]there you [F]were
+[C]I needed someone to under[Am]stand my ups and downs and [G]there you [F]were
+[C]With sweet love and [F]devotion [C]deeply touching [F]my emotion
+I want to [C]stop - to thank you [F]baby
+I want to [C]stop - to thank you [C7]baby
+{eov}
+
+{sov: Chorus}
+<i> </i>
+{eov}
+
+{sov: V2}
+Open my eyes at night, I wonder what I would be without you in my life
+Everything was just a bore, all the things I've done, I've done them before
+But you brightened up all of my days
+With your love so sweet and in so many ways
+I want to stop - to thank you baby
+I want to stop - to thank you baby
+{eov}
+
+{sov: Chorus}
+<i> </i>
+{eov}
+
+{sov: Outro}
+Sweeter than the honey from the bees, baby
+{eov}
+
+{sov: Notes}
+9/1/90 (https://www.youtube.com/watch?v=1_NOFuEb-yo)
+{eov}
