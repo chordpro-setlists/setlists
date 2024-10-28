@@ -1,0 +1,83 @@
+{t:So Ready}
+{st:Goose}
+{key: Am}
+{tempo: 110}
+{meta: vocals ??}
+{meta: timing 10min}
+
+{start_of_textblock label="" flush="right" anchor="line" x="100%"}
+Key: %{key}
+Tempo: %{tempo}
+Vocals: %{vocals}
+{end_of_textblock}
+{sot: Intro}
+E7 vamp
+{eot}
+
+{sot: Intro}
+Am D C Am C D (x3)
+Am D C E7
+{eot}
+
+{sov: V1}
+[Am]Baby on the way
+I was melting like [C]ice
+On the back of my [Em7]spine
+Where we goin’ to[D]night?
+You know I saw that [Am]eye
+In the corner of the [C]light
+Playing games with my [Em7]mind
+It’s goin’ down to[D]night
+{eov}
+
+{sot: Tag}
+Am D C Am C D
+Am D C Am G F
+{eot}
+
+{sov: Chorus}
+[F]So ready for [G]this[F]
+[F]On the floor
+[F]You know[G] [F]
+That I’m [Am]coming [G]back for [F}more
+[F]Take it slow
+I'm [Am]burning [G]baby you [F]know [E7]
+{eov}
+
+{sot: Lead}
+Over intro chords
+{eot}
+
+{sov: V2}
+You know it all came [Am]back
+Like the break down of a [C]door
+When I saw you on the [Em7]floor
+Whatchyu you waiting [D]for
+light years on [Am]ice
+Stalled in a void of [C]time
+Turn on your satel[Em7]lite
+‘Cus it’s going down to[D]night, oh oh
+{eov}
+
+{sot: Tag}
+<i> </i>
+{eot}
+
+{sot: Chorus}
+<i> </i>
+{eot}
+
+{sot: Solo}
+Am D C Am C D (x4)
+Bm7 C#m D D# E
+{eot}
+
+{sot: Outro}
+Chorus x 2
+{eot}
+
+
+
+{sov: Notes}
+Official Video (https://www.youtube.com/watch?v=2gypxvKKZEw)
+{eov}

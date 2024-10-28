@@ -1,0 +1,6 @@
+songs/SoReady.chopro
+songs/MountainsInTheMist.chopro
+songs/Free.chopro
+songs/LoveIsWhatWeAre.chopro
+songs/HowSweetItIs.chopro
+songs/BackIn79.chopro
