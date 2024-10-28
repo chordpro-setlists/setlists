@@ -2,6 +2,13 @@
 {st:Phish}
 {key: G}
 {tempo: 112}
+{meta vocals: PJ}
+
+{start_of_textblock label="" flush="right" anchor="line" x="100%"}
+Key: %{key}
+Tempo: %{tempo}
+Vocals: %{vocals}
+{end_of_textblock}
 
 {sov: V1}
 [G]Several times un[C]consciously I've [G]stumbled [Bb]on the [C]path

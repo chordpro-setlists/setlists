@@ -1,0 +1,62 @@
+{t: Free}
+{st:Phish}
+{key: D}
+{tempo: 112}
+{meta vocals: ??}
+
+{start_of_textblock label="" flush="right" anchor="line" x="100%"}
+Key: %{key}
+Tempo: %{tempo}
+Vocals: %{vocals}
+{end_of_textblock}
+
+{sot: Intro}
+D C Em D G D (x2)
+C G F D (x2)
+F G D (x4)
+D C Em D G D (x2)
+F G D (x4)
+C G F D (x2)
+F G D (x4)
+{eot}
+
+
+{sov: V1}
+[D]I'm floating in the [C]blimp a lot [G][F]  I [D]feel the feeling [C]I forgot [G] [F]
+Swimming [G]weightless [F]in the [D]womb, bouncing [G]gently [F]round the [D]room
+In a [G]minute [F]I'll be [D]free, and we'll be [G]splashing [F]in the [D]sea
+{eov}
+
+{sov: V2}
+I feel no curiosity, I see the path ahead of me
+In a minute I'll be free, and we'll be splashing in the sea
+We hear a tiny cry, as the ship goes sliding by
+{eov}
+
+{sot: Chorus}
+Free! D C Em D G D
+Free! D C Em D G D
+C G f D (x2)
+F G D (x4)
+Free! D C Em D G D
+{eot}
+
+{sot: Jam}
+D (for a long time, bass solo)
+D Bm
+{eot}
+
+{sov: V3}
+I'm [D]floating in the [Bb]blimp a lot, I [D]feel the [Bb]feeling I forgot
+[D]Floating in the [Bb]blimp a lot, I [D]feel...  [Bb]free...
+{eov}
+
+{sot: Outro}
+Free! D C Em D G D (x4) C D (x4)
+{eot}
+
+
+
+{sot: Notes}
+5/28/2022 (https://www.youtube.com/watch?v=MITCU9eo4_I)
+{eot}

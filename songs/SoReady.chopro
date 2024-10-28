@@ -2,7 +2,7 @@
 {st:Goose}
 {key: Am}
 {tempo: 110}
-{meta: vocals ??}
+{meta: vocals JM}
 {meta: timing 10min}
 
 {start_of_textblock label="" flush="right" anchor="line" x="100%"}
@@ -10,73 +10,60 @@ Key: %{key}
 Tempo: %{tempo}
 Vocals: %{vocals}
 {end_of_textblock}
-{sot: Intro}
-E7 vamp
-{eot}
 
 {sot: Intro}
-Am D C Am C D (x3)
-Am D C E7
+(Am/D vamp -> E7) x 2
 {eot}
 
 {sov: V1}
-[Am]Baby on the way
-I was melting like [C]ice
-On the back of my [Em7]spine
-Where we goin’ to[D]night?
-You know I saw that [Am]eye
-In the corner of the [C]light
-Playing games with my [Em7]mind
-It’s goin’ down to[D]night
+[Am]Baby on the way, I was bouncing like [C]ice
+On the back of my [Em7]spine, where we goin’ to[D]night?
+[Am]You know I saw that eye, in the corner of the [C]light
+Playing games with my [Em7]mind, it’s goin’ down to[D]night
 {eov}
 
 {sot: Tag}
-Am D C Am C D
-Am D C Am G F
+Am/D vamp -> Am G F
 {eot}
 
 {sov: Chorus}
-[F]So ready for [G]this[F]
-[F]On the floor
+[F]So ready for this [G] [F] on the floor
 [F]You know[G] [F]
-That I’m [Am]coming [G]back for [F}more
-[F]Take it slow
-I'm [Am]burning [G]baby you [F]know [E7]
+That I’m [Am]coming [G]back for [F]more
+[F]Take it slow I'm [Am]burning [G]baby you [F]know [E7]
 {eov}
 
 {sot: Lead}
-Over intro chords
+Am/D vamp -> E7
 {eot}
 
 {sov: V2}
-You know it all came [Am]back
-Like the break down of a [C]door
-When I saw you on the [Em7]floor
-Whatchyu you waiting [D]for
-light years on [Am]ice
-Stalled in a void of [C]time
-Turn on your satel[Em7]lite
-‘Cus it’s going down to[D]night, oh oh
+You know it all came back like the break down of a door
+When I saw you on the floor whatchyu you waiting for
+Light years on ice stalled in a void of time
+Turn on your satellite ‘cus it’s going down tonight, oh oh
 {eov}
 
-{sot: Tag}
+{sov: Tag}
 <i> </i>
-{eot}
+{eov}
 
-{sot: Chorus}
+{sov: Chorus}
 <i> </i>
-{eot}
+{eov}
 
 {sot: Solo}
-Am D C Am C D (x4)
-Bm7 C#m D D# E
+Am/D (x4)
+Bm7 (x2)
+C#m (x2)
+D (x2)
+D# (x2)
+E
 {eot}
 
 {sot: Outro}
 Chorus x 2
 {eot}
-
-
 
 {sov: Notes}
 Official Video (https://www.youtube.com/watch?v=2gypxvKKZEw)
