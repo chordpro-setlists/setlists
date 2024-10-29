@@ -3,4 +3,5 @@ songs/MountainsInTheMist.chopro
 songs/Free.chopro
 songs/LoveIsWhatWeAre.chopro
 songs/HowSweetItIs.chopro
+songs/NoRaindrops.chopro
 songs/BackIn79.chopro

@@ -1,0 +1,53 @@
+{t:No Raindrops}
+{st:Justin Murata}
+{key: G}
+{tempo: 100}
+{meta: vocals JM}
+{meta: timing 10min}
+
+{start_of_textblock label="" flush="right" anchor="line" x="100%"}
+Key: %{key}
+Tempo: %{tempo}
+Vocals: %{vocals}
+{end_of_textblock}
+
+{sot: Form}
+|: G C | G D :|
+{eot}
+
+
+{sov: Chorus}
+Mercy mercy me I believe I do decree
+There ain’t gonna be no raindrops anymore
+The weather may be bad but that don’t make me sad
+‘Cause there ain’t gonna be no raindrops anymore
+{eov}
+
+{sov: V1}
+Sometimes it gets twirled, good and bad in this old world
+It’s tough to see the future from the past
+Decisions may be blind, if you ain’t got the time
+The night is coming and daylight’s burning fast
+{eov}
+
+{sov: Chorus}
+<i> </i>
+{eov}
+
+{sov: V2}
+I ain’t gonna stop, ‘till I end up on top
+Of every pile, that gets piled in front of me
+Through the rain and the pain, just like a hurricane
+I’ll keep an eye as far as I can see
+{eov}
+
+{sov: Chorus}
+<i> </i>
+{eov}
+
+{sov: V3}
+So I’ll climb up that hill while the world keep turnin’ still
+And the clouds pass with the rain just like before
+The blue skies will be bright and the stars will shine all night
+‘Cause there ain’t gonna be no raindrops anymore
+{eov}
