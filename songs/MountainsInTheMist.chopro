@@ -18,10 +18,10 @@ Vocals: %{vocals}
 {eov}
 
 {sov: V2}
-I guess I'm just an obstacle a thing to overcome
-If I can sneak around myself again I'll know I've won
-The moment seems to hang and float before me with no end
-til I'm released, awakened beast, I'm on the road again
+[G]I guess I'm just an [C]obstacle a [G]thing to [Bb]over[C]come
+[Am]If I can sneak a[G]round myself [D]again I'll know I've won
+[G]The moment seems to [C]hang and float [G]before me [Bb]with no [C]end
+[Am]til I'm released, [G]awakened beast, [C]I'm on the [D]road a[G]gain [Bb] [Am] [C] [Eb] [Bb]
 {eov}
 
 {sov: Chorus}
@@ -37,7 +37,19 @@ Are little golden strands of truth that glimmer in the light
 The colorful material you hold a certain way
 Can keep us from the cold and help to get us through the night
 {eov}
-<i>Chorus</i>
+
+
+{sov: Chorus}
+<i> </i>
+{eov}
+
+{sot: Jam}
+|: Bb / / / | C / / / :|
+{eot}
+
+{sot: Outro}
+Intro riff x 4
+{eot}
 
 
 {sot: Notes}
