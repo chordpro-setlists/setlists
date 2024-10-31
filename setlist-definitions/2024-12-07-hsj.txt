@@ -11,5 +11,6 @@ songs/BlazeOn.chopro
 songs/ChinaCatSunflower.chopro
 songs/Free.chopro
 songs/IKnowYouRider.chopro
+songs/Possum.chopro
 songs/Encore.chopro
 songs/OneMoreSaturdayNight.chopro
