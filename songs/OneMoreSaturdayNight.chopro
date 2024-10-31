@@ -2,6 +2,13 @@
 {st:Grateful Dead}
 {key: C}
 {tempo: 164}
+{meta vocals:JM}
+
+{start_of_textblock label="" flush="right" anchor="line" x="100%"}
+Key: %{key}
+Tempo: %{tempo}
+Vocals: %{vocals}
+{end_of_textblock}
 
 {sov: V1}
 [C7]I went down to the mountain, I was drinkin’ some wine
