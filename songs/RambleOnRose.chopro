@@ -2,6 +2,13 @@
 {st:Grateful Dead}
 {key: D}
 {tempo: 120}
+{meta vocals:JM}
+
+{start_of_textblock label="" flush="right" anchor="line" x="100%"}
+Key: %{key}
+Tempo: %{tempo}
+Vocals: %{vocals}
+{end_of_textblock}
 
 {sov: V1}
 [D]Just like Jack the Ripper, [E]just like Mojo Hand,
