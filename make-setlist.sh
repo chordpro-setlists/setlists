@@ -10,11 +10,11 @@
 # SETLIST="2024-06-28-hsj"
 # SETLIST="2024-07-27-jam"
 # SETLIST="2024-10-04-hsj"
-SETLIST="2024-12-07-hsj"
+SETLIST="2024-10-29-hsj"
 # SETLIST="repertoire"
 # SETLIST="misc"
-VERSIONNUM="2"
-VERSIONSUFFIX="-V2"
+VERSIONNUM="1"
+VERSIONSUFFIX="-V1"
 mkdir -p setlists/$SETLIST
 mkdir -p setlists/$SETLIST/songs
 
