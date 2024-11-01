@@ -1,0 +1,58 @@
+{t:Deal}
+{st: Grateful Dead}
+{key: A}
+{tempo: 140}
+{meta: vocals JM}
+
+{start_of_textblock label="" flush="right" anchor="line" x="100%"}
+Key: %{key}
+Tempo: %{tempo}
+Vocals: %{vocals}
+{end_of_textblock}
+
+{sot: Intro}
+Vamp in A
+{eot}
+
+{sov: V1}
+[A]Since it costs a [C#7]lot to win, [F#m]and even [E]more to [D]lose,  [Adim7]
+[A]You and me got to spend some [F#]time [B]wondering what to [D]choose.
+[A]Goes to show, you [C#7]don't ever know,
+[F#m]Watch each [E]card you play and [D]play it [Adim7]slow.
+[A]Wait until that [G]deal come '[D]round,
+[A]Don't you let that [G]deal go [D]down, [A]no no.
+{eov}
+
+{sov: V2}
+I've been gambling hereabouts for ten good solid years,
+And if I told you all that went down it would burn off both your ears.
+Goes to show, you don't ever know,
+Watch each card you play and play it slow.
+Wait until that deal come 'round,
+Don't you let that deal go down, no no.
+{eov}
+
+{sot: Lead}
+Verse chords
+{eot}
+
+{sov: V3}
+Since you poured the wine for me and tightened up my shoes,
+I hate to leave you sitting there composing lonesome blues.
+Goes to show, you don't ever know,
+Watch each card you play and play it slow.
+Wait until that deal come 'round,
+Don't you let that deal go down, no no.
+{eov}
+
+{sot: V4}
+Repeat V1
+{eot}
+
+{sot: Outro}
+Chorus -> Jam -> Chorus (soft ending)
+{eot}
+
+{sov: Notes}
+5/8/77 (https://www.youtube.com/watch?v=lvwY2psxdl0)
+{eov}

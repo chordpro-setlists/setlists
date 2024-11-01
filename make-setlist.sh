@@ -14,8 +14,8 @@
 SETLIST="2024-12-07-hsj"
 # SETLIST="repertoire"
 # SETLIST="misc"
-VERSIONNUM="4"
-VERSIONSUFFIX="-V4"
+VERSIONNUM="5"
+VERSIONSUFFIX="-V5"
 mkdir -p setlists/$SETLIST
 mkdir -p setlists/$SETLIST/songs
 
