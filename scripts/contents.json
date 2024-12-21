@@ -4,7 +4,7 @@
       "fields": [
         "songindex"
       ],
-      "label": "2024-12-07-hsj (v 9)",
+      "label": "song-test @VERSION@",
       "line": "%{songindex} <span>   </span> %{title}",
       "pageno": "%{vocals}<span>  </span>%{key}",
       "fold": false,

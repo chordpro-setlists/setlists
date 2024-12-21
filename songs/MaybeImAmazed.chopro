@@ -1,0 +1,50 @@
+{t:Maybe I'm Amazed}
+{st:Paul McCartney}
+{key: F}
+{tempo: 120}
+{meta: vocals PJ}
+{meta: timing 10min}
+
+{start_of_textblock label="" flush="right" anchor="line" x="100%"}
+Key: %{key}
+Tempo: %{tempo}
+Vocals: %{vocals}
+{end_of_textblock}
+
+
+{sov: V1}
+[G]Maybe I'm [D]amazed at the way you [A]love me all the [E]time
+[G]And maybe I'm [D]afraid of the way I [A]love you
+[G]Maybe I'm a[D]mazed at the way you [A]pulled me out of [E]time
+[G]Hung me on a [D]line
+[F]Maybe I'm amazed at the [C]way I really [A]need you
+{eov}
+
+{sov: Chorus}
+[B]Maybe I'm a [Bmaj7]man
+Maybe I'm a [B7]lonely man who's in the middle of something
+[E]That he doesn't really under[B]stand
+[B]Maybe I'm a [Bmaj7]man
+Maybe you're the [B7]only woman who could ever help me
+[E]Baby, won't you help me to understand [B] [Bm7] [C#m] [F#]
+{eov}
+
+{sov: Solo}
+Over verse chords
+{eov}
+
+{sov: Chorus}
+Repeat
+{eov}
+
+{sov: V2}
+Maybe I'm amazed at the way you're with me all the time
+Maybe I'm afraid of the way I leave you
+Maybe I'm amazed at the way you help me sing my song
+You right me when I'm wrong
+Maybe I'm amazed at the way I really need you
+{eov}
+
+{sov: Notes}
+
+{eov}
