@@ -6,6 +6,7 @@ songs/Bug.chopro
 songs/CaymanReview.chopro
 songs/Dirt.chopro
 songs/EverythingsRight.chopro
+songs/Free.chopro
 songs/FunkyBitch.chopro
 songs/IfICould.chopro
 songs/Joy.chopro
