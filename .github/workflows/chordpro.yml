@@ -17,13 +17,10 @@ jobs:
         with:
           perl-version: '5.38'
           install-modules-with: cpanm
-          install-modules: | 
+          install-modules: |
+            XS::Parse::Sublike::Builder
+            Object::Pad@0.816
             chordpro
-      - name: Install Dependencies
-        run: |
-            cpanm --notest XS::Parse::Sublike::Builder
-            cpanm --notest Object::Pad@0.816
-            cpanm --installdeps --notest .
 
       - name: Check that ChordPro and ExifTool are installed
         run: |
