@@ -1,0 +1,73 @@
+{t:The Music Never Stopped}
+{st:Grateful Dead}
+{key: E}
+{tempo: 100}
+{meta: vocals PJ}
+{meta: timing 10min}
+{define "Bm7-5"}
+{define "Dm/F"}
+{define "A/C#"}
+
+
+{start_of_textblock label="" flush="right" anchor="line" x="100%"}
+Key: %{key}
+Tempo: %{tempo}
+Vocals: %{vocals}
+{end_of_textblock}
+
+{sov: V1}
+There's [E]mosquitoes on the river [A] [C], Fish are [E]rising up like birds [A] [C]
+It's been [E]hot for seven weeks now, [A]too hot to even speak now,
+Did you [E]hear what I just heard?
+
+Say it might have been a fiddle, or it could have been the wind
+But there seems to be a beat now, I can feel it in my feet now, listen here it comes again!
+{eov}
+
+{c: E F# G G#}
+
+{sov: Bridge}
+[A]There's a band out on the [Ao7]highway, [Bo7]they're high steppin' [A]into town
+[A]It's a rainbow [Ao7]full of sound, it's [Bo7]fireworks, calliopes and [A]clowns.
+Everybody [A6]dancin' [Bm7-5]   [A/C#]  [D#o7]  [Dm/F]  [A/C#]  [D7]  [E]
+
+[A6]C'mon children, [Bm7-5]C'mon children, [A/C#]C'mon on clap your [D#dim7]hands. [D] [E]
+{eov}
+
+{sov: V2}
+[A]Sun went down in honey[D] [F] [G] and the [A]moon came up in wine, [D] [F] [G]
+You know the [A]stars were spinnin' dizzy Lord the [D]band kept us so [F]busy.
+[G]We for[D]got a[E]bout the [A]time. [E] [F#] [B]
+{eov}
+
+{sov: V3}
+They're a band beyond description, like Jehovah's favorite choir.
+People joining hand in hand while the music played the band.  
+Lord, they're setting us on fire.
+
+Crazy rooster crowin’ midnight, balls of lightin' roll along
+Old men sing about their dreams, women laugh and children scream, 
+And the band keeps playin' on.
+{eov}
+
+{sov: Bridge}
+Keep on dancin' thru the daylight, greet the morning air with song
+No one's noticed, but the band's all packed and gone.
+Was it ever here at all?   But they keep on dancin'
+C'mon children, C'mon children, C'mon clap your hands
+{eov}
+
+{sov: V4}
+Well the cool breeze came on Tuesday, and the corn's a bumper crop
+And the fields are full of dancin' full of singin' and romancin', 
+The music never stopped.
+{eov}
+
+
+{sov: Notes}
+5/22/77 (https://www.youtube.com/watch?v=NDPSrU__Zb4)
+4/27/77 w/video (https://www.youtube.com/watch?v=X4WvB9DTutc)
+{eov}
+
+
+
