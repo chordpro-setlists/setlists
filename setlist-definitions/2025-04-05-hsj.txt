@@ -1,15 +1,20 @@
 songs/Bertha.chopro
 songs/ToreUpOverYou.chopro
+songs/SecondThatEmotion.chopro
 songs/RambleOnRose.chopro
 songs/ApocalypseBabe.chopro
-songs/DearMrFantasy.chopro
 songs/MeetDeBoys.chopro
 songs/Hungersite.chopro
-songs/Free.chopro
+songs/Deal.chopro
+songs/SetBreak.chopro
+songs/MusicNeverStopped.chopro
+songs/MidnightMoonlight.chopro
+songs/DearMrFantasy.chopro
 songs/NoRaindrops.chopro
+songs/Free.chopro
 songs/QuinnTheEskimo.chopro
 songs/Shamalama.chopro
-songs/SecondThatEmotion.chopro
-songs/MusicNeverStopped.chopro
+songs/EverythingsRight.chopro
+songs/Encore.chopro
 songs/WomenAreSmarter.chopro
 

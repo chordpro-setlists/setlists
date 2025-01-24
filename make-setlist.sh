@@ -16,8 +16,8 @@ SETLIST="2025-04-05-hsj"
 # SETLIST="repertoire"
 # SETLIST="misc"
 # SETLIST="all"
-VERSIONNUM="1"
-VERSIONSUFFIX="-V1"
+VERSIONNUM="2"
+VERSIONSUFFIX="-V2"
 mkdir -p setlists/$SETLIST
 mkdir -p setlists/$SETLIST/songs
 
