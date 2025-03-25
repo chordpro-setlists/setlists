@@ -12,7 +12,7 @@ Tempo: %{tempo}
 Vocals: %{vocals}
 {end_of_textblock}
 {sot: Intro}
-|: F .... | Eb .... | Eb .... | F .... :|
+|: F / / / | Eb / / / | Eb / / / | F / / / :|
 {eot}
 
 {sov: V1}
@@ -37,7 +37,7 @@ Hanging [Bb]on, they've taken [Ab]all, but we won't [Db]lay that [Eb]down
 {eov}
 
 {sot: Solo 1}
-| F .... | Eb .... | Eb .... | F .... |
+|: F / / / | Eb / / / | Eb / / / | F / / / :|
 {eot}
 
 {sov: V2}
@@ -49,17 +49,17 @@ We're climbing [F]through
 {eov}
 
 {sot: Solo 2}
-| F .... | Eb .... | Eb .... | F .... |
+|: F / / / | Eb / / / | Eb / / / | F / / / :|
 {eot}
 
 <i> Chorus (Everyone plays, but fade down at end.)</i>
 
 {sot: Jam}
-| F .... | Eb .... | Eb .... | F .... |
-Starts quiet: Intro riff
+Intro riff/Quiet: |: F / / / | Eb / / / | Eb / / / | F / / / :|
 Then: F for a while, Bbm for a while, then:
 |: C# - Bb / Ab - Bb :| (x3)
 | Eb / / / |
+Slide back up to F
 {eot}
 
 
