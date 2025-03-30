@@ -1,7 +1,7 @@
 {t:Midnight Moonlight}
 {st:Peter Rowan}
 {key: G}
-{tempo: 115}
+{tempo: 130}
 {meta: vocals PJ}
 {meta: timing 06min}
 
@@ -11,7 +11,7 @@ Tempo: %{tempo}
 Vocals: %{vocals}
 {end_of_textblock}
 {sot: Intro}
-Riff in G
+Larry sets tempo at 130BPM, all come in together.
 {eot}
 
 {sov: V1}
@@ -44,7 +44,7 @@ Will be the brightest you've ever seen
 Jam over verse chords.
 4 bars of G
 Bm G jam
-Exit jam with intro riff.
+Exit jam with intro riff into V2
 {eot}
 
 {sov: V3}

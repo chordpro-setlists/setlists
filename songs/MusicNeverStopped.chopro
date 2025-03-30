@@ -16,8 +16,8 @@ Vocals: %{vocals}
 {end_of_textblock}
 
 {sov: V1}
-There's [E]mosquitoes on the river [A] [C], Fish are [E]rising up like birds [A] [C]
-It's been [E]hot for seven weeks now, [A]too hot to even speak now,
+There's [E]mosquitoes on the [E7]river [A] [C], Fish are [E]rising up like [E7]birds [A] [C]
+It's been [E]hot for seven [E7]weeks now, [A]too hot to even [C]speak now,
 Did you [E]hear what I just heard?
 Say it might have been a fiddle, or it could have been the wind
 But there seems to be a beat now, I can feel it in my feet now, listen here it comes again!
@@ -62,8 +62,8 @@ The music never stopped.
 
 {sot: Outro}
 E F#
-|: B A | B A :| x8
-|: E E7 A C :|
+|: B A | B A :| x8, 6/8 time
+|: E E7 A C :|, JM cues final ending.
 {eot}
 
 

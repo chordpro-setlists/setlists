@@ -5,27 +5,28 @@
 {meta: vocals PJ}
 {meta: timing 10min}
 
+{define "HIT ON BEAT 2"}
+{define "HIT ON BEAT 4"}
+
 {start_of_textblock label="" flush="right" anchor="line" x="100%"}
 Key: %{key}
 Tempo: %{tempo}
 Vocals: %{vocals}
 {end_of_textblock}
 
-{c: Intro: ||: G    C/G | G    C/G :||: C    G     C    :||}
+
 
 {sov: V1}
-I had a hard run, running from your window.
-I was all night running, Lord I wonder if you care,
-I had a run in, run around in a run down.
-Run around the corner, corner, Lord I ran smack into a tree.
+[G]I had a [C]hard run, running from your [G]window.
+I was all night [C]running, Lord I wonder if you [G]care,
+I had a [C]run in, run around in a [G]run down.
+Run around the [C]corner, corner, Lord I ran smack into a [G]tree.
 {eov}
 
-{c: Chorus: D / Am / G / C D / C / G / D / C / Am / C / G}
-
 {sov: Chorus}
-I had to move, really had to move,
-That's why if you please, I am on my bended knees,
-Bertha don't you come around here anymore.
+I had to [D]move[Am], [G]really had to [C]move[D],
+[C]That's why if you [G]please, I am [D]on my bended [C]knees,
+[Am]Bertha don't you come [C]around here [G]anymore.
 {eov}
 
 {sov: V2}
@@ -37,15 +38,17 @@ Heard a voice a callin', Lord you was coming after me.
 
 
 {sot: Lead}
-Two Times through verse and chorus.
-Vox on second time for chorus.
+Verse/Chorus X 2
+Note: Second time through, chorus has vocals
 {eot}
 
 {sov: V3}
 Ran into a rainstorm, I ducked back into a bar door.
 It's all night pouring but not a drop on me.
-Test me, test me, why don't you arrest me?
-Throw me in the jailhouse until the sun goes down.
+{chordcolour: red}
+Test me, test me[HIT ON BEAT 2], why don't you arrest me?
+Throw me in the jailhouse[HIT ON BEAT 4] until the sun goes down.
+{chordcolour}
 {eov}
 
 {sov: Outro}
