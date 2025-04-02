@@ -5,8 +5,8 @@
 {meta: vocals PJ}
 {meta: timing 10min}
 
-{define "HIT ON BEAT 2"}
-{define "HIT ON BEAT 4"}
+{define "HIT ON BEAT 2 twice"}
+{define "HIT ON BEAT 4 twice"}
 
 {start_of_textblock label="" flush="right" anchor="line" x="100%"}
 Key: %{key}
@@ -46,8 +46,8 @@ Note: Second time through, chorus has vocals
 Ran into a rainstorm, I ducked back into a bar door.
 It's all night pouring but not a drop on me.
 {chordcolour: red}
-Test me, test me[HIT ON BEAT 2], why don't you arrest me?
-Throw me in the jailhouse[HIT ON BEAT 4] until the sun goes down.
+Test me, test me[HIT ON BEAT 2 twice], why don't you arrest me?
+Throw me in the jailhouse[HIT ON BEAT 4 twice] until the sun goes down.
 {chordcolour}
 {eov}
 
