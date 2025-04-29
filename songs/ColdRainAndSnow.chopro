@@ -3,7 +3,7 @@
 {key: D}
 {tempo: 130}
 {meta: vocals PJ}
-{meta: timing ??min}
+{meta: timing 8min}
 
 {start_of_textblock label="" flush="right" anchor="line" x="100%"}
 Key: %{key}
@@ -27,7 +27,7 @@ This old way, And I ain't goin be treated this old way.
 {eov}
 
 {sot: Lead}
-Melodic lead (PJ+MV) -> MV lead
+Melodic lead (PJ+JM) -> JM lead
 {eot}
 
 {sov: V3}
@@ -49,6 +49,5 @@ Run me out in the cold rain and snow (4x)
 {eov}
 
 {sot: Notes}
-Count in: 1-2-3-4 1
 7/4/86 (https://www.youtube.com/watch?v=WS2roM0l9Xg)
 {eot}

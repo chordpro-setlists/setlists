@@ -1,5 +1,16 @@
 {t:Jack Straw}
 {st:Grateful Dead}
+{key: E}
+{tempo: 80}
+{meta: vocals PJ}
+{meta: timing 10min}
+
+{start_of_textblock label="" flush="right" anchor="line" x="100%"}
+Key: %{key}
+Tempo: %{tempo}
+Vocals: %{vocals}
+{end_of_textblock}
+
 
 We can share the women, we can share the wine
 We can share what we've got of yours 'cause we done shared all of mine.
@@ -27,9 +38,13 @@ Got to settle one old score, one small point of pride.
 Ain't no place a man can hide, Shannon, to keep him from the sun;
 Ain't no bed can give us rest, now, you keep us on the run.
 
-Jack Straw from Witchita cut his buddy down,
+Jack Straw from Wichita cut his buddy down,
 And dug for him a shallow grave and laid his body down.
 Half a mile from Tuscon, by the morning light,
 One man gone and another to go, my old buddy you're moving much too slow.
 
 We can share the women, we can share the wine.
+
+{sot: Notes}
+5/16/80 (https://www.youtube.com/watch?v=XCsF_C9kFYw)
+{eot}

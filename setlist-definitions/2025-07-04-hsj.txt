@@ -1,0 +1,17 @@
+songs/ColdRainAndSnow.chopro
+songs/AfterMidnight.chopro
+songs/ShakedownStreet.chopro
+songs/BrownEyedWomen.chopro
+songs/BackOnTheTrain.chopro
+songs/ChinaCatSunflower.chopro
+songs/IKnowYouRider.chopro
+songs/FranklinsTower.chopro
+songs/JackStraw.chopro
+songs/HardToHandle.chopro
+songs/LonesomeAndALongWayFromHome.chopro
+songs/USBlues.chopro
+songs/Optional.chopro
+songs/MightAsWell.chopro
+songs/TurnOnYourLoveLight.chopro
+songs/Cassidy.chopro
+songs/Shamalama.chopro
