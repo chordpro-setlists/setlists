@@ -4,7 +4,7 @@
       "fields": [
         "songindex"
       ],
-      "label": "2025-07-04-hsj (v 1)",
+      "label": "2025-07-04-phish (v 1)",
       "line": "%{songindex} <span>   </span> %{title}",
       "pageno": "%{vocals}<span>  </span>%{key}",
       "fold": false,

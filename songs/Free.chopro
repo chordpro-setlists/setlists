@@ -2,7 +2,7 @@
 {st:Phish}
 {key: D}
 {tempo: 90}
-{meta vocals: MV}
+{meta vocals: }
 
 {start_of_textblock label="" flush="right" anchor="line" x="100%"}
 Key: %{key}

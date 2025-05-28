@@ -1,22 +1,36 @@
-{t:A Monsters}
+{t: Monsters}
 {st:Phish}
 {key: D}
-{tempo: ?}
+{tempo: }
 
-{sov: V1}
+{sov: Chorus}
+[Dm] [C]Easy now, easy now. [Dm] [C]Easy now, easy now.
+I [Bb]wake up in my bed[A] with monsters in my [Dm]head
+
 Easy now, easy now. Easy now, easy now.
 I wake up in my bed with monsters in my head
+{eov}
 
-Easy now, easy now. Easy now, easy now.
-I wake up in my bed with monsters in my head
-
-A world of smoke and shadows
-Has clouded my vision for so long
-And I recall a time when I used to belong
+{sov: Verse}
+A [Dm]world of smoke and shadows[C]
+Has [Dm]clouded my vision for so [C]long
+And [Bb]I recall a time[A] when I used to be[Dm]long
 
 The wreckage of the past
 And the fear of tomorrow haunts my mind
 I'm searching for a way to make it all rewind
+{eov}
+
+{sov: Chorus}
+<i> </i>
+{eov}
+
+{sov: Jam}
+<i> </i>
+{eov}
+
+{sov: Chorus}
+<i> </i>
 {eov}
 
 

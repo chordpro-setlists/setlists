@@ -1,0 +1,60 @@
+{t: Say it to me S.A.N.T.O.S.}
+{st:Phish}
+{key: Am}
+{tempo: }
+{meta vocals: }
+
+{start_of_textblock label="" flush="right" anchor="line" x="100%"}
+Key: %{key}
+Tempo: %{tempo}
+Vocals: %{vocals}
+{end_of_textblock}
+
+{sov: V1}
+[Am]My thoughts are frozen, like everyone else
+You will always be remembered, even life itself
+Say it to me S.A.N.T.O.S. and try to make it rhyme
+Say it to me S.A.N.T.O.S. in normal moving time
+Say it to me S.A.N.T.O.S. it’s off to work we go
+Say it to me S.A.N.T.O.S. [G]Hi-ho, hi-ho, hi-ho!
+[Am]This is what space [C]smells like (dangling in thin air)
+You will [G]always remember [D]where you were
+[Am]This is what space [C]smells like (dangling in thin air)
+You will [G]always remember [D]where you were
+{eov}
+
+{sov: V2}
+[Am]My thoughts are frozen, like everyone else
+You will always be remembered, even life itself
+Say it to me S.A.N.T.O.S. and try to make it rhyme
+Say it to me S.A.N.T.O.S. in normal moving time
+Say it to me S.A.N.T.O.S. it’s off to work we go
+{chordcolour: red}
+[G]Say it to me S.A.N.T.O.S. [D]Hi-ho, hi-ho, hi-ho!
+{chordcolour}
+[Am]This is what space [C]smells like (dangling in thin air)
+You will [G]always remember [D]where you were
+[Am]This is what space [C]smells like (dangling in thin air)
+You will [G]always remember [D]where you were
+We are [Am]lost, we are [C]vapor, we are [G]liquid, we are [D]light
+(This is what space smells like, you will always remember where you were)
+We are divided, we are liquid, we are vapor, we are light
+(This is what space smells like, you will always remember where you were)
+We are lost, we are vapor, we are liquid, we are light
+(This is what space smells like, you will always remember where you were)
+We are divided, we are liquid, we are vapor, we are light
+(This is what space smells like, you will always remember where you were)
+{eov}
+
+
+{sot: Jam}
+|: Am /// | C /// | G /// | D /// :|
+{eot}
+
+{sot: Outro}
+Chorus x 4, last 2x a cappella
+{eot}
+
+{sot: Notes}
+6/21/2019 (https://www.youtube.com/watch?v=ieddjSFFuCU)
+{eot}
