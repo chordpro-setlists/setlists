@@ -4,6 +4,8 @@
 {tempo: 80}
 {meta: vocals PJ}
 {meta: timing 10min}
+{define "E7sus4"}
+{define "F#7sus4"}
 
 {start_of_textblock label="" flush="right" anchor="line" x="100%"}
 Key: %{key}
@@ -11,23 +13,25 @@ Tempo: %{tempo}
 Vocals: %{vocals}
 {end_of_textblock}
 
+{sov: V1}
+[E]We can share the [F#m]women, we can share the [C#m]wine[A]
+[E]We can share what [Bm]we've got of yours [D]'cause we [A]done shared all of [E]mine.[G#m][D][A]
+[E]Keep on rollin', [F#m]just a mile to [C#m]go,[A]
+[E]Keep on rollin', [Bm]my old [D]buddy, you're [A]movin' much too [E]slow.[B][A][E]
 
-We can share the women, we can share the wine
-We can share what we've got of yours 'cause we done shared all of mine.
-Keep on rollin', just a mile to go,
-Keep on rollin', my old buddy, you're movin' much too slow.
+[E7sus4]I just jumped the [E7]watchman, [E7sus4]right outside the [E7]fence,
+[E7sus4]Took his rings, four [E7]bucks in change, [E7sus4]ain't that heaven [E7]sent?
+[F#7sus4]Hurts my ears to [F#7]listen, Shannon, [F#7sus4]burns my eyes to [F#7]see,
+[F#7sus4]Cut down a man in [F#7]cold blood, Shannon, [F#7sus4]might as well been [D]me.
 
-I just jumped the watchman, right outside the fence,
-Took his rings, four bucks in change, ain't that heaven sent?
-Hurts my ears to listen, Shannon, burns my eyes to see,
-Cut down a man in cold blood, Shannon, might as well been me.
+[D]We used to [Bm]play for [A]silver, now we play for [E]life;
+[D]And one's for [Bm]sport and one's for [A]blood at the point of a [E]knife.
+[D]And now the [Bm]die is [A]shaken, now the die must [E]fall;
+[D]There ain't no [Bm]winner in the [A]game, [E]he don't go home with [A]all,
+Not with [D]all.[G][D][G][E]
+{eov}
 
-We used to play for silver, now we play for life;
-And one's for sport and one's for blood at the point of a knife.
-And now the die is shaken, now the die must fall;
-There ain't no winner in the game, he don't go home with all,
-Not with all.
-
+{sov: V2}
 Leavin' Texas, fourth day of July,
 Sun so hot, the clouds so low, the eagles filled the sky.
 Catch the Detroit Lightning out of Santa Fe,
@@ -42,8 +46,11 @@ Jack Straw from Wichita cut his buddy down,
 And dug for him a shallow grave and laid his body down.
 Half a mile from Tuscon, by the morning light,
 One man gone and another to go, my old buddy you're moving much too slow.
+{eov}
 
+{sov: Outro}
 We can share the women, we can share the wine.
+{eov}
 
 {sot: Notes}
 5/16/80 (https://www.youtube.com/watch?v=XCsF_C9kFYw)
