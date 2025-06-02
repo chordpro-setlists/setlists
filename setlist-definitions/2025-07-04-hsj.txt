@@ -8,7 +8,7 @@ songs/IKnowYouRider.chopro
 songs/FranklinsTower.chopro
 songs/JackStraw.chopro
 songs/HardToHandle.chopro
-songs/LonesomeAndALongWayFromHome.chopro
-songs/Encore.chopro
-songs/SunshineDaydream.chopro
 songs/USBlues.chopro
+songs/Encore.chopro
+songs/SugarMagnolia.chopro
+songs/SunshineDaydream.chopro
