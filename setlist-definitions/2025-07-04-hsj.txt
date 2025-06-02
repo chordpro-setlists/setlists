@@ -9,9 +9,6 @@ songs/FranklinsTower.chopro
 songs/JackStraw.chopro
 songs/HardToHandle.chopro
 songs/LonesomeAndALongWayFromHome.chopro
+songs/Encore.chopro
+songs/SunshineDaydream.chopro
 songs/USBlues.chopro
-songs/Optional.chopro
-songs/MightAsWell.chopro
-songs/TurnOnYourLoveLight.chopro
-songs/Cassidy.chopro
-songs/Shamalama.chopro
