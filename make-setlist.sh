@@ -13,12 +13,13 @@
 # SETLIST="2024-10-29-hsj"
 # SETLIST="2024-12-07-hsj"
 # SETLIST="2025-07-04-hsj"
-SETLIST="2025-07-04-phish"
+# SETLIST="2025-07-04-phish"
+SETLIST="2025-07-04-acoustic-dead"
 # SETLIST="repertoire"
 # SETLIST="misc"
 # SETLIST="all"
-VERSIONNUM="3"
-VERSIONSUFFIX="-V3"
+VERSIONNUM="1"
+VERSIONSUFFIX="-V$VERSIONNUM"
 mkdir -p setlists/$SETLIST
 mkdir -p setlists/$SETLIST/songs
 

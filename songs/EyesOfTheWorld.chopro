@@ -1,7 +1,14 @@
 {t:Eyes Of the World}
 {st:Grateful Dead}
 {key: E}
-{tempo: 107}
+{tempo: 100}
+{meta: vocals PJ}
+
+{start_of_textblock label="" flush="right" anchor="line" x="100%"}
+Key: %{key}
+Tempo: %{tempo}
+Vocals: %{vocals}
+{end_of_textblock}
 
 {sov: V1}
 [Emaj7]Right outside this[A] lazy summer [Emaj7]home [Bm7] [A]

@@ -1,0 +1,5 @@
+songs/Deal.chopro
+songs/BirdSong.chopro
+songs/MississippiHalfStep.chopro
+songs/EyesOfTheWorld.chopro
+songs/Ripple.chopro
