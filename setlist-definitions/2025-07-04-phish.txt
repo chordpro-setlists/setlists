@@ -1,6 +1,7 @@
-songs/BackwardsDownTheNumberline.chopro
-songs/Bug.chopro
-songs/Dirt.chopro
-songs/EverythingsRight.chopro
-songs/TweezerReprise.chopro
 songs/WolfmansBrother.chopro
+songs/Bug.chopro
+songs/BlazeOn.chopro
+songs/EverythingsRight.chopro
+songs/BackwardsDownTheNumberline.chopro
+songs/Dirt.chopro
+songs/TweezerReprise.chopro

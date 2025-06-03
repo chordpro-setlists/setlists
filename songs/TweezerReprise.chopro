@@ -10,6 +10,16 @@ Tempo: %{tempo}
 Vocals: %{vocals}
 {end_of_textblock}
 
+{sot: Notes}
+Progression:
+  Octaves (Slide) x2
+  Octaves (Hit) x2
+  Vocals x 2
+  Riff to end
+
+Example: 9/1/2024 (https://www.youtube.com/watch?v=XwqLf5axjuo)
+{eot}
+
 {textsize: 11}
 {tabsize: 11}
 {sot: Riff}
@@ -35,6 +45,4 @@ Or play the above chords.
 {eot}
 
 
-{sot: Notes}
-9/1/2024 (https://www.youtube.com/watch?v=XwqLf5axjuo)
-{eot}
+

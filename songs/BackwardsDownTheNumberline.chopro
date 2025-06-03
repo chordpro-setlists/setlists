@@ -2,6 +2,13 @@
 {st:Phish}
 {key: C}
 {tempo: 85}
+{meta: vocals PJ}
+
+{start_of_textblock label="" flush="right" anchor="line" x="100%"}
+Key: %{key}
+Tempo: %{tempo}
+Vocals: %{vocals}
+{end_of_textblock}
 
 {sov: V1}
 [C]Happy happy oh my [G]friend, Blow out candles [D]once again
@@ -18,7 +25,7 @@ Or whisper [D]it [C]into his ear, Or write it down, just don't miss a [G]year
 {sov: Chorus}
 You [F]decide what it [C]contains, How long it goes but this [G]remains
 The only [F]rule is it [C]begins, Happy happy oh my [G]friend
-And [F]all my [C]friends come backwards down the [G]number line (x3)
+And [F]all my [C]friends come backwards down the [G]number line
 {eov}
 
 {sov: Bridge}
@@ -32,10 +39,15 @@ You can see a different [D]point of [G]view
 {eov}
 
 {sot: Outro}
-Repeat Chorus 2x
-Jam -> Repeat Chorus
+Chorus
+Jam
+"All my friends..." (x 4)
 {eot}
 
 {sot: Notes}
-Studio (https://www.youtube.com/watch?v=l8idTKePHkc)
+Chorus structure:
+1. PJ sings "You Decide" (x 2)
+2. BP sings "You Decide", PJ sings "All my friends" (x 2)
+
+Example: Studio (https://www.youtube.com/watch?v=l8idTKePHkc)
 {eot}

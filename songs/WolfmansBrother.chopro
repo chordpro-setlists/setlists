@@ -2,7 +2,7 @@
 {st:Phish}
 {key: Bb}
 {tempo: 92}
-{meta: vocals }
+{meta: vocals PJ}
 {meta: timing 07min}
 
 {start_of_textblock label="" flush="right" anchor="line" x="100%"}
@@ -55,9 +55,7 @@ Comin' down on...comin' down on me.
 {eov}
 
 {sot: Jam}
-Vocal Jam over |: Bb  Gm  Ab :|
-  * Justin: "Wolfman's Brother"
-  * Matt: "Shouldn't have took more than you gave"
-  * Philip: scat
- Dissolve into Bb jam > |: Bb  Gm  Ab :| to outro
+Jam over |: Bb  Gm  Ab :|
+  * Vocals
+  * Solos: PJ -> KR -> BP
 {eot}

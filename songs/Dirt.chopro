@@ -2,6 +2,8 @@
 {st: Phish}
 {key: D}
 {tempo: 130}
+{meta: vocals BP}
+
 
 {sot: Intro}
 "Washed... a... shore"
@@ -26,10 +28,8 @@ I'll never hear your voice again
 {eov}
 
 {sot: <span>Instrumental    </span>}
-1. Guitar solo through changes.
-2. Bass solo through changes.
-3. Keys solo through changes.
-4. Jam
+PJ -> KR -> BP (through changes)
+Transition into Tweezer Reprise
 {eot}
 
 {sot: Notes}
