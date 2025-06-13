@@ -11,31 +11,48 @@ Tempo: %{tempo}
 Vocals: %{vocals}
 {end_of_textblock}
 
-Red and white, blue suede shoes, I'm Uncle Sam, how do you do?
-Gimme five, I'm still alive, ain't no luck, I learned to duck.
+{sov: V1}
+[A]Red and white, blue suede shoes, I'm Uncle Sam, how do you do?
+[D]Gimme five, I'm still alive, ain't no luck, I [E]learned to duck.
+[A]Check my pulse, it don't change. Stay 72 come shine or rain.
+[D]Wave the flag, pop the bag, rock the boat, [E]skin the goat.
+{eov}
 
-Check my pulse, it don't change. Stay 72 come shine or rain.
-Wave the flag, pop the bag, rock the boat, skin the goat.
+{sov: Chorus}
+[B]Wave that flag, wave it wide and [E]high.
+[B]Summertime done, come and gone, my, oh, [E]my.
+{eov}
 
-Wave that flag, wave it wide and high.
-Summertime done, come and gone, my, oh, my.
-
+{sov: V2}
 I'm Uncle Sam, that's who I am; Been hidin' out in a rock and roll band.
 Shake the hand that shook the hand of P.T. Barnum and Charlie Chan.
-
 Shine your shoes, light your fuse. Can you use them ol' U.S. Blues?
 I'll drink your health, share your wealth, run your life, steal your wife.
+{eov}
 
-{c: Chorus}
+{sov: Chorus}
+<i> </i>
+{eov}
 
+{sot: Lead}
+JM
+{eot}
+
+{sov: V3}
 Back to back chicken shack. Son of a gun, better change your act.
 We're all confused, what's to lose?
 You can call this song the United States Blues.
+{eov}
 
-{c: Chorus }
+{sov: Outro}
+Wave that flag, wave it wide and high.
+Summertime done, come and gone, my, oh, my.
+Summertime done, come and gone, my, oh, my. (my oh my oh my)
+Summertime done, come and gone, my, oh, my.
+{eov}
 
 {sot: Notes}
-4/12/78 (https://www.youtube.com/watch?v=eViobWoVLJo)
+7/4/89 (https://www.youtube.com/watch?v=HrKs1gYWB6Y)
 {eot}
 
  
