@@ -1,8 +1,14 @@
 {t:Sunshine Daydream}
 {st:Grateful Dead}
 {key: B}
-{tempo: 167}
+{tempo: 150}
 {meta: vocals JM}
+
+{start_of_textblock label="" flush="right" anchor="line" x="100%"}
+Key: %{key}
+Tempo: %{tempo}
+Vocals: %{vocals}
+{end_of_textblock}
 
 {sov: V1}
 [B]Sunshine [E]day[B]dream,

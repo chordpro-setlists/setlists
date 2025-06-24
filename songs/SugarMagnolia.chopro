@@ -1,9 +1,15 @@
 {t:Sugar Magnolia}
 {st:Grateful Dead}
 {key: A}
-{tempo: 154}
+{tempo: 140}
 {textsize: 11}
 {meta: vocals JM}
+
+{start_of_textblock label="" flush="right" anchor="line" x="100%"}
+Key: %{key}
+Tempo: %{tempo}
+Vocals: %{vocals}
+{end_of_textblock}
 
 {sov: V1}
 [A]Sugar magnolia, blossoms blooming, head's all [G]empty and [E]I don't care,
