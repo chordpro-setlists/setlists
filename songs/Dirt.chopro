@@ -4,11 +4,16 @@
 {tempo: 130}
 {meta: vocals BP}
 
+{start_of_textblock label="" flush="right" anchor="line" x="100%"}
+Key: %{key}
+Tempo: %{tempo}
+Vocals: %{vocals}
+{end_of_textblock}
 
 {sot: Intro}
-"Washed... a... shore"
-"Shout your name into the wind"
-Whistling
+2x Chords
+2x Whistle + Washed a shore
+Em C
 {eot}
 
 {sov: V1}
@@ -28,10 +33,13 @@ I'll never hear your voice again
 {eov}
 
 {sot: <span>Instrumental    </span>}
-PJ -> KR -> BP (through changes)
-Transition into Tweezer Reprise
+1. PJ solo + crosspick ->
+2. KH solo ->
+3. BP changes -> Hang in D
+4. KR solo (noodle in D)
+5. Transition to Tweeprise: BP octave changes
 {eot}
 
 {sot: Notes}
-Magnaball (August,2015)  (https://www.youtube.com/watch?v=PfkD4HOhtPY)
+Magnaball (9/15)  (https://www.youtube.com/watch?v=PfkD4HOhtPY)
 {eot}
