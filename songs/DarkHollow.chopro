@@ -1,0 +1,62 @@
+{t:Dark Hollow}
+{st: Bill Browning}
+{key: A}
+{tempo: 100}
+{meta: vocals BP}
+{meta: timing 05min}
+
+{start_of_textblock label="" flush="right" anchor="line" x="100%"}
+Key: %{key}
+Tempo: %{tempo}
+Vocals: %{vocals}
+{end_of_textblock}
+
+
+{sov: V1}
+I'd rather [A]be in [E]some dark [A]hollow
+where the [A]sun don't [E]ever [A]shine
+Then to [A]be at home [A7]alone and [D]knowing' that you're gone
+Would [A]cause me to [E]lose my [A]mind
+{eov}
+
+{sov: Chorus}
+So blow your whistle freight train
+Take me far on down the track
+I'm going away, I'm leaving today
+I'm goin', but I ain't comin' back
+{eov}
+
+{sot: Lead}
+Short
+{eot}
+
+{sov: V2}
+I'd rather be in some dark hollow
+where the sun don't ever shine
+Then to be in some big city,
+in a small room, with you upon my mind
+{eov}
+
+{sov: Chorus}
+<i> </i>
+{eov}
+
+{sot: Lead}
+Everybody get some
+{eot}
+
+{sov: V3}
+I'd rather be in some dark hollow
+Where the sun don't ever shine
+Then to see you another man’s darlin’
+And to know that you’ll never be mine
+{eov}
+
+{sov: Outro}
+So blow your whistle freight train
+Take me far on down the track
+I'm going away, I'm leaving today
+I'm goin', but I ain't comin' back
+I'm going away, I'm leaving today
+I'm goin', but I ain't comin' back
+{eov}

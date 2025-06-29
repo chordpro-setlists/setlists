@@ -1,0 +1,13 @@
+songs/MidnightMoonlight.chopro
+songs/CatfishJohn.chopro
+songs/FriendOfTheDevil.chopro
+songs/MamaTried.chopro
+songs/DarkHollow.chopro
+songs/OldAndInTheWay.chopro
+songs/WildHorses.chopro
+songs/TheHoboSong.chopro
+songs/BigRiver.chopro
+songs/DireWolf.chopro
+songs/LoveOhLovePleaseComeHome.chopro
+songs/PanamaRed.chopro
+songs/Ripple.chopro

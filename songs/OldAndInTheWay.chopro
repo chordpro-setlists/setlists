@@ -1,0 +1,48 @@
+{title: Old and in the Way}
+{st: Peter Rowan}
+{key: C}
+{tempo: 100}
+{meta: vocals GJ}
+{meta: timing 05min}
+
+{start_of_textblock label="" flush="right" anchor="line" x="100%"}
+Key: %{key}
+Tempo: %{tempo}
+Vocals: %{vocals}
+{end_of_textblock}
+
+
+{sov: Chorus}
+[C]Old and in the [D]way, that’s [G]what I heard them [C]say
+They [Am]used to heed the [C]words he said, but that was yester[G]day
+[C]Gold will turn to [D]gray and [G]youth will fade a[C]way
+They’ll [Am]never care a[C]bout you while you’re old and in the [G]way
+{eov}
+
+{sov: V1}
+[D]Once I hear tell, he was [G]happy,
+[C]Had his share of [G]friends and good [D]times
+Now, those [C]friends have all passed on
+He don’t [G]have no place called [Em]home
+Like the [Am]old dog gone a[C]stray, he’s just old and in the [G]way
+{eov}
+
+{sov: Chorus}
+<i> </i>
+{eov}
+
+{sot: Lead}
+Through verse changes
+{eot}
+
+{sov: V2}
+[D]When just a boy, he left [G]his home
+[C]Thought he’d [G]have the world on a [D]string
+Now the [C]years have come and gone
+Through the [G]streets he walks [Em]alone
+Lookin’ [Am]back to a better [C]day, feelin’ old and in the [G]way
+{eov}
+
+{sov: Chorus}
+<i> </i>
+{eov}

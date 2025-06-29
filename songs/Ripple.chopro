@@ -10,34 +10,43 @@ Tempo: %{tempo}
 Vocals: %{vocals}
 {end_of_textblock}
 
-If my words did glow with the gold of sunshine,
-and my tunes were played on the harp unstrung?
-Would you hear my voice come through the music?
-Would you hold it near, as it were your own?
+{sov: V1}
+[G]If my words did glow with the gold of [C]sunshine,
+and my tunes were played on the harp un[G]strung?
+Would you hear my voice come through the [C]music?
+Would you hold it [D]near, [C]as it were your [G]own?
+{eov}
 
-Its a hand-me-down, the thoughts are broken,
-perhaps they're better left unsung?
-I don't know, don't really care,
-let there be songs to fill the air.
+{sov: V2}
+It's a hand-me-down, the thoughts are broken, perhaps they're better left unsung?
+I don't know, don't really care, let there be songs to fill the air.
+{eov}
 
-Ripple in still water, when there
-is no pebble tossed nor wind to blow
+{sov: Chorus}
+[Am]Ripple in still [D]water, when there [G]is no pebble [C]tossed nor [A]wind to [D]blow
+{eov}
 
-Reach out your hand if your cup be empty,
-if your cup is full, may it be again.
-Let it be known there is a fountain,
-that was not made by the hands of men.
+{sov: V3}
+Reach out your hand if your cup be empty, if your cup is full, may it be again.
+Let it be known there is a fountain, that was not made by the hands of men.
+{eov}
 
-There is a road, no simple highway,
-between the dawn and the dark of night
-And if you go, no one may follow,
-that path is for your steps alone.
+{sov: V4}
+There is a road, no simple highway, between the dawn and the dark of night
+And if you go, no one may follow, that path is for your steps alone.
+{eov}
 
-Ripple in still water, when there
-is no pebble tossed nor wind to blow
+{sov: Chorus}
+<i> </i>
+{eov}
 
-You who choose to lead must follow,
-but if you fall you fall alone
-If you should stand, then who's to guide you?
-If I knew the way, I would take you home.
+{sov: V5}
+You who choose to lead must follow, but if you fall you fall alone
+If you should stand, then who's to guide you? If I knew the way, I would take you home.
+{eov}
+
+{sov: V6}
+La da da da da, La da da da da, Da da da da, da da, da da da da da.
+La da da da, La da da da da, La da da da, La da da da da.
+{eov}
 

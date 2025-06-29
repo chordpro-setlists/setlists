@@ -1,0 +1,58 @@
+{t: Wild Horses}
+{st: Rolling Stones}
+{key: A}
+{tempo: 100}
+{meta: vocals GJ}
+{meta: timing 05min}
+
+{start_of_textblock label="" flush="right" anchor="line" x="100%"}
+Key: %{key}
+Tempo: %{tempo}
+Vocals: %{vocals}
+{end_of_textblock}
+
+{transpose: 2}
+
+{sot: Intro}
+Bm D A G D A
+{eot}
+
+{sov: V1}
+[Bm]Childhood [G]living [Bm]It's easy to [G]do
+[Am]The things you [C]wanted [D] [G]I bought them for [D]you
+[Bm]Graceless [G]lady [Bm]you know who I [G]am
+[Am]You know I [C]can't let [D]you [G]slide through my [D]hands
+{eov}
+
+{sov: Chorus}
+[Am]Wild [C]horses [D] [G]couldn't [F]drag me [C]away
+[Am]Wild wild [C]horses [G]we'll [F]ride them [C]some day.
+{eov}
+
+{sov: V2}
+I watched you suffer a dull aching pain
+Now you've decided to show me the same
+No sweeping exits or offstage lines
+Could make me feel bitter  or  treat you unkind
+{eov}
+
+{sov: Chorus}
+<i> </i>
+{eov}
+
+{sot: Lead}
+Through verse changes
+{eot}
+
+{sov: V3}
+I know I've dreamed you, a sin and a lie.
+I have my freedom but I don't have much time  
+Faith has been broken, tears must be cried
+Let's do some living, after we die...
+{eov}
+
+{sov: Chorus}
+<i> </i>
+{eov}
+
+

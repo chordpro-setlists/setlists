@@ -1,0 +1,35 @@
+{t: Love oh love please come home}
+{st: Bill Monroe}
+{key: Bb}
+{tempo: 100}
+{meta: vocals BP}
+{meta: timing 05min}
+
+{start_of_textblock label="" flush="right" anchor="line" x="100%"}
+Key: %{key}
+Tempo: %{tempo}
+Vocals: %{vocals}
+{end_of_textblock}
+
+{transpose: -9}
+
+{sov: V1}
+[G]As you read this letter that I write to [F]you
+Sweet[C]heart I hope you’ll under[G]stand
+That [C]you’re the only love I [G]knew
+Please [D7]forgive if you [G]can
+{eov}
+
+{sov: V2}
+[G]Sweetheart I beg you to come home [F]tonight
+I'm [C]so blue and all [G]alone
+I [C]promise that I'll treat you [G]right
+Love oh [D7]love oh please come [G]home
+{eov}
+
+{sov: V3}
+The wind is cold and slowly creeping around
+And the fire is burning low
+The snow has covered up the ground
+Your baby's hungry sick and cold
+{eov}

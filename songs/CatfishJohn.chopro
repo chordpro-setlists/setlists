@@ -2,7 +2,7 @@
 {st: Nitty Gritty Dirt Band}
 {key: A}
 {tempo: 130}
-{meta: vocals JM}
+{meta: vocals GJ}
 {meta: timing 05min}
 
 {start_of_textblock label="" flush="right" anchor="line" x="100%"}
@@ -10,6 +10,8 @@ Key: %{key}
 Tempo: %{tempo}
 Vocals: %{vocals}
 {end_of_textblock}
+
+
 {sot: Intro}
 |: A / C C# ... :|
 {eot}

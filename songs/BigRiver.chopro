@@ -2,6 +2,15 @@
 {st:Grateful Dead}
 {key: A}
 {tempo: 110}
+{meta: vocals GJ}
+{meta: timing 05min}
+
+{start_of_textblock label="" flush="right" anchor="line" x="100%"}
+Key: %{key}
+Tempo: %{tempo}
+Vocals: %{vocals}
+{end_of_textblock}
+
 
 {sov: Chorus}
 Well I [A]taught that weeping willow how to cry cry cry,
@@ -17,7 +26,13 @@ Well I heard my dream went back downstream, cavortin' in Davenport,
 And I followed you big river when you called.
 {eov}
 
-<i>Chorus</i>
+{sov: Chorus}
+<i> </i>
+{eov}
+
+{sot: Lead}
+Through verse changes
+{eot}
 
 {sov: V2}
 Well I followed her down to St. Lou, later on down the river,
@@ -26,7 +41,13 @@ Well I followed her down to Memphis, but she just walked off the bus,
 She raised a few eyebrows and she went on down alone.
 {eov}
 
-<i>Chorus</i>
+{sov: Chorus}
+<i> </i>
+{eov}
+
+{sot: Lead}
+Through verse changes
+{eot}
 
 {sov: V3}
 Well I've gotten on down to Baton Rouge, River Queen roll on,
@@ -35,7 +56,9 @@ I give up, I've had enough, followed my blues on down to the gulf,
 She loves you big river more than me.
 {eov}
 
-<i>Chorus</i>
+{sov: Chorus}
+<i> </i>
+{eov}
 
 
 {sot: Notes}

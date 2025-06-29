@@ -1,0 +1,53 @@
+{t:The Hobo Song}
+{st: Jack Bonus}
+{key: G}
+{tempo: 100}
+{meta: vocals PJ}
+{meta: timing 05min}
+
+{start_of_textblock label="" flush="right" anchor="line" x="100%"}
+Key: %{key}
+Tempo: %{tempo}
+Vocals: %{vocals}
+{end_of_textblock}
+
+
+{sov: V1}
+[G]Too late to feel [Em]sorrow, [C]too late to feel [Am]pain
+[F]He's just an old hobo [Am]and he's lost out in the [G]rain
+[G]He'll never cause [Em]trouble [C]so don't have no [Am]fear
+[F]He's just an old hobo [G]and he'll soon be far away from here
+{eov}
+
+{sov: Chorus}
+[B7]He used to be a gambling man [C]just like you [Cm]
+Until he [G]sank so low that there was [D]nothing that no one could [G]do
+[B7]He used to be a gambling man [C]just like you [Cm]
+Until he [G]sank so low that there was [D]nothing that no one could [G]do
+{eov}
+
+{sov: V2}
+Oh, don't make him ask you, don't make him beg
+He was a war hero and that's how he hurt his leg
+He killed thirty injuns with one cannon ball
+Now he's just an old hobo asleep out in the hall
+{eov}
+
+{sov: Chorus}
+<i> </i>
+{eov}
+
+{sot: Lead}
+Through verse changes
+{eot}
+
+{sov: V3}
+My wife and five children who live in L.A.
+They miss their dear daddy who's gone so far away
+They still have his picture, it's hung on the wall
+Now he's just an old hobo asleep out in the hall
+{eov}
+
+{sov: Chorus}
+<i> </i>
+{eov}

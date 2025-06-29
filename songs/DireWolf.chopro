@@ -1,27 +1,58 @@
 {t:Dire Wolf}
 {st:Grateful Dead}
+{key: G}
+{tempo: 100}
+{meta: vocals PJ}
+{meta: timing 05min}
 
+{start_of_textblock label="" flush="right" anchor="line" x="100%"}
+Key: %{key}
+Tempo: %{tempo}
+Vocals: %{vocals}
+{end_of_textblock}
+
+{sot: Intro}
+G F C
+{eot}
+
+{sov: V1}
 [G]In the timbers of Fennario, the [Bb]wolves are running [F]round,
 [F]The winter was so hard and cold, froze ten feet 'neath the [G]ground.
 [G]Don't murder [F]me, [G]I beg of [C]you don't [Bb]murder [F]me.
 [G]Please [F]don't murder [C]me.
+{eov}
 
+{sov: V2}
 [G]I sat down to my supper, [Bb]twas a bottle of red whis[F]key.
 [F]I said my prayers and went to bed, that's the [C]last they saw of [Am]me.
 [Am]Don't murder [G]me, [F]I beg of [C]you don't [Bb]murder [F]me.
 [G]Pleas[F]e don't murder [C]me.
+{eov}
 
+{sov: B1}
 [Am]When I awoke, the [G]dire wolf, six [C]hundred [Bb]pounds of [F]sin,
 [F]Was grinnin' at my window, all I said was "Come on [G]in"
 [G]Don't murder [F]me, [G]I beg of [C]you don't [E7]murder [Am]me,
 [G]Pleas[F]e don't murder [C]me.
+{eov}
 
-[Am]The wolf came in, I [G]got my cards, we [C]sat down [Bm]for a [F]game.
-[F]I cut my deck to the queen of spades but the cards were all the [G]same.
-Don't murder me, I beg of you don't murder me.
+{sov: B2}
+The wolf came in, I got my cards, we sat down for a game.
+I cut my deck to the queen of spades but the cards were all the same.
+Don't murder me, I beg of you don't murder me,
 Please don't murder me.
+{eov}
 
+{sov: V3}
 In the backwash of Fennario, the black and bloody mire,
 The dire wolf collects his due while the boys sing 'round the fire.
 Don't murder me, I beg of you don't murder me.
 Please don't murder me.
+{eov}
+
+{sov: Outro}
+[G]Don't murder [F]me, [G]I beg of [C]you don't [E7]murder [Am]me,
+[G]Pleas[F]e don't murder [C]me, no no no,
+[G]Don't murder [F]me, [G]I beg of [C]you don't [Bb]murder [F]me,
+[G]Pleas[F]e don't murder [C]me, [G]pleas[F]e don't murder [C]me.
+{eov}

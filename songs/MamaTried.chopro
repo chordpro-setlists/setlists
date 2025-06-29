@@ -1,0 +1,57 @@
+{t:Mama Tried}
+{st:Merle Haggard}
+{key: D}
+{tempo: 130}
+{meta: vocals GJ}
+{meta: timing 05min}
+
+{start_of_textblock label="" flush="right" anchor="line" x="100%"}
+Key: %{key}
+Tempo: %{tempo}
+Vocals: %{vocals}
+{end_of_textblock}
+
+{sot: Intro}
+| D / A / | D A D - |
+{eot}
+
+{sov: V1}
+The first thing [D]I remember [G]knowing was a [D]lonesome whistle [G]blowing,
+And a [D]young un's dream of [G]growing up to [A7]ride,
+On a [D]freight train leaving [G]town not [D]knowing where I'm [G]bound,
+And no [D]one could change my [A7]mind but Mama [D]tried
+{eov}
+
+{sov: V2}
+One and only rebel child from a family meek and mild,
+Mama seemed to know what lay in store
+Despite all my Sunday learning toward the bad I kept on turning
+'Til Mama couldn't hold me anymore
+{eov}
+
+{sov: Chorus}
+[D]I turned 21 in prison doing [C]life without [D]parole.
+No [Bm]one could steer me right but Mama [A]tried, Mama tried
+Mama [D]tried to raise me better, but her [G]pleading, I den[D]ied
+That leaves only me to [A7]blame 'cause Mama [D]tried
+{eov}
+
+{sot: Lead}
+Through verse changes
+{eot}
+
+{sov: V3}
+Dear old Daddy, rest his soul, left my Mom a heavy load,
+She tried so very hard to fill his shoes
+Working hours without rest, wanted me to have the best
+She tried to raise me right but I refused
+{eov}
+
+{sov: Chorus}
+<i> </i>
+{eov}
+
+
+{sot: Outro}
+Repeat "That leaves only me to blame..."
+{eot}
