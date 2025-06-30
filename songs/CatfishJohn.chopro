@@ -24,7 +24,7 @@ Vocals: %{vocals}
 {eov}
 
 {sov: V1}
-[A]Take me [D]back to another [A]morning
+Take me [D]back to another [A]morning
 To a [D]time so long a[A]go
 When the [D]sweet magnolias [A]blossomed
 Cotton fields were [E]white as [A]snow
@@ -40,7 +40,8 @@ I was proud to be his friend
 
 
 {sot: Lead}
-|: D / / / |A / / / :| A / E / |A / / / |
+|: D / / / | A / / / :| x3
+|  A / E / | A / / /  |
 {eot}
 
 {sov: V3}
@@ -51,12 +52,20 @@ Though his load was hard to bear
 {eov}
 
 
-{sov: V4}
+{sov: V4?}
 Let me dream of another morning
 And a time so long ago
 When the sweet magnolias blossom
 And the cotton fields were white as snow
-<i>Chorus</i>
+{eov}
+
+{sot: Lead2}
+|: D / / / | A / / / :| x3
+|  A / E / | A / / /  |
+{eot}
+
+{sov: Chorus}
+<i> </i>
 {eov}
 
 {sov: Tag}

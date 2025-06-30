@@ -1,4 +1,4 @@
-songs/MidnightMoonlight.chopro
+songs/MidnightMoonlight2.chopro
 songs/CatfishJohn.chopro
 songs/FriendOfTheDevil.chopro
 songs/MamaTried.chopro

@@ -12,7 +12,7 @@ Vocals: %{vocals}
 {end_of_textblock}
 
 {sot: Intro}
-G F C
+| C /// | G /// | F /// | C /// |
 {eot}
 
 {sov: V1}

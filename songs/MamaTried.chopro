@@ -12,7 +12,7 @@ Vocals: %{vocals}
 {end_of_textblock}
 
 {sot: Intro}
-| D / A / | D A D - |
+pickup: | / / /  A B C# |
 {eot}
 
 {sov: V1}
@@ -50,6 +50,15 @@ She tried to raise me right but I refused
 {sov: Chorus}
 <i> </i>
 {eov}
+
+{sot: Lead2}
+Through verse changes
+{eot}
+
+{sov: Chorus}
+<i> </i>
+{eov}
+
 
 
 {sot: Outro}

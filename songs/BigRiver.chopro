@@ -14,7 +14,7 @@ Vocals: %{vocals}
 
 {sov: Chorus}
 Well I [A]taught that weeping willow how to cry cry cry,
-Taught the clouds how to cover up a [B]clear blue sky.[E]
+Taught the clouds how to cover up a [B]clear blue [E]sky.
 [A]Tears I cried for that woman are gonna [D]flood you big river,
 And [A]I'm a gonna sit right [E7]here until I [A]die.
 {eov}
@@ -45,7 +45,7 @@ She raised a few eyebrows and she went on down alone.
 <i> </i>
 {eov}
 
-{sot: Lead}
+{sot: Lead2}
 Through verse changes
 {eot}
 
@@ -58,6 +58,18 @@ She loves you big river more than me.
 
 {sov: Chorus}
 <i> </i>
+{eov}
+
+{sot: Lead3}
+Through verse changes
+{eot}
+
+{sov: Chorus}
+<i> </i>
+{eov}
+
+{sov: Tag}
+I'm gonna sit right here until I die.
 {eov}
 
 

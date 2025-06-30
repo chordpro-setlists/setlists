@@ -11,12 +11,14 @@ Tempo: %{tempo}
 Vocals: %{vocals}
 {end_of_textblock}
 
-
+{sot: Intro}
+3 beat pickup / Lead in
+{eot}
 {sov: Chorus}
 [C]Old and in the [D]way, that’s [G]what I heard them [C]say
 They [Am]used to heed the [C]words he said, but that was yester[G]day
 [C]Gold will turn to [D]gray and [G]youth will fade a[C]way
-They’ll [Am]never care a[C]bout you while you’re old and in the [G]way
+They’ll [Am]never care a[C]bout you cause you’re old and in the [G]way
 {eov}
 
 {sov: V1}
@@ -45,4 +47,8 @@ Lookin’ [Am]back to a better [C]day, feelin’ old and in the [G]way
 
 {sov: Chorus}
 <i> </i>
+{eov}
+
+{sov: Tag}
+They'll never care about you cause you're old and in the way.
 {eov}

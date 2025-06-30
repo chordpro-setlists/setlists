@@ -11,6 +11,11 @@ Tempo: %{tempo}
 Vocals: %{vocals}
 {end_of_textblock}
 
+{sot: Intro}
+Pickup: A G# G
+| F# /// | //// | G /// | //// | A /// | //// | D /// |
+{eot}
+
 {sov: Chorus}
 Panama [Bm]Red, Panama [A]Red,
 He'll [G]steal your woman [E7]then he'll rob your [A]head.
@@ -21,7 +26,7 @@ Bet your [A]woman is up in bed with ol' Panama [D]Red.
 
 {sov: V1}
 The judge don't [D]know when Red's in town, he keeps well [G]hidden underground.
-Every[A]body's actin' lazy, fallin' [D]out or hangin' round.
+Every[A]body's actin' lazy, fallin' out or hangin' [D]round.
 My [D]woman said, Hey Pedro, you're actin' [G]crazy like a clown.
 No[A]body feels like workin' Panama Red is back in [D]town.
 {eov}
