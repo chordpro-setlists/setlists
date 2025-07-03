@@ -31,9 +31,9 @@ We gonna find out what it is all about
 After midnight we gonna let it all hang down
 {eov}
 
-{sov: Lead}
-<i>(Over verse chords)</i>
-{eov}
+{sot: Lead}
+JF (verse chords)
+{eot}
 
 {sov: V2}
 After midnight we gonna shake your tambourine
@@ -44,16 +44,16 @@ We gonna find out what it is all about
 After midnight we gonna let it all hang down
 {eov}
 
-{sov: Lead}
-<i>(Over verse chords)</i>
-{eov}
+{sot: Lead2}
+PJ (verse chords)
+{eot}
 
-{sov: Repeat}
-<i>(Verse 1)</i>
+{sov: V1}
+Repeat V1
 {eov}
 
 {sot: Jam}
-E7
+JM (over E7)
 {eot}
 
 {sov: Outro}
