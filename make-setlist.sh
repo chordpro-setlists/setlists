@@ -19,7 +19,7 @@ SETLIST="2025-07-04-bluegrass"
 # SETLIST="repertoire"
 # SETLIST="misc"
 # SETLIST="all"
-VERSIONNUM="3"
+VERSIONNUM="4"
 VERSIONSUFFIX="-V$VERSIONNUM"
 mkdir -p setlists/$SETLIST
 mkdir -p setlists/$SETLIST/songs
