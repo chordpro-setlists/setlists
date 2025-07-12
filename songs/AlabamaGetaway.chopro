@@ -1,0 +1,70 @@
+{t:Alabama Getaway}
+{st: Grateful Dead}
+{key: A}
+{tempo: 140}
+{meta: vocals MV}
+{meta: timing 10min}
+
+{start_of_textblock label="" flush="right" anchor="line" x="100%"}
+Key: %{key}
+Tempo: %{tempo}
+Vocals: %{vocals}
+{end_of_textblock}
+
+{sot: Intro}
+| E / / / | D / / / | D / / / | C C/A C C/A |
+{eot}
+
+{sov: V1}
+[A]Thirty-two teeth in a jawbone, Alabama's trying for none
+[E]Before I have to hit him, I [D]hope he's got the sense to run.
+[A]Reason those poor girls love him, he promises them everything.
+[E]Why they all believe him, he [D]wears a big diamond ring.
+{eov}
+
+{sov: Chorus}
+[A]Alabama Getaway, Getaway. [D]Alabama Getaway, Getaway.
+[E]Only way to please me, [D]turn round and leave and walk away. [C][A]
+{eov}
+
+{sot: Lead 1}
+PJ
+{eot}
+
+{sov: V2}
+Major Domo Billy Bojangles, sit down and have a drink with me.
+What this 'bout Alabama that keeps coming back to me?
+Heard your plea in the courthouse, jury box began to rock and rise
+Forty-nine sister states had Alabama in their eyes.
+{eov}
+
+{sot: Chorus}
+{eot}
+
+{sot: Lead 2}
+JM
+{eot}
+
+
+{sov: V3}
+Major said why don't we give him rope enough to hang himself?
+No need to worry the jury, his kind take care of themselves.
+Twenty-third Psalm Majordomo, reserve me a table for three.
+Down in the valley of the shadow just you Alabama and me.
+{eov}
+
+
+{sot: Chorus}
+{eot}
+
+{sot: Lead 3}
+MV
+{eot}
+
+{sot: Outro}
+Double Chorus -> 3x quick licks and hold on 1.
+{eot}
+
+{sov: Notes}
+Studio (https://www.youtube.com/watch?v=s3QpBCRiUcI)
+{eov}

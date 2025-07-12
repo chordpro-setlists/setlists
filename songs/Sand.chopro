@@ -1,0 +1,54 @@
+{t: Sand}
+{st: Phish}
+{key: Am}
+{tempo: 100}
+{meta: vocals PJ}
+{meta: timing 10min}
+
+{start_of_textblock label="" flush="right" anchor="line" x="100%"}
+Key: %{key}
+Tempo: %{tempo}
+Vocals: %{vocals}
+{end_of_textblock}
+
+{sot: Form}
+Just Am, baby.
+{eot}
+
+{sov: V1}
+If you can heal the symptoms but not affect the cause
+It’s quite a bit like trying to heal a gunshot wound with gauze
+If you instead attempt to wrest the pistol from the hand
+Then I would not be able to equate my life with sand
+{eov}
+
+{sov: V2}
+Flowing through the hourglass, pushing through the funnel
+Turn once more while racing all your siblings for the tunnel
+Slide and let the silicone embrace you as you fall
+Then bounce and land you let your brothers crush you to the wall
+{eov}
+
+{sov: V3}
+I would choose my own religion and worship my own spirit
+But if he ever preached to me I wouldn’t want to hear it
+I’d drop him, a forgotten god, languishing in shame
+And then if I hit stormy seas I’d have myself to blame
+{eov}
+
+{sov: V4}
+4X If you can heal the symptoms but not affect the cause, if you can heal the symptoms...
+{eov}
+
+{sov: Jam}
+<span> </span>
+{eov}
+
+{sov: Outro}
+4X If you can heal the symptoms but not affect the cause, if you can heal the symptoms...
+{eov}
+
+
+{sov: Notes}
+6/5/2022 (https://www.youtube.com/watch?v=UuzclQBJwWs)
+{eov}
