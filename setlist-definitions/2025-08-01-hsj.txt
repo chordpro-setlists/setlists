@@ -10,6 +10,7 @@ songs/FireOnTheMountain.chopro
 songs/SetBreak.chopro
 songs/JackStraw.chopro
 songs/DownByTheRiver.chopro
+songs/AllAlongTheWatchTower.chopro
 songs/ApocalypseBabe.chopro
 songs/WestLAFadeaway.chopro
 songs/Sand.chopro

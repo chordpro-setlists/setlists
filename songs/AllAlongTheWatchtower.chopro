@@ -1,5 +1,5 @@
 {t:All Along The Watchtower}
-{st: Jimi Hendrix}
+{st: Bob Dylan}
 {key: A}
 {tempo: 115}
 {meta: vocals JM}
@@ -15,7 +15,7 @@ Am G F G
 {eot}
 
 {sov: Intro}
-Justin starts.
+JM starts.
 {eov}
 
 {sov: V1}
@@ -29,9 +29,9 @@ None of them along the line
 Know what any of it is worth"
 {eov}
 
-{sov: Lead}
-<i>(Over verse chords)</i>
-{eov}
+{sot: Lead}
+JM Over verse chords
+{eot}
 
 {sov: V2}
 "No reason to get excited"
@@ -44,9 +44,9 @@ So let us not talk falsely now,
 Because the hour is getting late"
 {eov}
 
-{sov: Lead}
-<i>(Over verse chords)</i>
-{eov}
+{sot: Lead}
+JM Over verse chords
+{eot}
 
 {sov: V3}
 All along the watchtower
@@ -59,9 +59,9 @@ Two riders were approaching
 And the wind began to howl.
 {eov}
 
-{sov: Lead}
+{sot: Lead}
 JM with "wind down" to quiet before starting V4.
-{eov}
+{eot}
 
 {sov: V4}
 "No reason to get excited"
