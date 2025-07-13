@@ -19,3 +19,4 @@ songs/NotFadeAway.chopro
 songs/GDTRFB.chopro
 songs/Encore.chopro
 songs/BlazeOn.chopro
+songs/Ripple.chopro
