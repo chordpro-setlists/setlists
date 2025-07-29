@@ -50,15 +50,21 @@ Name, address, and phone number
 Lord, and just how far to go.
 {eov}
 
-<i>Chorus</i>
+{sot: Chorus}
 
-{sot: Jam}
-MV -> JM Lead
 {eot}
 
-<i>Repeat V1</i>
-<i>Chorus</i>
-<i>"Little red light..." x 3 to end</i>
+{sov: Jam}
+{textcolor: red}
+Lead: MV -> JM > > > Sand > > > return for outro
+{textcolor}
+{eov}
+
+{sot: Outro}
+Repeat V1
+Chorus
+"Little red light..." x 3 to end
+{eot}
 
 {sov: Notes}
 Count in: 1-2 1-2-3-4
