@@ -6,7 +6,7 @@ SETLIST="2025-08-01-hsj"
 # SETLIST="repertoire"
 # SETLIST="misc"
 # SETLIST="all"
-VERSIONNUM="5"
+VERSIONNUM="6"
 VERSIONSUFFIX="-V$VERSIONNUM"
 mkdir -p setlists/$SETLIST
 mkdir -p setlists/$SETLIST/songs
