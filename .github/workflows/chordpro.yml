@@ -19,7 +19,7 @@ jobs:
           install-modules-with: cpanm
           install-modules: |
             XS::Parse::Sublike::Builder
-            Object::Pad@0.816
+            Object::Pad@0.818
             chordpro
 
       - name: Check that ChordPro and ExifTool are installed
