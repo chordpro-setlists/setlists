@@ -20,7 +20,7 @@ jobs:
           install-modules: |
             XS::Parse::Sublike::Builder
             Object::Pad@0.818
-            chordpro
+            chordpro@6.070
 
       - name: Check that ChordPro and ExifTool are installed
         run: |
