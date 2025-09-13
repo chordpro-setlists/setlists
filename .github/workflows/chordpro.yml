@@ -26,12 +26,15 @@ jobs:
         run: |
           chordpro --version
 
-      - name: Make setlists and index pages.
+      - name: Make setlists.
         run: |
           chmod +x make-setlist.sh
+          ./make-setlist.sh
+
+      - name: Make index pages.
+        run: |
           chmod +x scripts/make-index.sh
           chmod +x scripts/make-index-interior.sh
-          ./make-setlist.sh
           ./scripts/make-index.sh
 
       - name: Publish to GitHub Pages
