@@ -1,12 +1,8 @@
 #!/bin/bash
 
 
-SETLIST="phish"
-# SETLIST="2025-07-04-acoustic-dead"
-# SETLIST="repertoire"
-# SETLIST="misc"
-# SETLIST="all"
-VERSIONNUM="2"
+SETLIST="2025-09-24-jam"
+VERSIONNUM="1"
 VERSIONSUFFIX="-V$VERSIONNUM"
 mkdir -p setlists/$SETLIST
 mkdir -p setlists/$SETLIST/songs
