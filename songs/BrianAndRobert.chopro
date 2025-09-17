@@ -1,0 +1,55 @@
+{t: Brian and Robert}
+{st:Phish}
+{key: B}
+{tempo: 90}
+{meta: vocals MV}
+
+
+{start_of_textblock label="" flush="right" anchor="line" x="100%"}
+Key: %{key}
+Tempo: %{tempo}
+Vocals: %{vocals}
+{end_of_textblock}
+
+
+{sov: V1}
+[B]If you're just [E]staring at your walls
+[B]Observing [E]echoing footfalls
+[B]From tenants [F#]wandering distant [E]halls
+Then this one is [B]for you. [E]
+{eov}
+
+{sov: V2}
+If children playing all around
+To you is noise not pleasant sound
+And you'd be lost on the playground
+This one is for you
+{eov}
+
+{sov: V3}
+All alone the life you lead
+A silent diner where you feed
+You bow your head pretend to read
+Then this one is for you
+{eov}
+
+{sov: V4}
+[Abm]Slip past [E]strangers in the street
+[B]There's no [E]one that you care to [Am]meet
+Longing [F#]for your TV [E]seat
+Then this one is [B]for you
+{eov}
+
+{sov: Outro}
+If you're just [E]staring at your walls [B]
+If you're just [E]staring at your walls [B] [F#] [E]
+Then this one is [B]for you
+If you're just [E]staring at your walls [B]
+If you're just [E]staring at your walls [B] [F#] [E]
+Then this one is [B] for you [E]
+{eov}
+
+{sov: Notes}
+6/27/10 (https://www.youtube.com/watch?v=T1MbPv9n3MI)
+Transposed down 1/2 step from C for sandwich with Sugaree
+{eov}
