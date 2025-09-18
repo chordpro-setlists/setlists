@@ -21,7 +21,7 @@ Vocals: %{vocals}
 {eov}
 
 {sot: Lead}
-MV Lead
+PJ Lead
 {eot}
 
 {sov: V2}
@@ -31,7 +31,7 @@ Just one thing...
 {eov}
 
 {sot: Lead}
-PJ Lead
+JM Lead
 {eot}
 
 {sov: V3}
@@ -40,9 +40,11 @@ One last voice is calling you and I guess it's time you go
 Just one thing...
 {eov}
 
-{sot: Lead}
-JM Lead
-{eot}
+{sov: Jam}
+{textcolor: red}
+MV leads into Brian and Robert, then back to Sugaree
+{textcolor}
+{eov}
 
 {sov: V4}
 Well shake it up now Sugaree, I'll meet you at the Jubilee
