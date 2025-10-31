@@ -1,3 +1,4 @@
+songs/BlazeOn.chopro
 songs/Bug.chopro
 songs/Bertha.chopro
 songs/WolfmansBrother.chopro
@@ -17,6 +18,7 @@ songs/CaseyJones.chopro
 songs/EyesOfTheWorld.chopro
 songs/Possum.chopro
 songs/Encore.chopro
+songs/LovingCup.chopro
 songs/OneMoreSaturdayNight.chopro
 
 
