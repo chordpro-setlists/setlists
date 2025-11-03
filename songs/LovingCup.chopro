@@ -13,7 +13,7 @@ Vocals: %{vocals}
 {end_of_textblock}
 
 {sot: Intro}
-Piano: | G C | G C |
+Piano: |: G C | G C :|
 {eot}
 
 {sov: V1}
@@ -43,14 +43,14 @@ What a beautiful [C]buzz, what a beautiful [G]buzz
 {eov}
 
 {sov: V3}
-[G]Yes, I am [C]nitty gritty and my shirt's all [G]torn
-But I would [C]love to spill the beans with you till [G]dawn
+Yes, I am nitty gritty and my shirt's all torn
+But I would love to spill the beans with you till dawn
 Give me little drink from your loving cup
 Just one drink and I'll fall down ...drunk
 {eov}
 
 {sov: B2}
-Gimme little drink x many
+[G]Gimme little drink (x many)
 {eov}
 
 {sot: Jam}
@@ -59,7 +59,9 @@ Jam in G.
 
 {sov: Outro}
 [D]Oh, what a beautiful [C]buzz, what a beautiful [G]buzz (x4)
-(Final time: D / F F C /)
+{textcolor: red}
+Final time: D / F F C /
+{textcolor}
 {eov}
 
 {sot: Notes}
