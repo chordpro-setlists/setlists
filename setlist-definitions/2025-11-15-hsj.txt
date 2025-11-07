@@ -8,13 +8,13 @@ songs/BrianAndRobert.chopro
 songs/ThrowingStones.chopro
 songs/EverythingsRight.chopro
 songs/SetBreak.chopro
-songs/ShakedownStreet.chopro
+songs/LovingCup.chopro
 songs/BrownEyedWomen.chopro
 songs/Sand.chopro
 songs/CaseyJones.chopro
 songs/Bug.chopro
 songs/HowSweetItIs.chopro
-songs/LovingCup.chopro
+songs/ShakedownStreet.chopro
 songs/EyesOfTheWorld.chopro
 songs/Possum.chopro
 songs/Encore.chopro
