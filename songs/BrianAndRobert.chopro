@@ -11,6 +11,10 @@ Tempo: %{tempo}
 Vocals: %{vocals}
 {end_of_textblock}
 
+{sov: Intro}
+Vamp over ||: B /// | E /// :||
+{eov}
+
 
 {sov: V1}
 [B]If you're just [E]staring at your walls
@@ -44,9 +48,11 @@ Then this one is [B]for you
 If you're just [E]staring at your walls [B]
 If you're just [E]staring at your walls [B] [F#] [E]
 Then this one is [B]for you
-If you're just [E]staring at your walls [B]
-If you're just [E]staring at your walls [B] [F#] [E]
-Then this one is [B] for you [E]
+{eov}
+
+{sov: Segue}
+Vamp over ||: B /// | E /// :||
+Into Sugaree Jam
 {eov}
 
 {sov: Notes}

@@ -12,9 +12,15 @@ Tempo: %{tempo}
 Vocals: %{vocals}
 {end_of_textblock}
 
+
 {sot: Intro}
-Piano: |: G C | G C :|
+Piano Only: |: G C | G C :|
+(Guitar enters at V1)
 {eot}
+
+{start_of_textblock label="" textcolor="red" height="12" anchor="paper" x="7" y="269"}
+Bass/Drums
+{end_of_textblock}
 
 {sov: V1}
 [D]I'm the man on the [C]mountain, come on [G]up
@@ -58,9 +64,9 @@ Jam in G.
 {eot}
 
 {sov: Outro}
-[D]Oh, what a beautiful [C]buzz, what a beautiful [G]buzz (x4)
+[D]Oh, what a beautiful [C]buzz, what a beautiful [G]buzz (x3)
 {textcolor: red}
-Final time: D / F F C /
+Final time: "Oh, what a beautiful... | F F C |"
 {textcolor}
 {eov}
 
