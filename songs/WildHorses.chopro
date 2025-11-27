@@ -11,8 +11,6 @@ Tempo: %{tempo}
 Vocals: %{vocals}
 {end_of_textblock}
 
-{transpose: 2}
-
 {sot: Intro}
 Bm D A G D A
 {eot}
