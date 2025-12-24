@@ -1,7 +1,7 @@
 #!/bin/bash
 
 
-SETLIST="2025-11-27-jam"
+SETLIST="2026-02-14-hsj"
 VERSIONNUM="1"
 VERSIONSUFFIX="-V$VERSIONNUM"
 mkdir -p setlists/$SETLIST

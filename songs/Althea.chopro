@@ -2,6 +2,14 @@
 {st:Grateful Dead}
 {key: B}
 {tempo: 83}
+{meta: vocals MV}
+{meta: timing 05min}
+
+{start_of_textblock label="" flush="right" anchor="line" x="100%"}
+Key: %{key}
+Tempo: %{tempo}
+Vocals: %{vocals}
+{end_of_textblock}
 
 {sov: V1}
 [Bm]I told Al[A]thea I was [E]feeling [A]lost, [Bm]lacking in [A]some di[E]rection.
