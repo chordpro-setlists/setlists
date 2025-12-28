@@ -6,8 +6,8 @@ songs/ApocalypseBabe.chopro
 songs/HowSweetItIs.chopro
 songs/TheyLoveEachOther.chopro
 songs/HardToHandle.chopro
-songs/NotFadeAway.chopro
-songs/GDTRFB.chopro
+songs/ChinaCatSunflower.chopro
+songs/IKnowYouRider.chopro
 songs/SetBreak.chopro
 songs/LonesomeAndALongWayFromHome.chopro
 songs/BigRiver.chopro
