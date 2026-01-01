@@ -9,7 +9,7 @@ songs/HardToHandle.chopro
 songs/ChinaCatSunflower.chopro
 songs/IKnowYouRider.chopro
 songs/SetBreak.chopro
-songs/LonesomeAndALongWayFromHome.chopro
+songs/Shelter.chopro
 songs/BigRiver.chopro
 songs/ScarletBegonias.chopro
 songs/FireOnTheMountain.chopro
