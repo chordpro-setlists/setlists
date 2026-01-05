@@ -2,7 +2,7 @@
 
 
 SETLIST="2026-02-14-hsj"
-VERSIONNUM="3"
+VERSIONNUM="4"
 VERSIONSUFFIX="-V$VERSIONNUM"
 mkdir -p setlists/$SETLIST
 mkdir -p setlists/$SETLIST/songs

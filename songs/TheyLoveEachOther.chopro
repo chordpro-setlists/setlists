@@ -1,7 +1,7 @@
 {t:They Love Each Other}
 {st:Grateful Dead}
 {key: G}
-{tempo: 100}
+{tempo: 120}
 {meta: vocals PJ}
 {meta: timing 05min}
 
@@ -10,10 +10,6 @@ Key: %{key}
 Tempo: %{tempo}
 Vocals: %{vocals}
 {end_of_textblock}
-
-{sot: Intro}
-Dedicated to the newlyweds Kevin and Carolyn
-{eot}
 
 {sov: V1}
 [G]Mary run around, sailin' up and down,
