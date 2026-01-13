@@ -21,7 +21,7 @@ Vocals: %{vocals}
 {eov}
 
 {sot: Lead}
-PJ Lead
+MV Lead
 {eot}
 
 {sov: V2}
@@ -31,7 +31,7 @@ Just one thing...
 {eov}
 
 {sot: Lead}
-JM Lead
+PJ Lead
 {eot}
 
 {sov: V3}
@@ -40,14 +40,9 @@ One last voice is calling you and I guess it's time you go
 Just one thing...
 {eov}
 
-{sov: B&R}
-{textcolor: red}
-> Vamp over ||: B /// | E /// :||
-> Brian and Robert Lyrics
-> Vamp over ||: B /// | E /// :||
-> Sugaree Jam (MV)
-{textcolor}
-{eov}
+{sot: Lead}
+JM Lead
+{eot}
 
 {sov: V4}
 Well shake it up now Sugaree, I'll meet you at the Jubilee
