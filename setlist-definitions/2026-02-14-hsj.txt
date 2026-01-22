@@ -20,7 +20,7 @@ songs/ToreUpOverYou.chopro
 songs/ThrowingStones.chopro
 songs/SugarMagnolia.chopro
 songs/Encore.chopro
-songs/NotFadeAway.chopro
 songs/EverythingsRight.chopro
+songs/NotFadeAway.chopro
 
 
