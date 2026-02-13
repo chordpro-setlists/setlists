@@ -1,0 +1,94 @@
+{t:Sugar Magnolia}
+{st:Grateful Dead}
+{key: A}
+{tempo: 140}
+{textsize: 11}
+{meta: vocals JM}
+
+{start_of_textblock label="" flush="right" anchor="line" x="100%"}
+Key: %{key}
+Tempo: %{tempo}
+Vocals: %{vocals}
+{end_of_textblock}
+
+{sot: V1}
+| A///   | //DA   | //G/  | E/A/ |
+| A//C#m | //F#m/ | E//D  | //A/ | ///E | //A/ |
+{eot}
+
+{sov}
+Sugar magnolia, blossoms blooming, head's all empty and I don't care,
+Saw my baby down by the river, knew she'd have to come up soon for air.
+{eov}
+
+{sov: V2}
+Sweet blossom come on, under the willow, we can have high times if you'll abide
+We can discover the wonders of nature, rolling in the rushes down by the riverside
+{eov}
+
+{sot: Chorus}
+| D//G | //D/ | ///A | //D/ |
+| ///G | //D/ | D/// | E/A/ | A //E | //A/ |
+{eot}
+
+{sov}
+She's got everything delightful, she's got everything I need,
+Takes the wheel when I'm seeing double, pays my ticket when I speed
+{eov}
+
+{sot: Lead}
+Through verse chords
+{eot}
+
+{sov: V3}
+She comes skimmin' through rays of violet, she can wade in a drop of dew,
+She don't come and I don't follow, waits backstage while I sing to you.
+{eov}
+
+{sov: V4}
+Well, she can dance a Cajun rhythm, jump like a willys in four wheel drive
+She's a summer love in the spring, fall and winter, she can make happy any man alive
+{eov}
+
+{sot: Break}
+| A/GD | //A/ | //GD | //A/ | //GD |
+| //A/ | //EG | //D/ | D/   | D/// | A//E | ///A |
+{eot}
+
+{sov}
+Sugar magnolia, ringing that bluebell, caught up in sunlight,
+Come on out singing, I'll walk you in the sunshine,
+Come on honey, come along with me.
+{eov}
+
+{sov: Chorus}
+She's got everything delightful, she's got everything I need,
+A breeze in the pines and the sun and bright moonlight,
+Lazing in the sunshine yes indeed.
+{eov}
+
+{sot: Last\nVocal}
+| A/// | %  | %  | %    | B/// | % | % |
+| A/   | ED | A/ | B AE | /B   |
+{eot}
+
+{sov}
+Sometimes when the cuckoo's crying, when the moon is half way down,
+Sometimes when the night is dying, I take me out and
+I wander around, I wander round
+{eov}
+
+{sot: Jam}
+| B/// | B/E/ | B/// | F#/E/ |
+{eot}
+
+{sov: Sunshine\nDaydream}
+Sunshine daydream, walking through the tall trees.
+Going where the wind goes, blooming like a red rose.
+Breathing more freely. Light out singing,
+I'll walk you in the morning sunshine, sunshine, daydream.
+{eov}
+
+{sot: Notes}
+Montage (https://www.youtube.com/watch?v=-_UCpLbx7yU)
+{eot}
