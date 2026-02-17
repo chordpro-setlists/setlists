@@ -15,12 +15,12 @@ jobs:
       - name: Set up Perl
         uses: shogo82148/actions-setup-perl@v1
         with:
-          perl-version: '5.38'
+          perl-version: '5.38.2'
           install-modules-with: cpanm
           install-modules: |
             XS::Parse::Sublike::Builder
             Object::Pad@0.818
-            chordpro@6.070
+            chordpro@6.050.7
 
       - name: Check that ChordPro and ExifTool are installed
         run: |
