@@ -1,20 +1,21 @@
 songs/AlabamaGetaway.chopro
+songs/BigRiver.chopro
 songs/BrownEyedWomen.chopro
+songs/CaseyJones.chopro
+songs/Cassidy.chopro
 songs/ColdRainAndSnow.chopro
+songs/CrazyFingers.chopro
 songs/Deal.chopro
 songs/DeepElemBlues.chopro
+songs/Evangeline.chopro
 songs/FranklinsTower.chopro
 songs/GDTRFB.chopro
+songs/GoodLovin.chopro
+songs/JackStraw.chopro
 songs/MidnightMoonlight.chopro
 songs/MysteryTrain.chopro
 songs/ShakedownStreet.chopro
 songs/WestLAFadeaway.chopro
 songs/WomenAreSmarter.chopro
-songs/BigRiver.chopro
-songs/Cassidy.chopro
-songs/JackStraw.chopro
-songs/CaseyJones.chopro
-songs/CrazyFingers.chopro
-songs/Evangeline.chopro
 
 
