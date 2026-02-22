@@ -1,0 +1,45 @@
+{t: A Life Beyond The Dream}
+{st: Trey Anastasio}
+{key: D}
+{tempo: 100}
+{meta: vocals }
+{meta: timing 10min}
+{define "D/F#"}
+
+{start_of_textblock label="" flush="right" anchor="line" x="100%"}
+Key: %{key}
+Tempo: %{tempo}
+Vocals: %{vocals}
+{end_of_textblock}
+
+{sov: V1}
+[D]When we were [G]talking, I didn't need to [D]hide
+Black stallions [A]through the night on a perfect [D]ride
+I watched you [G]open wide  you looked into [D]me
+I had to [A]turn away, I didn't wanna [G]leave[D/F#][F][E]
+{eov}
+
+{sov: Chorus}
+[E]Now I'm letting it all roll [B]by
+[A]I can see, I can see, a life beyond the [E]dream
+[E]I'm watching it all roll [B]by
+[A]I can see, I can see, a life beyond the [E]dream
+[G]Don't give up hope, [D]don't give up hope
+[A]Keep dreaming, [E]keep on dreaming
+[G]Don't give up hope, [D]don't give up hope [E] [D]
+{eov}
+
+{sov: V2}
+We share these moments till they melt away
+Two foggy memories of a distant day
+A curtain is blowing in an open door
+Two souls can breath as one, I wanted more
+{eov}
+
+{sov: Chorus}
+Repeat
+{eov}
+
+{sot: Solo}
+G D A E   G D E (with “ahhhh’s”), B A E
+{eot}

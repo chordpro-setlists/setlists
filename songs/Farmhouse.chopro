@@ -1,0 +1,52 @@
+{t: Farmhouse}
+{st: Phish}
+{key: C}
+{tempo: 100}
+{meta: vocals }
+{meta: timing 10min}
+{define "C/E"}
+{define "G/B"}
+
+{start_of_textblock label="" flush="right" anchor="line" x="100%"}
+Key: %{key}
+Tempo: %{tempo}
+Vocals: %{vocals}
+{end_of_textblock}
+
+{sov: V1}
+[C]Welcome [G]this is a [Am]farmhouse we have [F]cluster flies a[C]las
+And [G]this time of [C]year is [G]bad
+[C]We are [G]so very [Am]sorry, but there's [F]little we can [C]do
+But [G]swat them [C] [G]
+{eov}
+
+{sov: V2}
+[Am]She didn't beg oh, [G/B]not enough
+[C]She didn't stay when [F]things got tough
+[C]I told a lie and [G]she got mad
+[Am]She wasn't there when [G/B]things got [C]bad
+{eov}
+
+{sov: Chorus}
+[C]I never ever saw the [G]northern lights
+[Am]I never really heard of [F]cluster flies
+[C]Never ever saw the [G]stars so bright
+[Am]In the farmhouse things will [F]be alright [C]
+{eov}
+
+{sot}
+Repeat chorus
+Solo: C  G  Am  F  (x4)
+{eot}
+
+{sov: V3}
+[Am]Woke this morning to the [G/B]stinging lash
+[C]Every man rise [F]from the ash
+[C/E]Each betrayal be[G]gins with trust
+[Am]Every man re[G]turns to [C]dust
+{eov}
+
+{sov: Outro}
+Welcome this is a Farmhouse
+Welcome this is a Farmhouse
+{eov}

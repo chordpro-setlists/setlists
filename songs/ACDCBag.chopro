@@ -1,0 +1,74 @@
+{t: AC/DC Bag}
+{st: Phish}
+{key: A}
+{tempo: 100}
+{meta: vocals }
+{meta: timing 10min}
+
+{start_of_textblock label="" flush="right" anchor="line" x="100%"}
+Key: %{key}
+Tempo: %{tempo}
+Vocals: %{vocals}
+{end_of_textblock}
+
+{sot: Form}
+Intro/Chorus: |: A  C  D  C  F  A  G :|
+Verse:        |: C  Bb  F  C  Bb-B-C :|
+{eot}
+
+{sov: V1}
+Mr. Palmer is concerned with the thousand-dollar question
+Just like Roger he's a crazy little kid
+I've got the time if you've got the inclination
+So cheer up Palmer, you'll soon be dead
+{eov}
+
+{sov: V2}
+The noose is hanging, at least you won't die wondering
+Sit up and take notice Tell it like it is
+If I were near you I wouldn't be far from you
+I've got a feeling you know what you did
+{eov}
+
+{sov: Chorus}
+AC/DC Bag, AC/DC Bag, AC/DC Bag, DC Bag
+AC/DC Bag, AC/DC Bag, AC/DC Bag, DC Bag
+{eov}
+
+{sov: V3}
+Time to put your money where your mouth is
+Put 'em in a field and let 'em fight it out
+I'm running so fast my feet don't touch the ground
+I'm a stranger here I'm going down
+{eov}
+
+{sov: V4}
+Let's get down to the nitty gritty
+Let's get this show on the road
+I'll show you mine if you show me yours
+I'm breathing hard - open the door
+{eov}
+
+{sov: Chorus}
+Repeat
+{eov}
+
+{sov: Bridge}
+[C]Brain dead, and [Bb]made of money, [F]no future at all [Bb][B][C]
+Pull down the blinds and run for cover, no future at all
+Who would've thought it, that's where I am, no future at all
+Don't sweat it, that's where I am, Whoa, carry me down...
+{eov}
+
+{sot: Riff}
+E----------------------------------------------------
+B----7----5------------------------------------------
+G---------------7---5--------------------------------
+D------------------------8--6--4---------------------
+A-----------------------------------7--5-------------
+E------------------------------------------8--6--4---
+{eot}
+
+{sot: Outro}
+Jam out
+{eot}
