@@ -5,6 +5,7 @@ songs/BackOnTheTrain.chopro
 songs/BackwardsDownTheNumberline.chopro
 songs/BlazeOn.chopro
 songs/BouncingRoundTheRoom.chopro
+songs/BrianAndRobert.chopro
 songs/Bug.chopro
 songs/CaymanReview.chopro
 songs/Dirt.chopro
@@ -24,8 +25,10 @@ songs/Possum.chopro
 songs/RubyWaves.chopro
 songs/Sand.chopro
 songs/SayItToMeSantos.chopro
+songs/SetYourSoulFree.chopro
+songs/SoulPlanet.chopro
 songs/SquirmingCoil.chopro
 songs/TweezerReprise.chopro
 songs/Waste.chopro
-songs/WolfmansBrother.chopro
 songs/Wingsuit.chopro
+songs/WolfmansBrother.chopro
