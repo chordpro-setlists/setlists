@@ -1,0 +1,48 @@
+{t: Strange Design}
+{st: Phish}
+{key: G}
+{tempo: 80}
+{meta: vocals }
+{meta: timing 10min}
+
+{start_of_textblock label="" flush="right" anchor="line" x="100%"}
+Key: %{key}
+Tempo: %{tempo}
+Vocals: %{vocals}
+{end_of_textblock}
+
+{sov: V1}
+[B]I [Em]needed [C] [D]
+less restraint be[G]fore [D]
+[B]I'm [Em]needing [C] [D]
+to hit the lights and close the [G]door
+I'm [D]fine, I'm [Em]fine, 'cause [C] [D]I'm ...
+{eov}
+
+{sov: Chorus}
+[G]Tripping in this [Am]strange design
+[Bm]none is yours and [C]far less mine
+[G]Hold the wheel, [Am]read the sign
+[Bm]keep the tires [C]off the line
+[G]Just relax you're [Am]doing fine
+[Bm]swimming in this [C]real thing
+I call [Am]life, but can I [A]bring
+a few com[C]panions [D]on this [G]ride?
+{eov}
+
+{sov: V2}
+I'm feeling
+my heart's not beating anymore
+I'm feeling
+it's all right this happened once before
+I'm fine, I'm fine, 'cause I'm...
+{eov}
+
+{sov: Chorus}
+<i> </i>
+{eov}
+
+{sov: Chorus}
+<i> </i>
+{eov}
+

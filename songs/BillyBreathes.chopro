@@ -1,0 +1,76 @@
+{t: Billy Breathes}
+{st: Phish}
+{key: D}
+{tempo: 80}
+{meta: vocals }
+{meta: timing 10min}
+{define "C/Bb"}
+{define "C/A"}
+{define "C/G"}
+{define "D5"}
+
+{start_of_textblock label="" flush="right" anchor="line" x="100%"}
+Key: %{key}
+Tempo: %{tempo}
+Vocals: %{vocals}
+{end_of_textblock}
+
+{sov: V1}
+[D]Tumbling greens and [Am]pick up screams [F]alone above the [G]square,
+[Bb]Whoa[C], sing [Bb]softly[F]
+[D]Above the trees where [Am]Billy breathes we [F]float upon the [G]air,
+[Bb]Whoa,[C] [Eb]whoa [Bb](whoa)
+{eov}
+
+{sov: Chorus}
+[F]Softly [Dm7]sing sweet [C]songs,[Bb] [F]softly [Dm7]sing sweet [Eb]songs,[Bb]
+[F]Softly [Dm7]sing sweet [C]songs, [C/Bb]  [C/A]  [C/G]     [Bb]ooooh[Am] [D5]
+{eov}
+
+{sov: V2}
+Silent scenes, emotion beams, I'll wake you when we're there,
+Whoa, sing softly
+Time it seems in broken dreams to sleep beside the stair,
+Whoa, whoa (whoa)
+{eov}
+
+{sov: Chorus}
+<i> </i>
+{eov}
+
+{sot: Bridge}
+Eb  Bb
+F   Cm  Ab  Bb  Db  Eb  Gb  Db
+Ab  Cm  Ab  Bb  Db  Eb
+{eot}
+
+{sov: Chorus}
+<i> </i>
+{eov}
+
+
+{sot: Break}
+D Am/D F/D G Bb C (x4)
+{eot}
+
+{sot: Solo}
+Eb  Bb
+F   Cm  Ab  Bb  Db  Eb  Gb  Db
+Ab  Cm  Ab  Bb  Db  Eb  Gb  Ab
+Bb  Fm  Db  Eb  Gb  Ab  B   B
+Db  Fm  Db  Eb  Gb  Ab  B   Db
+Eb Eb/Db Eb/C Eb/Bb (2x)
+Db  Cm  F
+{eot}
+
+{sot: Note}
+For the choruses, the C chord with descending bass line:
+
+   C C/Bb C/A C/G
+E|----------------|
+B|-5--5----5---5--|
+G|-5--5----5---5--|
+D|-5--5----5---5--|
+A|-3--------------|
+E|----6----5---3--|
+{eot}

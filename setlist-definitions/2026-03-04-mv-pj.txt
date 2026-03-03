@@ -1,0 +1,16 @@
+songs/MountainsInTheMist.chopro
+songs/StrangeDesign.chopro
+songs/Sugaree.chopro
+songs/WolfmansBrother.chopro
+songs/Bug.chopro
+songs/SetBreak.chopro
+songs/Dirt.chopro
+songs/IfICould.chopro
+songs/FriendOfTheDevil.chopro
+songs/BillyBreathes.chopro
+songs/Free.chopro
+songs/Encore.chopro
+songs/Waste.chopro
+songs/BrokedownPalace.chopro
+
+

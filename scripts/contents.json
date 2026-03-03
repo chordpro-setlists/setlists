@@ -4,7 +4,7 @@
       "fields": [
         "songindex"
       ],
-      "label": "phish (v 3)",
+      "label": "2026-03-04-mv-pj (v 1)",
       "line": "%{songindex} <span>   </span> %{title}",
       "pageno": "%{vocals}<span>  </span>%{key}",
       "fold": false,

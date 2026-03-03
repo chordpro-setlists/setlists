@@ -2,7 +2,7 @@
 {st: Phish}
 {key: D}
 {tempo: 130}
-{meta: vocals BP}
+{meta: vocals }
 
 {start_of_textblock label="" flush="right" anchor="line" x="100%"}
 Key: %{key}
@@ -31,14 +31,6 @@ Em C
 Kneel down and kiss the earth and show me what this thought is worth
 I'll never hear your voice again
 {eov}
-
-{sot: <span>Instrumental    </span>}
-1. PJ solo + crosspick ->
-2. KH solo ->
-3. BP changes -> Hang in D
-4. KR solo (noodle in D)
-5. Transition to Tweeprise: BP octave changes
-{eot}
 
 {sot: Notes}
 Magnaball (9/15)  (https://www.youtube.com/watch?v=PfkD4HOhtPY)
