@@ -4,6 +4,12 @@
 {tempo: 80}
 {meta: vocals PJ}
 
+{start_of_textblock label="" flush="right" anchor="line" x="100%"}
+Key: %{key}
+Tempo: %{tempo}
+Vocals: %{vocals}
+{end_of_textblock}
+
 {sov: v1}
 [E]I have seen where the wolf has slept by the silver [A]stream,
 [E]I can tell by the mark he left you were in his [A]dream

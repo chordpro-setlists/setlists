@@ -10,6 +10,7 @@ Key: %{key}
 Tempo: %{tempo}
 Vocals: %{vocals}
 {end_of_textblock}
+
 {sot: Form}
 Intro: Dm
 Verse: | G /// | F C9 | Dm ///|
@@ -43,8 +44,13 @@ Maybe you had too much too fast (x3)
 Or just over played your part.
 {eov}
 
-{c: Chorus }
-{c: Short lead }
+{sov: Chorus}
+<i> </i>
+{eov}
+
+{sot: Lead}
+PJ (Short over verse chords)
+{eot}
 
 {sov: V3}
 Since I'm passing your way today
@@ -55,10 +61,15 @@ Don't tell me this town ain't got no heart (x3)
 When I can hear it beat out loud!
 {eov}
 
-{c: Chorus}
-{c: Vocal jam "Don't tell me this town.." }
-{c: Long jam in C7}
-{c: Vocal jam -> Dm Riff to end }
+{sov: Chorus}
+<i> </i>
+{eov}
+
+{sot: Jam/Outro}
+Vocal jam "Don't tell me this town.."
+Long jam in C7
+Vocal jam -> Dm Riff to end
+{eot}
 
 {sov: Notes}
 7/26/87 (https://www.youtube.com/watch?v=7IgyGOUk2jw)
