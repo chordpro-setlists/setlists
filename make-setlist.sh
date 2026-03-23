@@ -2,7 +2,7 @@
 
 
 SETLIST="2026-03-27-hsj"
-VERSIONNUM="6"
+VERSIONNUM="7"
 VERSIONSUFFIX="-V$VERSIONNUM"
 mkdir -p setlists/$SETLIST
 mkdir -p setlists/$SETLIST/songs
@@ -26,7 +26,7 @@ rm -f scripts/config.json-e
 echo "Generating setlist for $SETLIST..."
 chordpro --config=scripts/config.json --config=scripts/contents.json -filelist setlist-definitions/$SETLIST.txt -o setlists/$SETLIST/setlist-$SETLIST${VERSIONSUFFIX}.pdf
 
-# chordpro -l --config=scripts/config.json --config=scripts/contents.json -filelist setlist-definitions/$SETLIST.txt -o setlists/$SETLIST/setlist-$SETLIST${VERSIONSUFFIX}.nochords.pdf
+chordpro -l --config=scripts/config.json --config=scripts/contents.json -filelist setlist-definitions/$SETLIST.txt -o setlists/$SETLIST/setlist-$SETLIST${VERSIONSUFFIX}.nochords.pdf
 
 ## Create individual songs (with and without lyrics)
 #echo "Generating individual songs..."
