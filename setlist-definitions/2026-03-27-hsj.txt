@@ -9,9 +9,9 @@ songs/Cassidy.chopro
 songs/CaseyJones.chopro
 songs/SetBreak.chopro
 songs/JackStraw.chopro
-songs/Deal.chopro
 songs/AlabamaGetaway.chopro
 songs/MidnightMoonlight.chopro
+songs/Deal.chopro
 songs/CrazyFingers.chopro
 songs/WomenAreSmarter.chopro
 songs/GoodLovin.chopro
