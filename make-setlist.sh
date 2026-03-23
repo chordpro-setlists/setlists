@@ -2,14 +2,14 @@
 
 
 SETLIST="2026-03-27-hsj"
-VERSIONNUM="8"
+VERSIONNUM="9"
 VERSIONSUFFIX="-V$VERSIONNUM"
 mkdir -p setlists/$SETLIST
 mkdir -p setlists/$SETLIST/songs
 
 ## Set up the table of contents
 cp -f scripts/contents-template.json scripts/contents.json
-sed -i -e "s/@TITLE@/$SETLIST/g" scripts/contents.json
+sed -i -e "s/@TITLE@/Charts for $SETLIST/g" scripts/contents.json
 if  ! [[ -z "${VERSIONNUM}" ]]; then
   sed -i -e "s/@VERSION@/(v $VERSIONNUM)/g" scripts/contents.json
 fi
