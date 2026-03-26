@@ -3,13 +3,14 @@ songs/BigRiver.chopro
 songs/DeepElemBlues.chopro
 songs/WestLAFadeaway.chopro
 songs/Evangeline.chopro
-songs/MysteryTrain.chopro
+songs/DearMrFantasy.chopro
 songs/BrownEyedWomen.chopro
 songs/Cassidy.chopro
 songs/CaseyJones.chopro
 songs/SetBreak.chopro
 songs/JackStraw.chopro
 songs/AlabamaGetaway.chopro
+songs/AfterMidnight.chopro
 songs/MidnightMoonlight.chopro
 songs/Deal.chopro
 songs/CrazyFingers.chopro
