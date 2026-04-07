@@ -1,0 +1,65 @@
+{t: Arcadia}
+{st: Goose}
+{key: C#}
+{tempo: 100}
+{meta: vocals }
+{meta: timing 10min}
+
+{start_of_textblock label="" flush="right" anchor="line" x="100%"}
+Key: %{key}
+Tempo: %{tempo}
+Vocals: %{vocals}
+{end_of_textblock}
+
+{sov: Prechorus}
+[C#7]I stumble every time you do it, ain’t never gonna get used to it
+Hanging on a garden rose, untamed, the way that my love grows.
+Oh lord I didn’t see it coming, arcadia’s got me running
+Just trying not to lose my breath, cause hell I’m gonna take that step
+And though my [G#m]pride has gone [F#m]way down the [E]line [F#m] I’m just [C#7]fine
+{eov}
+
+
+{sov: V1}
+[C#7]If my luck is all that I have [A#m]today [G#]
+Well it’s no [F#]wonder that you found me buried underneath my [A]weight [B]
+Well, [C#7]wood stilts and little red pills may be [A]all that hold me up [F#]
+But you pulled the blinds [E] in this room of mine [A]
+Just a little bit brighter since [B]you came
+{eov}
+
+{sov: Chorus}
+[C#7]I stumble every time you do it, ain’t never gonna get used to it
+Hanging on a garden rose, untamed, the way that my love grows
+Oh lord I didn’t see it coming, arcadia’s got me running
+Just trying not to lose my breath, cause hell I’m gonna take that step
+[G#m]Seep up [F#]all the [E]light [G#m]from the [F#]bottom of the [C#]spine
+[G#m]Don’t fret, [F#]don’t hang your [E]head cause I’m just [C#7]fine
+{eov}
+
+
+{sov: V2}
+One day, all that I have to give
+Well it will be sitting on your doorstep waiting just to come on in
+Well, cold rooms and burning flumes they have left me
+Just a little bit lesser than I am
+Than I am, than I am going to be
+{eov}
+
+
+{sov: Chorus}
+<i> </i>
+{eov}
+
+{sot: Riff}
+E---9-------------------9-9-
+A------7h9s11---11s9p7------
+D------------9--------------
+G---------------------------
+B---------------------------
+E---------------------------
+{eot}
+
+{sov: Notes}
+3/19/19 (https://www.youtube.com/watch?v=zq0b6UhWsdc)
+{eov}
