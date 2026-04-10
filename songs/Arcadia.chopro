@@ -1,7 +1,7 @@
 {t: Arcadia}
 {st: Goose}
-{key: C#}
-{tempo: 100}
+{key: C}
+{tempo: 90}
 {meta: vocals }
 {meta: timing 10min}
 
@@ -12,29 +12,29 @@ Vocals: %{vocals}
 {end_of_textblock}
 
 {sov: Prechorus}
-[C#7]I stumble every time you do it, ain’t never gonna get used to it
+[C9]I stumble every time you do it, ain’t never gonna get used to it
 Hanging on a garden rose, untamed, the way that my love grows.
 Oh lord I didn’t see it coming, arcadia’s got me running
 Just trying not to lose my breath, cause hell I’m gonna take that step
-And though my [G#m]pride has gone [F#m]way down the [E]line [F#m] I’m just [C#7]fine
+And though my [Gm]pride has gone [F]way down the [Eb]line [F] I’m just [C9]fine
 {eov}
 
 
 {sov: V1}
-[C#7]If my luck is all that I have [A#m]today [G#]
-Well it’s no [F#]wonder that you found me buried underneath my [A]weight [B]
-Well, [C#7]wood stilts and little red pills may be [A]all that hold me up [F#]
-But you pulled the blinds [E] in this room of mine [A]
-Just a little bit brighter since [B]you came
+[C9]If my luck is all that I have [Am]today [G]
+Well it’s no [F]wonder that you found me buried underneath my [Ab]weight [Bb]
+Well, [C9]wood stilts and little red pills may be [Ab]all that hold me up [F]
+But you pulled the blinds [Eb] in this room of mine [Ab]
+Just a little bit brighter since [Bb]you came
 {eov}
 
 {sov: Chorus}
-[C#7]I stumble every time you do it, ain’t never gonna get used to it
+[C9]I stumble every time you do it, ain’t never gonna get used to it
 Hanging on a garden rose, untamed, the way that my love grows
 Oh lord I didn’t see it coming, arcadia’s got me running
 Just trying not to lose my breath, cause hell I’m gonna take that step
-[G#m]Seep up [F#]all the [E]light [G#m]from the [F#]bottom of the [C#]spine
-[G#m]Don’t fret, [F#]don’t hang your [E]head cause I’m just [C#7]fine
+[Gm]Seep up [F]all the [Eb]light [Gm]from the [F]bottom of the [C]spine
+[Gm]Don’t fret, [F]don’t hang your [Eb]head cause [F]I’m just [C9]fine
 {eov}
 
 
@@ -51,13 +51,9 @@ Than I am, than I am going to be
 <i> </i>
 {eov}
 
-{sot: Riff}
-E---9-------------------9-9-
-A------7h9s11---11s9p7------
-D------------9--------------
-G---------------------------
-B---------------------------
-E---------------------------
+{sot: Jam}
+|: C9 /// :|
+|:  C9 /// | Ab /// | F /// | Eb /// | Ab ///  | Bb /// :|
 {eot}
 
 {sov: Notes}

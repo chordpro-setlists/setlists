@@ -1,0 +1,35 @@
+{t:Attics Of My Life}
+{st:Grateful Dead}
+{key: A}
+{tempo: 90}
+{meta: vocals }
+{meta: timing 10min}
+{define "D7sus4"}
+
+{start_of_textblock label="" flush="right" anchor="line" x="100%"}
+Key: %{key}
+Tempo: %{tempo}
+Vocals: %{vocals}
+{end_of_textblock}
+
+
+[G]In the [D]attics of my life, [G]full of [D]clou[A]dy [G]dreams [D]unreal.
+[G]Full of [D]tastes no tongue can know, [G]and [D]lights no[A] [G]eye can [D]see.
+[D]When [F#]there [G]was no [D]ear[Em] to [D]hea[G]r, you sang to [D]me.
+
+[D]I have spent my life [G]seeking [D]all[A] that's [G]still unsung.[D]
+[G]Bent my [D]ear to hear the tune, [G]and [D]closed [A]my [G]eyes to [D]see.
+[D]When [F#]there [G]were no [D]strings [Em]to [D]play[G], you played to [Em]me. [E]
+
+[A]In the book [G]of love's own [C]dream[G] [D]where all the [D7sus4]print is [G]blood.
+[G]Where all the pages are my [C]days, [A]and all my lights grow [D]old.
+[G]When I had no wings to [C]fly,[G] [D]you flew to [C]me, [A]you flew to [G]me[D], to [C]me [G] [D]
+
+In the secret space of dreams, where I dreaming lay amazed.   
+When the secrets all are told, and the petals all unfold.   
+When there was no dream of mine, you dreamed of me.
+
+{sov: Notes}
+Dropped D, capoed.
+3/5/11 (https://www.youtube.com/watch?v=KXkMPZiyBvQ)
+{eov}

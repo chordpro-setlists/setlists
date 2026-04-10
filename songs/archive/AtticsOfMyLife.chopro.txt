@@ -1,7 +1,6 @@
 {t:Attics Of My Life}
 {st:Grateful Dead}
 
-{c: Better in D or in E?}
 
 [D]In the attics of my life, [G]full of [D]clou[A]dy [G]dreams [D]unreal. 
 [D]Full of tastes no tongue can know, [G]and [D]lights no [A]eye can [D]see.   
