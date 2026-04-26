@@ -2,7 +2,7 @@ songs/JackStraw.chopro
 songs/Shamalama.chopro
 songs/BoogieOnReggaeWoman.chopro
 songs/BackOnTheTrain.chopro
-songs/AllAlongTheWatchTower.chopro
+songs/AllAlongTheWatchtower.chopro
 songs/ToreUpOverYou.chopro
 songs/Deal.chopro
 songs/BlazeOn.chopro
