@@ -1,7 +1,7 @@
 #!/bin/bash
 
 
-SETLIST="song-test"
+SETLIST="2026-05-22-hsj"
 VERSIONNUM="1"
 VERSIONSUFFIX="-V$VERSIONNUM"
 mkdir -p setlists/$SETLIST
