@@ -1,11 +1,11 @@
 songs/BlazeOn.chopro
 songs/AllAlongTheWatchtower.chopro
 songs/JackStraw.chopro
-songs/MusicNeverStopped.chopro
+songs/LonesomeAndALongWayFromHome.chopro
 songs/Althea.chopro
 songs/BackOnTheTrain.chopro
 songs/ToreUpOverYou.chopro
-songs/Deal.chopro
+songs/MusicNeverStopped.chopro
 songs/ChinaCatSunflower.chopro
 songs/IKnowYouRider.chopro
 songs/Encore.chopro
