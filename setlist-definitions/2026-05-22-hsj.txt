@@ -4,10 +4,12 @@ songs/JackStraw.chopro
 songs/LonesomeAndALongWayFromHome.chopro
 songs/Althea.chopro
 songs/BackOnTheTrain.chopro
-songs/ToreUpOverYou.chopro
 songs/MusicNeverStopped.chopro
+songs/ToreUpOverYou.chopro
+songs/ApocalypseBabe.chopro
 songs/ChinaCatSunflower.chopro
 songs/IKnowYouRider.chopro
 songs/Encore.chopro
 songs/CaseyJones.chopro
 songs/NotFadeAway.chopro
+songs/GDTRFB.chopro

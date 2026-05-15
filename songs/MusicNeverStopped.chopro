@@ -7,6 +7,9 @@
 {define "Bm7-5"}
 {define "Dm/F"}
 {define "A/C#"}
+{define "D (6/8)"}
+{define "E (6/8)"}
+{define "A (4/4)"}
 
 
 {start_of_textblock label="" flush="right" anchor="line" x="100%"}
@@ -35,7 +38,7 @@ Everybody [A6]dancin' [Bm7-5]   [A/C#]  [D#o7]  [Dm/F]  [A/C#]  [D7]  [E]
 {sov: V2}
 [A]Sun went down in honey[D] [F] [G] and the [A]moon came up in wine, [D] [F] [G]
 You know the [A]stars were spinnin' dizzy Lord the [D]band kept us so [F]busy.
-[G]We for[D]got a[E]bout the [A]time. [E] [F#] [B]
+[G]We for[<span color="red">D (6/8)</span>]got [<span color="red">E (6/8)</span>]about the [<span color="red">A (4/4)</span>]time.
 {eov}
 
 {sov: V3}
@@ -57,13 +60,12 @@ C'mon children, C'mon children, C'mon clap your hands
 {sov: V4}
 Well the cool breeze came on Tuesday, and the corn's a bumper crop
 And the fields are full of dancin' full of singin' and romancin', 
-The music never stopped.
+The [<span color="red">D (6/8)</span>]music [<span color="red">E (6/8)</span>]never [<span color="red">A (4/4)</span>]stopped. [E] [F#] [B]
 {eov}
 
 {sot: Outro}
-E F#
-|: B A | B A :| x8, 6/8 time
-|: E E7 A C :|, JM cues final ending, end on C#
+6/8: |: B /// | A /// :| (Steve will cue exit)
+4/4: |: E / E7 / | A / C / :|
 {eot}
 
 
