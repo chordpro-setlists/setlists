@@ -1,0 +1,16 @@
+songs/Arcadia.chopro
+songs/Bertha.chopro
+songs/BigRiver.chopro
+songs/DownByTheRiver.chopro
+songs/EverythingsRight.chopro
+songs/EyesOfTheWorld.chopro
+songs/GoodLovin.chopro
+songs/LovingCup.chopro
+songs/NoRaindrops.chopro
+songs/PlayinInTheBand.chopro
+songs/SamsonAndDelilah.chopro
+songs/Sand.chopro
+songs/ScarletBegonias.chopro
+songs/StaggerLee.chopro
+songs/SugarMagnolia.chopro
+
