@@ -1,9 +1,9 @@
 songs/Arcadia.chopro
-songs/Bertha.chopro
 songs/BigRiver.chopro
 songs/DownByTheRiver.chopro
 songs/EverythingsRight.chopro
 songs/EyesOfTheWorld.chopro
+songs/FireOnTheMountain.chopro
 songs/GoodLovin.chopro
 songs/LovingCup.chopro
 songs/NoRaindrops.chopro
