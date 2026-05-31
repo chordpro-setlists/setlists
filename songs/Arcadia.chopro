@@ -1,9 +1,10 @@
 {t: Arcadia}
 {st: Goose}
-{key: C}
+{key: C#}
 {tempo: 90}
 {meta: vocals PJ}
 {meta: timing 10min}
+{define "C#9"}
 
 {start_of_textblock label="" flush="right" anchor="line" x="100%"}
 Key: %{key}
@@ -12,29 +13,29 @@ Vocals: %{vocals}
 {end_of_textblock}
 
 {sov: Prechorus}
-[C9]I stumble every time you do it, ain’t never gonna get used to it
+[C#9]I stumble every time you do it, ain’t never gonna get used to it
 Hanging on a garden rose, untamed, the way that my love grows.
 Oh lord I didn’t see it coming, arcadia’s got me running
 Just trying not to lose my breath, cause hell I’m gonna take that step
-And though my [Gm]pride has gone [F]way down the [Eb]line [F] I’m just [C9]fine
+And though my [G#m]pride has gone [F#]way down the [E]line [F#] I’m just [C#9]fine
 {eov}
 
 
 {sov: V1}
-[C9]If my luck is all that I have [Am]today [G]
-Well it’s no [F]wonder that you found me buried underneath my [Ab]weight [Bb]
-Well, [C9]wood stilts and little red pills may be [Ab]all that hold me up [F]
-But you pulled the blinds [Eb] in this room of mine [Ab]
-Just a little bit brighter since [Bb]you came
+[C#9]If my luck is all that I have [A#m]today [G#]
+Well it’s no [F#]wonder that you found me buried underneath my [A]weight [B]
+Well, [C#9]wood stilts and little red pills may be [A]all that hold me up [F#]
+But you pulled the blinds [E] in this room of mine [A]
+Just a little bit brighter since [B]you came
 {eov}
 
 {sov: Chorus}
-[C9]I stumble every time you do it, ain’t never gonna get used to it
+[C#9]I stumble every time you do it, ain’t never gonna get used to it
 Hanging on a garden rose, untamed, the way that my love grows
 Oh lord I didn’t see it coming, arcadia’s got me running
 Just trying not to lose my breath, cause hell I’m gonna take that step
-[Gm]Seep up [F]all the [Eb]light [Gm]from the [F]bottom of the [C]spine
-[Gm]Don’t fret, [F]don’t hang your [Eb]head cause [F]I’m just [C9]fine
+[G#m]Seep up [F#]all the [E]light [G#m]from the [F#]bottom of the [C#]spine
+[G#m]Don’t fret, [F#]don’t hang your [E]head cause [F#]I’m just [C#9]fine
 {eov}
 
 
@@ -52,10 +53,10 @@ Than I am, than I am going to be
 {eov}
 
 {sot: Jam}
-|: C9 /// :|
-|:  C9 /// | Ab /// | F /// | Eb /// | Ab ///  | Bb /// :|
+|: C#9 /// :|
+|:  C#9 /// | A /// | F# /// | E /// | A ///  | B /// :|
 {eot}
 
 {sov: Notes}
-3/19/19 (https://www.youtube.com/watch?v=zq0b6UhWsdc)
+2/14/19 (https://www.youtube.com/watch?v=lVnoQxq_BqQ)
 {eov}

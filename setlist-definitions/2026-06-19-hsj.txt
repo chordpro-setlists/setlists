@@ -1,16 +1,19 @@
-songs/Arcadia.chopro
+songs/SamsonAndDelilah.chopro
 songs/BigRiver.chopro
-songs/DownByTheRiver.chopro
-songs/EverythingsRight.chopro
+songs/Arcadia.chopro
+songs/StaggerLee.chopro
 songs/EyesOfTheWorld.chopro
+songs/NoRaindrops.chopro
+songs/PlayinInTheBand.chopro
+songs/SetBreak.chopro
+songs/EverythingsRight.chopro
+songs/DownByTheRiver.chopro
+songs/ScarletBegonias.chopro
 songs/FireOnTheMountain.chopro
 songs/GoodLovin.chopro
 songs/LovingCup.chopro
-songs/NoRaindrops.chopro
-songs/PlayinInTheBand.chopro
-songs/SamsonAndDelilah.chopro
+songs/Encore.chopro
 songs/Sand.chopro
-songs/ScarletBegonias.chopro
-songs/StaggerLee.chopro
+songs/WestLAFadeaway.chopro
 songs/SugarMagnolia.chopro
 
