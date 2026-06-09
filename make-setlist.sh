@@ -1,8 +1,8 @@
 #!/bin/bash
 
 
-SETLIST="phish"
-VERSIONNUM="4"
+SETLIST="all"
+VERSIONNUM="3"
 VERSIONSUFFIX="-V$VERSIONNUM"
 mkdir -p setlists/$SETLIST
 mkdir -p setlists/$SETLIST/songs

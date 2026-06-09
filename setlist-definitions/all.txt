@@ -109,7 +109,7 @@ songs/TheyLoveEachOther.chopro
 songs/ThrowingStones.chopro
 songs/ToreUpOverYou.chopro
 songs/Truckin.chopro
-songs/TurnOnYourLovelight.chopro
+songs/TurnOnYourLoveLight.chopro
 songs/TweezerReprise.chopro
 songs/USBlues.chopro
 songs/Waste.chopro
