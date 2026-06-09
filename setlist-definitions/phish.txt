@@ -3,6 +3,7 @@ songs/ALifeBeyondTheDream.chopro
 songs/AWaveOfHope.chopro
 songs/BackOnTheTrain.chopro
 songs/BackwardsDownTheNumberline.chopro
+songs/BillyBreathes.chopro
 songs/BlazeOn.chopro
 songs/BouncingRoundTheRoom.chopro
 songs/BrianAndRobert.chopro
@@ -28,6 +29,7 @@ songs/SayItToMeSantos.chopro
 songs/SetYourSoulFree.chopro
 songs/SoulPlanet.chopro
 songs/SquirmingCoil.chopro
+songs/StrangeDesign.chopro
 songs/TweezerReprise.chopro
 songs/Waste.chopro
 songs/Wingsuit.chopro
