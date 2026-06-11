@@ -10,6 +10,10 @@ Tempo: %{tempo}
 Vocals: %{vocals}
 {end_of_textblock}
 
+{sot: Intro}
+D-C-G Riff (4x)
+{eot}
+
 {sov: V1}
 [D]Some folks trust to reason others trust to might, [D] [A]
 [D]I don't trust to nothin', but I know it comes out right. [D] [A]
@@ -17,6 +21,10 @@ Vocals: %{vocals}
 [D]When it's done and over Lord, a man is just a man. [D] [A]
 [D]Playin', playin' in the band.   [D] [A] [D]Daybreak, daybreak on the land.
 {eov: V1}
+
+{sot: Interlude}
+D Riff (4x)
+{eot}
 
 {sov: V2}
 Some folks look for answers others look for fights,
@@ -27,8 +35,8 @@ Playin', playin' in the band. Daybreak, daybreak on the land.
 {eov}
 
 {sot: Break}
-|: A / E A | A E / A | A / E A | A / G D :|
-|  A / / / |   %     | Bm G D Gm |
+|: A / E A | A E / A | A / E A | A / G D :| (2x)
+|  A / / / / / / / / / | Bm G D Gm |
 {eot}
 
 {sov: V3}
@@ -37,21 +45,22 @@ You just keep a turnin' while I'm playing in the band.
 And if a man among you got no sin upon his hand
 Let him cast a stone at me for playing in the band.
 Playin', playin' in the band. Daybreak, daybreak on the land.
-Playin', like a wave upon the sand. Daybreak, while I'm playin' in the band
 {eov}
 
 {sot: Jam}
-Jam
+D Riff (4x)
+D-C-G Riff (4x)
+D Jam
 {eot}
 
 {sot: Reprise}
-Upper D Riff
-Lower D Riff
+D Riff
+D-C-G Riff
 A E Break -> Bm G D Gm
-Playin... Daybreak, Playin... DayBreak
-Playin... Wave, Playin... While I'm
+Playin, playin in the band, Daybreak, daybreak on the land
+Playin, like a wave upon the sand, Daybreak, while I'm playing in the band
 Short Jam using D-A Verse structure (4x)
-Intro Head D Part
+D Riff (4x) to close.
 {eot}
 
 {sot: Notes}
