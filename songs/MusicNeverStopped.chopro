@@ -19,14 +19,12 @@ Vocals: %{vocals}
 {end_of_textblock}
 
 {sov: V1}
-There's [E]mosquitoes on the [E7]river [A] [C], Fish are [E]rising up like [E7]birds [A] [C]
+There's [E]mosquitoes on the [E7]river, [A] [C] Fish are [E]rising up like [E7]birds [A] [C]
 It's been [E]hot for seven [E7]weeks now, [A]too hot to even [C]speak now,
 Did you [E]hear what I just heard?
 Say it might have been a fiddle, or it could have been the wind
 But there seems to be a beat now, I can feel it in my feet now, listen here it comes again!
 {eov}
-
-{c: E F# G G#}
 
 {sov: Bridge}
 [A]There's a band out on the [Ao7]highway, [Bo7]they're high steppin' [A]into town
@@ -66,6 +64,7 @@ The [<span color="red">D (6/8)</span>]music [<span color="red">E (6/8)</span>]ne
 {sot: Outro}
 6/8: |: B /// | A /// :| (Steve will cue exit)
 4/4: |: E / E7 / | A / C / :|
+>>> Sand
 {eot}
 
 
