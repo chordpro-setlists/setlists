@@ -2,6 +2,13 @@
 {st:Grateful Dead}
 {meta: vocals JM}
 {key: F}
+{tempo 80}
+
+{start_of_textblock label="" flush="right" anchor="line" x="100%"}
+Key: %{key}
+Tempo: %{tempo}
+Vocals: %{vocals}
+{end_of_textblock}
 
 {sov: V1(A)}
 [F]19[C]40, [Bb]Xmas [F]eve, with a [Bb]full moon over town

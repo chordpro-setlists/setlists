@@ -4,7 +4,7 @@
       "fields": [
         "songindex"
       ],
-      "label": "Charts for 2026-06-19-hsj (v 7)",
+      "label": "Charts for 2026-06-19-hsj (v 8)",
       "line": "%{songindex} <span>   </span> %{title}",
       "pageno": "%{vocals}<span>  </span>%{key}",
       "fold": false,
