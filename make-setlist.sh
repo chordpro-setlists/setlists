@@ -19,6 +19,9 @@ rm -f scripts/contents.json-e
 ## Set up the config file.
 cp -f scripts/config-template.json scripts/config.json
 sed -i -e "s/@TITLE@/$SETLIST/g" scripts/config.json
+if  ! [[ -z "${VERSIONNUM}" ]]; then
+  sed -i -e "s/@VERSION@/(v $VERSIONNUM)/g" scripts/config.json
+fi
 rm -f scripts/config.json-e
 
 
