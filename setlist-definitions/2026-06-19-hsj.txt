@@ -20,4 +20,5 @@ songs/EverythingsRight.chopro
 songs/Encore.chopro
 songs/SugarMagnolia.chopro
 songs/CrazyFingers.chopro
+songs/JamMoves.chopro
 
