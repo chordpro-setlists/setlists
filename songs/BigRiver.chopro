@@ -11,6 +11,9 @@ Tempo: %{tempo}
 Vocals: %{vocals}
 {end_of_textblock}
 
+{sot: Intro}
+Vamp in A until vox start
+{eot}
 
 {sov: Chorus}
 Well I [A]taught that weeping willow how to cry cry cry,
@@ -64,12 +67,13 @@ She loves you big river more than me.
 JM
 {eot}
 
-{sov: Chorus}
-<i> </i>
-{eov}
-
-{sov: Tag}
-I'm gonna sit right here until I die.
+{sov: Outro}
+Well I taught that weeping willow how to cry cry cry,
+Taught the clouds how to cover up a clear blue sky.
+Tears I cried for that woman are gonna flood you big river,
+And I'm a gonna sit right here until I die,
+I'm a gonna sit right here until I die,
+I'm a gonna sit right here until I die.
 {eov}
 
 

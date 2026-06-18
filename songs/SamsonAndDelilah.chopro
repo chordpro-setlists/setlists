@@ -10,6 +10,10 @@ Tempo: %{tempo}
 Vocals: %{vocals}
 {end_of_textblock}
 
+{sot: Intro}
+Drums > KH queues full band vamp
+{eot}
+
 {sov}
 [G]If I had my way,[C] I would tear this old building [G]down.
 {eov}
@@ -29,9 +33,7 @@ And my strength will become as natural as any old man.
 {eov}
 
 {sov: Chorus}
-[G]If I [C]had my [G]way,
-[G]if I had my [D]way, [G]
-[G]if I had my way, [C]
+[G]If I had my way, [G]if I [C]had my [G]way, [G]if I had my way, [F][C]
 [G]I would tear this old building down.
 {eov}
 
@@ -61,8 +63,12 @@ The bees made honey in the lion's head.
 <i> </i>
 {eov}
 
-{sot: Ending}
-Chorus > Lead > Drums  > Chorus > "I will tear.." > Drum > Chorus
+{sov: Lead}
+<i> </i>
+{eov}
+
+{sot: Outro}
+Chorus (2x)> Drums> Chorus> "I will tear.."> Drums> Chorus (tight end)
 {eot}
 
 {sot: Notes}
