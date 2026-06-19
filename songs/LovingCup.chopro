@@ -2,9 +2,9 @@
 {st: Rolling Stones}
 {key: D}
 {tempo: 90}
-{textsize: 11}
-{tabsize: 11}
 {meta: vocals MV}
+{textsize: 10}
+{tabsize: 10}
 
 {start_of_textblock label="" flush="right" anchor="line" x="100%"}
 Key: %{key}
@@ -21,6 +21,9 @@ Piano Only: |: G C | G C :|
 {start_of_textblock label="" textcolor="red" height="12" anchor="paper" x="7" y="269"}
 Bass/Drums
 {end_of_textblock}
+
+{textsize: 10}
+{tabsize: 10}
 
 {sov: V1}
 [D]I'm the man on the [C]mountain, come on [G]up
@@ -67,6 +70,9 @@ Jam in G.
 [D]Oh, what a beautiful [C]buzz, what a beautiful [G]buzz (x3)
 {textcolor: red}
 Final time: "Oh, what a beautiful... | F F C |"
+{textcolor}
+{textcolor: blue}
+>>> Stagger Lee (JM starts)
 {textcolor}
 {eov}
 
