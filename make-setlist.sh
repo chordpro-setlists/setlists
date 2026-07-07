@@ -1,8 +1,8 @@
 #!/bin/bash
 
 
-SETLIST="2026-06-19-hsj"
-VERSIONNUM="9"
+SETLIST="2026-08-14-hsj"
+VERSIONNUM="1"
 VERSIONSUFFIX="-V$VERSIONNUM"
 mkdir -p setlists/$SETLIST
 mkdir -p setlists/$SETLIST/songs

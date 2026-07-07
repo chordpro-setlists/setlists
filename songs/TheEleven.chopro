@@ -1,0 +1,35 @@
+{t:The Eleven}
+{key: B}
+{tempo: 65}
+{meta: vocals ??}
+{meta: timing 10min}
+
+{start_of_textblock label="" flush="right" anchor="line" x="100%"}
+Key: %{key}
+Tempo: %{tempo}
+Vocals: %{vocals}
+{end_of_textblock}
+
+{sot: Form}
+||: A / / | D / / | E / / | D / :||
+{eot}
+
+{sov: V1}
+No more time to tell how, this is the season of what,
+(Eight sided whispering hallelujah hatrack)
+Now is the time of returning, jewels polished and gleaming.
+(Six proud walkers on the jingle bell rainbow)
+Now is the time past believing the child has relinquished the rein,
+(Five men writing with fingers of gold)
+Now is the test of the boomerang
+(Four men tracking down the great white sperm whale)
+Tossed in the night of redeeming
+Sink beneath the waters to the coral sands below.
+{eov}
+
+
+{sov: Notes}
+8/23/68: https://www.youtube.com/watch?v=J5McdXcZKbw
+1969: https://www.youtube.com/watch?v=c_WpX9s2_rQ
+{eov}
+

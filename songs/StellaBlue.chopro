@@ -1,0 +1,50 @@
+{t: Stella Blue}
+{st: Grateful Dead}
+{key: E}
+{tempo: 100}
+{meta: vocals ??}
+{meta: timing 10min}
+
+{start_of_textblock label="" flush="right" anchor="line" x="100%"}
+Key: %{key}
+Tempo: %{tempo}
+Vocals: %{vocals}
+{end_of_textblock}
+
+{sov: V1}
+[E]All the years [Emaj7]combine, [Asus4]they melt into a [A]dream
+[Em]A broken angel [C7]sings from a [B7]guitar
+[E]In the end there's just a [Emaj7]song comes [Asus4]crying like the [A]wind
+[Em]Through all the broken [C7]dreams and vanished [B7]years
+Stella [E]Blue, [A] Stella [E]Blue
+{eov}
+
+{sov: V2}
+When all the cards are down, there's nothing left to see
+There's just the pavement left and broken dreams
+In the end there's still that song comes crying like the wind
+Down every lonely street that's ever been
+Stella Blue
+{eov}
+
+{sov: Chorus}
+[B]I've stayed in every blue-light [E]cheap hotel [A] [E] can't win for trying
+[B]Dust off those rusty strings just [E]one [A]more [E]time
+[E]Gonna make em [B]shine (shine)
+{eov}
+
+{sot: Bridge}
+Through verse chords
+{eot}
+
+{sov: V3}
+It all rolls into one and nothing comes for free
+There's nothing you can hold for very long
+And when you hear that song come crying like the wind
+It seems like all this life was just a dream
+Stella Blue
+{eov}
+
+{sot: Notes}
+10/31/80 (https://www.youtube.com/watch?v=nFMP_a96Wu4)
+{eot}
