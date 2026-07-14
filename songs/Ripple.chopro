@@ -10,6 +10,13 @@ Tempo: %{tempo}
 Vocals: %{vocals}
 {end_of_textblock}
 
+{sot: Vox}
+MV: V1 & V2
+JM: V3 & V4
+PJ: Chorus & V5
+All: V6
+{eot}
+
 {sov: V1}
 [G]If my words did glow with the gold of [C]sunshine,
 and my tunes were played on the harp un[G]strung?

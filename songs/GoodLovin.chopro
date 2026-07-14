@@ -1,8 +1,8 @@
-{t:Good Lovin'}
+{t:Good Lovin' (La Bamba)}
 {st:The Rascals}
 {key: C}
 {tempo: 180}
-{meta: vocals JM}
+{meta: vocals JM (PJ)}
 {meta: timing 10min}
 
 {start_of_textblock label="" flush="right" anchor="line" x="100%"}
@@ -40,29 +40,48 @@ All you need, all you really need: Good lovin'
 <i> </i>
 {eov}
 
-{sot: Jam}
-Guitar Solo 2x verse and chorus
+{sot: Lead}
+Over verse chords
 {eot}
 
 {sov: V1}
-Repeat V1
+Repeat V1 and Chorus
+{eov}
+
+{sot: Segue}
+Play the La Bamba opening riff
+{eot}
+
+{sov: V1}
+Para bailar la bamba
+Para bailar la bamba se necesita una poca de gracia
+Una poca de gracia pa' mí pa' ti, y arriba y arriba
+Ay, arriba y arriba, por ti seré, por ti seré, por ti seré
+Yo no soy marinero
+Yo no soy marinero, soy capitán
+Soy capitán, soy capitán
 {eov}
 
 {sov: Chorus}
-<i> </i>
+Bamba, bamba
+Bamba, bamba
+Bamba, bamba
+Bamba
 {eov}
 
-{sov: Vocal Jam}
-Gimme, gimme, gimme some lovin'
-Hey, now you got to have lovin'
-You need it, I need it, got to have lovin'
-Say it again now, good lovin'.
-
-Turn on your light, you won't regret it
-You got to go for the good and get it
-Everybody, they got to have lovin'
-Hey, now you got to have lovin'.
+{sov: V2}
+Para bailar la bamba
+Para bailar la bamba se necesita una poca de gracia
+Una poca de gracia pa' mí pa' ti, ay, y arriba y arriba
 {eov}
+
+{sot: Jam}
+Eventually get back to Good Lovin head
+{eot}
+
+{sot: V1}
+Repeat V1 and Chorus
+{eot}
 
 {sot: Outro}
 | C F G / | F G F / | (2x)
@@ -71,4 +90,6 @@ Hey, now you got to have lovin'.
 
 {sov: Notes}
 10/31/80 (https://www.youtube.com/watch?v=Ymvcv7E9SHo)
+Los Lobos La Bamba (https://www.youtube.com/watch?v=nLAWPrCUQQ0)
+9/18/87 (https://www.youtube.com/watch?v=v6FaOqv22Ds)
 {eov}
