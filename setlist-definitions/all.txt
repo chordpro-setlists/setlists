@@ -82,6 +82,7 @@ songs/NotFadeAway.chopro
 songs/OldAndInTheWay.chopro
 songs/OneMoreSaturdayNight.chopro
 songs/OnlyHomeIveEverKnown.chopro
+songs/PapaWasARollingStone.chopro
 songs/PanamaRed.chopro
 songs/PeggyO.chopro
 songs/PlayinInTheBand.chopro
@@ -101,6 +102,7 @@ songs/Shelter.chopro
 songs/SoReady.chopro
 songs/SoulPlanet.chopro
 songs/SquirmingCoil.chopro
+songs/StStephen.chopro
 songs/Sugaree.chopro
 songs/SugarMagnolia.chopro
 songs/SunshineDaydream.chopro
@@ -111,6 +113,7 @@ songs/ToreUpOverYou.chopro
 songs/Truckin.chopro
 songs/TurnOnYourLoveLight.chopro
 songs/TweezerReprise.chopro
+songs/UncleJohnsBand.chopro
 songs/USBlues.chopro
 songs/Waste.chopro
 songs/WestLAFadeaway.chopro
