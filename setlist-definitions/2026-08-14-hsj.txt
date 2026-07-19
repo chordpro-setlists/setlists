@@ -20,4 +20,5 @@ songs/GDTRFB.chopro
 songs/UncleJohnsBand.chopro
 songs/Encore.chopro
 songs/SugarMagnolia.chopro
+songs/JamMoves.chopro
 
