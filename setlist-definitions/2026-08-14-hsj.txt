@@ -1,8 +1,8 @@
 songs/HowSweetItIs.chopro
 songs/JackStraw.chopro
-songs/BrownEyedWomen.chopro
-songs/MississippiHalfStep.chopro
 songs/DontLetGo.chopro
+songs/MississippiHalfStep.chopro
+songs/BrownEyedWomen.chopro
 songs/StStephen.chopro
 songs/TheEleven.chopro
 songs/StellaBlue.chopro

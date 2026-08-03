@@ -11,6 +11,8 @@ Tempo: %{tempo}
 Vocals: %{vocals}
 {end_of_textblock}
 
+{textsize: 10}
+
 {sot: Intro}
 ||: G / Bm / | C / D / :||
 {eot}
@@ -79,7 +81,9 @@ La la la lala, La la la lala, La la la lala, La la la lala,
 {eov}
 
 
-{sov: Notes}
-7/24/87 (https://www.youtube.com/watch?v=vvxtly3o3OI)
-10/19/74 https://www.youtube.com/watch?v=PqB-2HcFCvs
-{eov}
+#{sov: Notes}
+#7/24/87 (https://www.youtube.com/watch?v=vvxtly3o3OI)
+#10/19/74 https://www.youtube.com/watch?v=PqB-2HcFCvs
+#{eov}
+
+{textsize}

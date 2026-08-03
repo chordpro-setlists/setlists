@@ -27,13 +27,10 @@ Vocals: %{vocals}
 [Am]I'm on my way, [E]on my way.
 {eov}
 
-{sot: Interlude <span>   </span>}
-Am / /  D9  | F Dm B7 E7
-Am / /  D9  | F Am D7 G7
-{eot}
-
 {sot: Lead}
 MV Lead
+Am / /  D9  | F Dm B7 E7
+Am / /  D9  | F Am D7 G7
 {eot}
 
 
@@ -56,7 +53,9 @@ What's the point of callin' shots; this cue ain't straight in line.
 Cue ball's made of styrofoam and no one's got the time.
 {eov}
 <i>(Chorus)</i>
-<i>Transition to A-G-D chord progression</i>
+{textcolor: blue}
+Transition to A-G-D chord progression
+{textcolor}
 
 {sot: Lead}
 JM start > whisper quiet
@@ -71,6 +70,5 @@ JM to end
 {eot}
 
 {sot: Notes}
-Vocals: Justin
 9/3/77 (https://www.youtube.com/watch?v=R6S2Jq2M7b8)
 {eot}
