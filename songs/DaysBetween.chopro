@@ -10,6 +10,10 @@ Tempo: %{tempo}
 Vocals: %{vocals}
 {end_of_textblock}
 
+{sot: Notes}
+"Swell" during the F/Gm and C/Gm lines, quiet otherwise.
+{eot}
+
 {sov: V1}
 [G]There were days and there were days [Gm]and there were days [Eb]between
 [Dm]Summer flies and [Eb]August dies [Bb]the world grows dark and [F]mean

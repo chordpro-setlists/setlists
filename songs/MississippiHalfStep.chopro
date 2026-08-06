@@ -58,7 +58,7 @@ Transition to A-G-D chord progression
 {textcolor}
 
 {sot: Lead}
-JM start > whisper quiet
+JM start
 {eot}
 
 {sov: Bridge}
@@ -66,7 +66,8 @@ JM start > whisper quiet
 {eov}
 
 {sot: Outro}
-JM to end
+Jam over bridge chords
+Bridge vocals acapella to end.
 {eot}
 
 {sot: Notes}
