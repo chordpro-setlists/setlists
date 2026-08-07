@@ -9,8 +9,8 @@ songs/StellaBlue.chopro
 songs/FranklinsTower.chopro
 songs/GoodLovin.chopro
 songs/SetBreak.chopro
-songs/ShakedownStreet.chopro
 songs/Deal.chopro
+songs/ShakedownStreet.chopro
 songs/MidnightMoonlight.chopro
 songs/PlayinInTheBand.chopro
 songs/UncleJohnsBand.chopro
