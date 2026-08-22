@@ -1,0 +1,49 @@
+{t: So What}
+{st: Miles Davis}
+{key: Dm}
+{tempo: 136}
+
+{sot: Head A}
+| Dm7         | Dm7         | Dm7         | Dm7         |
+| Dm7         | Dm7         | Dm7         | Dm7         |
+| Dm7         | Dm7         | Dm7         | Dm7         |
+| Dm7         | Dm7         | Dm7         | Dm7         |
+{eot}
+
+{sot: Head B}
+| Ebm7        | Ebm7        | Ebm7        | Ebm7        |
+| Ebm7        | Ebm7        | Ebm7        | Ebm7        |
+{eot}
+
+{sot: Head C}
+| Dm7         | Dm7         | Dm7         | Dm7         |
+| Dm7         | Dm7         | Dm7         | Dm7         |
+{eot}
+
+{sot: Solo}
+| Dm7         | Dm7         | Dm7         | Dm7         |
+| Dm7         | Dm7         | Dm7         | Dm7         |
+| Dm7         | Dm7         | Dm7         | Dm7         |
+| Dm7         | Dm7         | Dm7         | Dm7         |
+| Ebm7        | Ebm7        | Ebm7        | Ebm7        |
+| Ebm7        | Ebm7        | Ebm7        | Ebm7        |
+| Dm7         | Dm7         | Dm7         | Dm7         |
+| Dm7         | Dm7         | Dm7         | Dm7         |
+{eot}
+
+{sov: Notes}
+Modal Jazz Benchmark: The opening track of 1959's 'Kind of Blue', establishing
+modal jazz frameworks based on entire scale modes rather than complex chord changes.
+
+Form: 32-bar AABA structure (16 bars Dm7, 8 bars Ebm7, 8 bars Dm7).
+
+"So What" Chords: Bill Evans' famous "So What" chord voicings consist of three
+fourth intervals topped by a major third.
+- For Dm7: Em7 (x7778x) resolving down to Dm7 (x5556x) or Em11 to Dm11.
+- For Ebm7: Shift the exact same visual shape up one half-step (Fm7 to Ebm7).
+
+Call and Response Theme: Paul Chambers' upright bass plays the lead "call" line,
+answered by the sharp two-chord piano/horn stab on the "So What" response.
+
+Improvisation: D Dorian over the A sections; Eb Dorian over the B section.
+{eov}
