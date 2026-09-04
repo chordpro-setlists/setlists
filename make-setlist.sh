@@ -1,7 +1,7 @@
 #!/bin/bash
 
 
-SETLIST="new-salts"
+SETLIST="2026-09-25-hsj"
 VERSIONNUM="1"
 VERSIONSUFFIX="-V$VERSIONNUM"
 mkdir -p setlists/$SETLIST
