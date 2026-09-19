@@ -11,7 +11,7 @@ Vocals: %{vocals}
 {end_of_textblock}
 
 {sot: Intro}
-Drums > KH queues full band vamp
+Drums (8 measures) > full band vamp
 {eot}
 
 {sov}
@@ -47,6 +47,10 @@ When he got to moving, ten thousand was dead.
 {eov}
 
 {sov: Chorus}
+<i> </i>
+{eov}
+
+{sov: Lead}
 <i> </i>
 {eov}
 

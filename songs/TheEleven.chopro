@@ -10,9 +10,15 @@ Tempo: %{tempo}
 Vocals: %{vocals}
 {end_of_textblock}
 
+
+{sot: Segue}
+From St. Stephen, SH does 12/8 -> 6/8 -> 11/8
+{eot}
+
 {sot: Form}
 ||: A / / | D / / | E / / | D / :||
 {eot}
+
 
 {sov: V1}
 No more time to tell how, this is the season of what,
@@ -26,6 +32,11 @@ Now is the test of the boomerang
 Tossed in the night of redeeming
 (Sink beneath the waters to the coral sands below.)
 {eov}
+
+{sot: Outro}
+SH does drum fill to end.
+{eot}
+
 
 
 {sov: Notes}

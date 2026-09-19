@@ -61,6 +61,10 @@ Transition to A-G-D chord progression
 JM start
 {eot}
 
+{sot: Vocals}
+JM -> JM+PJ -> JM+PJ+MV
+{eot}
+
 {sov: Bridge}
 [A]Across the Rio [D]Grande, across the lazy [A]river.
 {eov}
