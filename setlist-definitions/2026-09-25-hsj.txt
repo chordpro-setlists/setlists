@@ -5,8 +5,8 @@ songs/DontLetGo.chopro
 songs/MississippiHalfStep.chopro
 songs/StStephen.chopro
 songs/TheEleven.chopro
-songs/StellaBlue.chopro
 songs/FranklinsTower.chopro
+songs/StellaBlue.chopro
 songs/SugarMagnolia.chopro
 songs/SetBreak.chopro
 songs/ColdRainAndSnow.chopro
