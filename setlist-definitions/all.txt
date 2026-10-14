@@ -108,6 +108,7 @@ songs/Sugaree.chopro
 songs/SugarMagnolia.chopro
 songs/SunshineDaydream.chopro
 songs/TheHoboSong.chopro
+songs/TheTracksOfMyTears.chopro
 songs/TheyLoveEachOther.chopro
 songs/ThrowingStones.chopro
 songs/ToreUpOverYou.chopro
@@ -116,6 +117,7 @@ songs/TurnOnYourLoveLight.chopro
 songs/TweezerReprise.chopro
 songs/UncleJohnsBand.chopro
 songs/USBlues.chopro
+songs/WahineIlikea.chopro
 songs/Waste.chopro
 songs/WestLAFadeaway.chopro
 songs/WildHorses.chopro

@@ -1,0 +1,66 @@
+{t: The Tracks of My Tears}
+{st: Smokey Robinson}
+{key: C}
+{tempo: 100}
+{meta: vocals }
+{meta: timing 10min}
+
+{start_of_textblock label="" flush="right" anchor="line" x="100%"}
+Key: %{key}
+Tempo: %{tempo}
+Vocals: %{vocals}
+{end_of_textblock}
+
+{sot: Form}
+C/F/G
+{eot}
+
+{sov: V1}
+People say I'm the life of the party
+'Cause I tell a joke or two
+Although I might be laughing loud and hearty
+Deep inside I'm blue
+{eov}
+
+{sov: Chorus}
+So take a good look at my face
+You'll see my smile looks out of place
+If you look closer, it's easy to trace
+The tracks of my tears
+I need you (need you), need you (need you)
+{eov}
+
+{sov: V2}
+Since you left me if you see me with another girl
+Seeming like I'm having fun
+Although she may be cute
+She's just a substitute
+Because you're the permanent one
+{eov}
+
+{sov: Chorus}
+So take a good look at my face
+Oh, you'll see my smile looks out of place
+If you look a little bit closer, it's easy to trace
+Oh, the tracks of my tears
+Oh, I need you (need you), need you (need you)
+{eov}
+
+{sov: Bridge}
+Hey yeah, outside I'm masquerading
+Inside my hope is fading
+Just a clown oh yeah
+Since you put me down
+My smile is my make up
+I wear since my break up with you
+{eov}
+
+{sov: Chorus}
+Baby, take a good look at my face
+Oh, you'll see my smile looks out of place
+Yeah, just look closer, it's easy to trace
+The tracks of my tears, baby baby, baby, baby, baby, baby
+Baby, take a good look at my face
+Yeah, you'll see my smile looks out of place
+Ooh, look a little bit closer, it's easy to trace
+{eov}

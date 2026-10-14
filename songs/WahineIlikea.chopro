@@ -1,0 +1,59 @@
+{t: Wahine Ilikea}
+{st: Dennis Kamakahi}
+{key: D}
+{tempo: 90}
+{meta: vocals PJ}
+{meta: timing 10min}
+
+{start_of_textblock label="" flush="right" anchor="line" x="100%"}
+Key: %{key}
+Tempo: %{tempo}
+Vocals: %{vocals}
+{end_of_textblock}
+
+
+{sov: Chorus}
+[D]Pu[G]a kalau[D]nu [G]ma ke [D]kai
+[G]'O Honouli [D]Wai [G]
+[D]Wahine 'ili[G]kea i ka [D]poli 'o Molo[G]ka'i
+No ka [D]heke [G] [D] [D7]
+{eov}
+
+{sov: V1}
+[G]Nani wale no na wailele 'uka
+[D]O Hina 'o Haha 'o Mo'oloa [D7]
+[G]Na wai 'ekolu i ka uluwehiwehi
+[D]'O Kamalo i ka ma[A]lie
+{eov}
+
+{sov: Chorus}
+<i> </i>
+{eov}
+
+{sov: V2}
+Nani wale no ka 'aina Halawa
+Home ho'okipa a ka malihini
+'Aina uluwehi i ka noe ahiahi
+Ua lawe mai ka makani Ho'olua
+{eov}
+
+{sot: English}
+Crown flower by the shore
+Of Honouli Wai
+Fair skinned woman in the bosom of Moloka'i
+Is the best
+
+Beautiful waterfalls of the upland
+Hina, Haha and Mo'oloa
+The three waters in the verdant overgrowth
+Of Kamalo, in the calm
+
+Beautiful is the land, Halawa
+Hospitable home to the visitors
+Land verdant, in the evening mist
+Brought by the wind of Ho'olua
+{eot}
+
+{sov: Notes}
+Hawaiian Style Band (https://www.youtube.com/watch?v=S1GL3wqW19k)
+{eov}
