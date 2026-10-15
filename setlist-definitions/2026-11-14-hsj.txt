@@ -1,7 +1,7 @@
 songs/Bertha.chopro
 songs/MrCharlie.chopro
 songs/RambleOnRose.chopro
-songs/SweetDreamsMelinda.chopro
+songs/ShakedownStreet.chopro
 songs/Cassidy.chopro
 songs/CaseyJones.chopro
 songs/BackOnTheTrain.chopro
@@ -12,12 +12,12 @@ songs/SetBreak.chopro
 songs/EyesOfTheWorld.chopro
 songs/NoRaindrops.chopro
 songs/WolfmansBrother.chopro
-songs/ThrowingStones.chopro
+songs/MusicNeverStopped.chopro
 songs/ChinaCatSunflower.chopro
 songs/WahineIlikea.chopro
 songs/IKnowYouRider.chopro
 songs/Encore.chopro
-songs/AfterMidnight.chopro
+songs/Arcadia.chopro
 songs/LovingCup.chopro
 songs/JamMoves.chopro
 
