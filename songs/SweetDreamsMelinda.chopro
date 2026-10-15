@@ -1,0 +1,61 @@
+{t: Sweet Dreams Melinda}
+{st: Phish}
+{key: A}
+{tempo: 100}
+{meta: vocals MV}
+{meta: timing 10min}
+
+{define "Bm/A"}
+{define "Bm/Ab"}
+{define "F#m/E"}
+{define "F#m/Eb"}
+
+{start_of_textblock label="" flush="right" anchor="line" x="100%"}
+Key: %{key}
+Tempo: %{tempo}
+Vocals: %{vocals}
+{end_of_textblock}
+
+{sov: V1}
+[A]Roses float across the [G]water [D]
+[A]And the ice is slowly melting next to [G]you [D]
+[A]In our hideout down by the [G]boathouse, [D]  [A]lonely days are [G]through [D]
+[F#m]'Cause when you walked into that [B]room
+I've never seen two eyes so [E]blue
+{eov}
+
+{sov: Chorus}
+[A]Sweet dreams [G]Melinda, [D] [A]the summer days we [G]knew [D]
+[A]Laughing down by the [G]water, [D] [A]sweet dreams to [G]you [D]
+(repeat intro)
+{eov}
+
+{sov: V2}
+Went from Charlotte all the way to Savannah
+Laughing, your feet up on the dash
+Stumbled through the yellow lights of Toledo
+And the rain was falling fast
+Flew from Boston down to Tulsa, Oklahoma
+In a dream above the clouds, In a dream above the clouds
+{eov}
+
+{sov: Chorus}
+Sweet dreams Melinda,    when summer days are through
+I'll think of you on those long lonely nights, sweet dreams to you
+{eov}
+
+{sov: Break}
+[Bm]And [Bm/A]time after [Bm/Ab]time,
+I go [F#m]back [F#m/E] to that [F#m/Eb]morning
+[Bm]And the [Bm/A]water's so [G]fine, [D]sweet dreams Melinda
+{eov}
+
+{sov: Lead}
+Over verse chords
+{eov}
+
+{sov: Chorus}
+Sweet dreams Melinda,
+The summer days we knew, laughing down by the water
+Sweet dreams to you
+{eov}

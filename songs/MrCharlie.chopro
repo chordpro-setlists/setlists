@@ -1,0 +1,65 @@
+{t: Mr. Charlie}
+{st: Grateful Dead}
+{key: A}
+{tempo: 100}
+{meta: vocals MV}
+{meta: timing 10min}
+
+{start_of_textblock label="" flush="right" anchor="line" x="100%"}
+Key: %{key}
+Tempo: %{tempo}
+Vocals: %{vocals}
+{end_of_textblock}
+
+{sov: V1}
+[A7]I take a little powder, take a little salt,
+[A7]Put it in my shotgun, I go walkin' out
+joo-ba [D7]joo-ba, Wolly Bully, looking [A7]high, looking low,
+Gonna [E7]scare you up and shoot ya, [A7]Mister Charlie told me so.
+{eov}
+
+{sov: V2}
+I won't even take your life, won't even take a limb,
+Just unload my shotgun, and take a little skin.
+joo-ba joo-ba, Wolly Bully, looking high, looking low,
+Gonna scare you up and shoot ya, Mister Charlie told me so.
+{eov}
+
+{sov: Bridge}
+[C]Well [C#]you [D]take a silver dollar,
+[C][C#][D] Take a silver dime,
+[C][C#][D] Mix it up together
+With some [E]alligator wine. [E7]
+{eov}
+
+{sov: V3}
+I can hear the drums, voodoo all night long,
+Mister Charlie tellin' me I can't do nothing wrong.
+joo-ba joo-ba, Wolly Bully, looking high, looking low,
+Gonna scare you up and shoot ya, Mister Charlie told me so.
+{eov}
+
+{sov: Lead}
+<i> </i>
+{eov}
+
+{sov: Break}
+<i> </i>
+{eov}
+
+{sov: V4}
+Now Mister Charlie told me, thought you'd like to know,
+Just a little warning just before you go.
+joo-ba joo-ba, Wolly Bully, looking high, looking low,
+{eov}
+
+{sov: Outro}
+Gonna scare you up and shoot ya,
+Mister Charlie told me,
+Mister Charlie told me,
+Mister Charlie told me so.
+{eov}
+
+{sov: Notes}
+Europe '72 (https://www.youtube.com/watch?v=MVgJ6BaZsr4)
+{eov}

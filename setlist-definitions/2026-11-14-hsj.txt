@@ -1,17 +1,24 @@
-songs/Cassidy.chopro
 songs/Bertha.chopro
-songs/LovingCup.chopro
-songs/BackOnTheTrain.chopro
+songs/MrCharlie.chopro
 songs/RambleOnRose.chopro
-songs/AfterMidnight.chopro
-songs/ApocalypseBabe.chopro
+songs/SweetDreamsMelinda.chopro
+songs/Cassidy.chopro
 songs/CaseyJones.chopro
+songs/BackOnTheTrain.chopro
 songs/Evangeline.chopro
-songs/EyesOfTheWorld.chopro
+songs/ApocalypseBabe.chopro
 songs/LonesomeAndALongWayFromHome.chopro
+songs/SetBreak.chopro
+songs/EyesOfTheWorld.chopro
 songs/NoRaindrops.chopro
 songs/WolfmansBrother.chopro
-songs/MrCharlie.chopro
 songs/ThrowingStones.chopro
+songs/ChinaCatSunflower.chopro
+songs/WahineIlikea.chopro
+songs/IKnowYouRider.chopro
+songs/Encore.chopro
+songs/AfterMidnight.chopro
+songs/LovingCup.chopro
+songs/JamMoves.chopro
 
 
