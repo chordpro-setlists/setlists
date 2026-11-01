@@ -13,11 +13,11 @@ songs/EyesOfTheWorld.chopro
 songs/NoRaindrops.chopro
 songs/WolfmansBrother.chopro
 songs/MusicNeverStopped.chopro
+songs/Arcadia.chopro
 songs/ChinaCatSunflower.chopro
 songs/WahineIlikea.chopro
 songs/IKnowYouRider.chopro
 songs/Encore.chopro
-songs/Arcadia.chopro
 songs/LovingCup.chopro
 songs/JamMoves.chopro
 
