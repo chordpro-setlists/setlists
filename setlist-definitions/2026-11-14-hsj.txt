@@ -19,6 +19,7 @@ songs/WahineIlikea.chopro
 songs/IKnowYouRider.chopro
 songs/Encore.chopro
 songs/LovingCup.chopro
+songs/DearMrFantasy.chopro
 songs/JamMoves.chopro
 
 

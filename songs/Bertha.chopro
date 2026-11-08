@@ -14,8 +14,6 @@ Tempo: %{tempo}
 Vocals: %{vocals}
 {end_of_textblock}
 
-
-
 {sov: V1}
 [G]I had a [C]hard run, running from your [G]window.
 I was all night [C]running, Lord I wonder if you [G]care,
@@ -53,6 +51,12 @@ Throw me in the jailhouse[HIT ON BEAT 4 twice] until the sun goes down.
 
 {sov: Outro}
 Chorus: ... Anymore X 10
+{eov}
+
+{sov: Segue}
+{textcolor: red}
+>>> Mr. Charlie
+{textcolor}
 {eov}
 
 {sov: Notes}
