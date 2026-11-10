@@ -9,6 +9,7 @@ songs/Evangeline.chopro
 songs/ApocalypseBabe.chopro
 songs/LonesomeAndALongWayFromHome.chopro
 songs/SetBreak.chopro
+songs/ScarletBegonias.chopro
 songs/EyesOfTheWorld.chopro
 songs/NoRaindrops.chopro
 songs/WolfmansBrother.chopro
