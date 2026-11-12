@@ -2,9 +2,9 @@ songs/Bertha.chopro
 songs/MrCharlie.chopro
 songs/RambleOnRose.chopro
 songs/ShakedownStreet.chopro
-songs/Cassidy.chopro
-songs/CaseyJones.chopro
 songs/BackOnTheTrain.chopro
+songs/CaseyJones.chopro
+songs/Cassidy.chopro
 songs/Evangeline.chopro
 songs/ApocalypseBabe.chopro
 songs/LonesomeAndALongWayFromHome.chopro
